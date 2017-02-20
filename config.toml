@@ -1,0 +1,94 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "The R-Podcast"
+theme = "castanet"
+googleAnalytics = "UA-123-45"
+disqusShortname = "arresteddevops"
+#themesdir = "themes"
+themesdir = "/home/eric/hugo_testing"
+
+
+[permalinks]
+	# page = "/:filename/"
+	about = "/:filename/"
+	contact = "/:filename/"
+	episode = "/:filename/"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+# The theme supports menus with up to one submenu per menu item
+# The menu name must be "Main"
+# SectionPagesMenu = "Main"
+# About section of menu
+[[Menu.Main]]
+    name = "About"
+    identifier = "about"
+    url = "/about"
+
+[[Menu.Main]]
+    name = "Contact"
+    identifier = "contact"
+    url = "/contact"
+
+[[Menu.Main]]
+    name = "Resources"
+    identifier = "resources"
+    url = "#!"
+
+[[Menu.Main]]
+    name = "Books"
+    identifier = "books"
+    url = "/books"
+    parent = "resources"
+
+[params]
+site_theme = "blue"
+# about_logo = "/img/hugocast.png"
+copyright_notice = "Copyright 2017 Eric Nantz"
+soundcloud_subscribe = "http://feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
+itunes_subscribe = "https://itunes.apple.com/us/podcast/the-r-podcast/id1140581792"
+pocketcasts_subscribe = "http://pcasts.in/feed/feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
+#android_subscribe = "http://subscribeonandroid.com/feeds.podtrac.com/VGAulpN7MY1U"
+#google_play_subscribe = "https://goo.gl/app/playmusic?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Ihj4yege3lfmp3vs5yoopgxijpi?t%3DArrested_DevOps"
+#mailchimp_subscribe = "//arresteddevops.us3.list-manage.com/subscribe/post?u=5e4cbcac996bb9df25f970a89&amp;id=154fa76bcc"
+#rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
+description = "Giving practical advice on how to use R for powerful and innovative data analyses."
+#media_prefix = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/"
+media_prefix = "https://archive.org/download/"
+  [params.feed]
+    feed_copyright = "Copyright 2017 Eric Nantz" #do not use markdown in this field; it is used in the feed
+    itunes_subtitle = "" #no markdown or HTML
+    itunes_author = "Eric Nantz" #no markdown or HTML
+    itunes_summary = "The R-Podcast is a podcast for both new and experienced R users who want to learn more about using R to conduct innovative data analyses." # Limited to 4000 characters or less, plain text, no HTML
+    itunes_owner_name = "Eric Nantz"
+    itunes_owner_email = "theRcast@gmail.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on iTunes. It will not be publicly displayed on iTunes.
+    itunes_image = "https://www.arresteddevops.com/img/ado-podcast-logo.png" #fqdn to the image art for your podcast
+    itunes_top_category = "Technology"
+    itunes_first_sub_category = "Software How-To"
+    itunes_second_sub_category = "Tech News"
+
+  [params.social]
+    github = "thercast"
+    #facebook = "Arresteddevops"
+    #facebook_admin = "500557137"  # This needs to be a page admin to get domain insights
+    twitter = "thercast"
+    twitter_domain = "r-podcast.org" # This domain shows in twitter cards as "View on `twitter_domain`"
+    #googleplus = "ArrestedDevOps"
+    #pinterest = "nozzleio"
+    #instagram = "nozzleio"
+    #youtube = "arresteddevops"
+    #linkedin = "mattstratton"
+
+  [params.authors]
+    [params.authors.Eric]
+      name	= "Eric Nantz"
+      #thumbnail = "https://www.arresteddevops.com/img/matt.png"
+      bio = "The host of the R-Podcast is Eric Nantz, a statistician working in the life sciences industry who has been using R since 2004.  Eric quickly developed a passion for using and learning more about R due in large part to the brilliant and exciting R community and its free and open source heritage, much like his favorite operating system Linux.  Currently he is running a mix of various linux distrubutions such as Arch, Ubuntu, and CentOS on both his local computers and virtual servers hosted on [Digital Ocean](www.digitalocean.com), each running R of course!"
+      [params.authors.Eric.social]
+        github = "thercast"
+        #facebook = "matt.stratton"
+        twitter = "thercast"
+        #linkedin = "mattstratton"
+        #homepage = "https://www.mattstratton.io"
