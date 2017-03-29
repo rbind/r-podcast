@@ -12,7 +12,9 @@ themesdir = "/home/eric/hugo_testing"
 	# page = "/:filename/"
 	about = "/:filename/"
 	contact = "/:filename/"
-	episode = "/:filename/"
+	#episode = "/:filename/"
+	episode = "/:title/"
+	resources = "/:filename/"
 
 [taxonomies]
   tag = "tags"
@@ -35,27 +37,26 @@ themesdir = "/home/eric/hugo_testing"
 [[Menu.Main]]
     name = "Resources"
     identifier = "resources"
-    url = "#!"
+    url = "/resources"
 
-[[Menu.Main]]
-    name = "Books"
-    identifier = "books"
-    url = "/books"
-    parent = "resources"
+#[[Menu.Main]]
+#    name = "Books"
+#    identifier = "books"
+#    url = "/books"
+#    parent = "resources"
 
 [params]
 site_theme = "blue"
 # about_logo = "/img/hugocast.png"
-copyright_notice = "Copyright 2017 Eric Nantz"
+copyright_notice = "The R-Podcast is licensed under a Creative Commons Attribution 4.0 International License"
 soundcloud_subscribe = "http://feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
 itunes_subscribe = "https://itunes.apple.com/us/podcast/the-r-podcast/id1140581792"
 pocketcasts_subscribe = "http://pcasts.in/feed/feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
 #android_subscribe = "http://subscribeonandroid.com/feeds.podtrac.com/VGAulpN7MY1U"
 #google_play_subscribe = "https://goo.gl/app/playmusic?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Ihj4yege3lfmp3vs5yoopgxijpi?t%3DArrested_DevOps"
-#mailchimp_subscribe = "//arresteddevops.us3.list-manage.com/subscribe/post?u=5e4cbcac996bb9df25f970a89&amp;id=154fa76bcc"
+mailchimp_subscribe = "//r-podcast.us14.list-manage.com/subscribe/post?u=060990021bb38f2dbcc6a55ac&amp;id=6aca215b46"
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
 description = "Giving practical advice on how to use R for powerful and innovative data analyses."
-#media_prefix = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/"
 media_prefix = "https://archive.org/download/"
   [params.feed]
     feed_copyright = "Copyright 2017 Eric Nantz" #do not use markdown in this field; it is used in the feed
