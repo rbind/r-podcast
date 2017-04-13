@@ -1,23 +1,34 @@
-+++
-Description = "In this episode of the R-Podcast I have a conversation with my colleague [Will Landau](http://will-landau.com/) about his new R package [drake](https://cran.rstudio.com/web/packages/drake/) that provides a powerful build system for analysis pipelines.  In addition we have a fun R community roundup, listener feedback, and a couple of package picks to give you a [gentle nod](https://cran.r-project.org/web/packages/remindR/vignettes/remindR_vignette.html) and a fun way to [explore interpolation](https://github.com/metrumresearchgroup/fluidSpline).  If you have ideas for topics, questions, or other types of feedback, get in touch with me by heading over to the R-Podcast site at [r-podcast.org](https://www.r-podcast.org), sending a note to `thercast[at]gmail.com`, or contacting me at [@thercast](https://twitter.com/thercast) on Twitter.  As always thanks for tuning in and I hope you enjoy episode 22 of the R-Podcast!"
-aliases = ["/22"]
-author = "Eric"
-categories = ["Podcast"]
-date = "2017-03-26"
-episode = "22"
-#episode_image = "/img/episode/default.jpg"
-explicit = "no"
-guests = ["wlandau"]
-podcast_duration = ""
-podcast_dir = "trp_audio_022/"
-podcast_file = "rpodcast022.mp3"
-podcast_length = ""
-tags = []
-title = "Episode 22: Diving in to Drake with Will Landau"
-youtube = ""
-slug = "the-r-podcast-episode-22-diving-in-to-drake-with-will-landau"
-
-+++
+---
+Description: In this episode of the R-Podcast I have a conversation with my colleague
+  [Will Landau](http://will-landau.com/) about his new R package [drake](https://cran.rstudio.com/web/packages/drake/)
+  that provides a powerful build system for analysis pipelines.  In addition we have
+  a fun R community roundup, listener feedback, and a couple of package picks to give
+  you a [gentle nod](https://cran.r-project.org/web/packages/remindR/vignettes/remindR_vignette.html)
+  and a fun way to [explore interpolation](https://github.com/metrumresearchgroup/fluidSpline).  If
+  you have ideas for topics, questions, or other types of feedback, get in touch with
+  me by heading over to the R-Podcast site at [r-podcast.org](https://www.r-podcast.org),
+  sending a note to `thercast[at]gmail.com`, or contacting me at [@thercast](https://twitter.com/thercast)
+  on Twitter.  As always thanks for tuning in and I hope you enjoy episode 22 of the
+  R-Podcast!
+aliases:
+- /22
+author: Eric
+categories:
+- Podcast
+date: 2017-03-26
+episode: "22"
+explicit: "no"
+guests:
+- wlandau
+podcast_dir: trp_audio_022/
+podcast_duration: ""
+podcast_file: rpodcast022.mp3
+podcast_length: ""
+slug: the-r-podcast-episode-22-diving-in-to-drake-with-will-landau
+tags: []
+title: 'Episode 22: Diving in to Drake with Will Landau'
+youtube: ""
+---
 
 * `drake` package on CRAN: <https://cran.rstudio.com/web/packages/drake/>.  Check out the [quickstart](https://cran.rstudio.com/web/packages/drake/vignettes/quickstart.html) and detailed [introduction](https://cran.rstudio.com/web/packages/drake/vignettes/drake.html) vignettes.
 * Will's site: [will-landau.com](http://will-landau.com/)

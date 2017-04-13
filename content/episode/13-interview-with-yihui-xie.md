@@ -1,25 +1,32 @@
-+++
-Description = "It's an episode of firsts on the R-Podcast! In this episode recorded on location I had the honor and privilege of interviewing Yihui Xie, author of many innovative packages such as knitr and animation. Some of the topics we discussed include: Yihui's motivation for creating knitr and some key new features, how markdown plays a key role in making reproducible research more accessible, and an innovative approach for publishing and maintaining reproducible statistical results online, and much more on this 'lucky' episode 13 of the R-Podcast!"
-aliases = ["/13"]
-author = "Matt"
-categories = ["Podcast"]
-date = "2013-05-23T08:43:17-05:00"
-episode = "13"
-#episode_image = "/img/episode/default.jpg"
-explicit = "no"
-guests = ["yxie"]
-images = ["/img/episode/default-social.jpg"]
-news_keywords = []
-podcast_duration = "1:08:22"
-podcast_dir = "trp_audio_013/"
-podcast_file = "rpodcast013.mp3"
-podcast_length = ""
-tags = []
-title = "Episode 13: Interview with Yihui Xie"
-youtube = ""
-#media_override = "https://www.archive.org/download/trp_audio_021/rpodcast021.mp3"
-
-+++
+---
+Description: 'It''s an episode of firsts on the R-Podcast! In this episode recorded
+  on location I had the honor and privilege of interviewing Yihui Xie, author of many
+  innovative packages such as knitr and animation. Some of the topics we discussed
+  include: Yihui''s motivation for creating knitr and some key new features, how markdown
+  plays a key role in making reproducible research more accessible, and an innovative
+  approach for publishing and maintaining reproducible statistical results online,
+  and much more on this ''lucky'' episode 13 of the R-Podcast!'
+aliases:
+- /13
+author: Matt
+categories:
+- Podcast
+date: 2013-05-23T08:43:17-05:00
+episode: "13"
+explicit: "no"
+guests:
+- yxie
+images:
+- /img/episode/default-social.jpg
+news_keywords: []
+podcast_dir: trp_audio_013/
+podcast_duration: "1:08:22"
+podcast_file: rpodcast013.mp3
+podcast_length: ""
+tags: []
+title: 'Episode 13: Interview with Yihui Xie'
+youtube: ""
+---
 
 #### Resources mentioned during interview with Yihui
 

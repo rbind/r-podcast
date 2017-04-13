@@ -6,6 +6,7 @@ theme = "castanet"
 #disqusShortname = "r-podcast"
 #themesdir = "themes"
 themesdir = "../hugo_testing"
+metaDataFormat = "yaml"
 
 
 [permalinks]

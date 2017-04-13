@@ -1,25 +1,34 @@
-+++
-Description = "I'm happy to present episode 10 of the R-Podcast! Season 1 of the R-Podcast concludes with part 2 of my series on data munging, in which I discuss issues surrounding importing data sets contained in HTML tables. I share how I used the XML and RCurl packages to validate and import data from [hockey-reference.com](http://www.hockey-reference.com) for storage into a MySQL database. Our listener feedback segment contains another installment on the Pitfalls of R contributed by listener Frans. I want to thank everyone who has provided such positive feedback throughout the season, and I'm looking forward to providing some exciting new content for season 2. I hope you enjoy the episode and check out our new contact page if you would like to provide any feedback. Thanks for listening!"
-aliases = ["/10"]
-author = "Matt"
-categories = ["Podcast"]
-date = "2012-09-16T16:13:09-05:00"
-episode = "10"
-#episode_image = "/img/episode/default.jpg"
-explicit = "no"
-guests = []
-images = ["/img/episode/default-social.jpg"]
-news_keywords = []
-podcast_duration = "1:08:22"
-podcast_dir = "trp_audio_010/"
-podcast_file = "rpodcast010.mp3"
-podcast_length = ""
-tags = []
-title = "Episode 10: Adventures in Data Munging Part 2"
-youtube = ""
-#media_override = "https://www.archive.org/download/trp_audio_021/rpodcast021.mp3"
-
-+++
+---
+Description: I'm happy to present episode 10 of the R-Podcast! Season 1 of the R-Podcast
+  concludes with part 2 of my series on data munging, in which I discuss issues surrounding
+  importing data sets contained in HTML tables. I share how I used the XML and RCurl
+  packages to validate and import data from [hockey-reference.com](http://www.hockey-reference.com)
+  for storage into a MySQL database. Our listener feedback segment contains another
+  installment on the Pitfalls of R contributed by listener Frans. I want to thank
+  everyone who has provided such positive feedback throughout the season, and I'm
+  looking forward to providing some exciting new content for season 2. I hope you
+  enjoy the episode and check out our new contact page if you would like to provide
+  any feedback. Thanks for listening!
+aliases:
+- /10
+author: Matt
+categories:
+- Podcast
+date: 2012-09-16T16:13:09-05:00
+episode: "10"
+explicit: "no"
+guests: []
+images:
+- /img/episode/default-social.jpg
+news_keywords: []
+podcast_dir: trp_audio_010/
+podcast_duration: "1:08:22"
+podcast_file: rpodcast010.mp3
+podcast_length: ""
+tags: []
+title: 'Episode 10: Adventures in Data Munging Part 2'
+youtube: ""
+---
 
 -   New additions to the RStudio team: [blog.rstudio.org/2012/08/20/welcome-hadley-winston-and-garrett/](blog.rstudio.org/2012/08/20/welcome-hadley-winston-and-garrett/)
 -   Over 4,000 packages on CRAN: <http://blog.revolutionanalytics.com/2012/08/two-r-community-milestones.html>

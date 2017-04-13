@@ -1,25 +1,29 @@
-+++
-Description = "This is not an April Fool's joke ... The R-Podcast is back once again! In this episode, I discuss the concept of version control and how you can get started with using the Git VCS right now with your R projects. Also I discuss a big batch of listener feedback, and highlight a couple of great visualization applications from the community using ggplot2. All of that and more on episode 12 of the R-Podcast!"
-aliases = ["/12"]
-author = "Matt"
-categories = ["Podcast"]
-date = "2013-04-01T05:44:10-05:00"
-episode = "12"
-#episode_image = "/img/episode/default.jpg"
-explicit = "no"
-guests = []
-images = ["/img/episode/default-social.jpg"]
-news_keywords = []
-podcast_duration = "1:08:22"
-podcast_dir = "trp_audio_012/"
-podcast_file = "rpodcast012.mp3"
-podcast_length = ""
-tags = []
-title = "Episode 12: Using Version Control with R"
-youtube = ""
-#media_override = "https://www.archive.org/download/trp_audio_021/rpodcast021.mp3"
-
-+++
+---
+Description: This is not an April Fool's joke ... The R-Podcast is back once again!
+  In this episode, I discuss the concept of version control and how you can get started
+  with using the Git VCS right now with your R projects. Also I discuss a big batch
+  of listener feedback, and highlight a couple of great visualization applications
+  from the community using ggplot2. All of that and more on episode 12 of the R-Podcast!
+aliases:
+- /12
+author: Matt
+categories:
+- Podcast
+date: 2013-04-01T05:44:10-05:00
+episode: "12"
+explicit: "no"
+guests: []
+images:
+- /img/episode/default-social.jpg
+news_keywords: []
+podcast_dir: trp_audio_012/
+podcast_duration: "1:08:22"
+podcast_file: rpodcast012.mp3
+podcast_length: ""
+tags: []
+title: 'Episode 12: Using Version Control with R'
+youtube: ""
+---
 
 #### The basics for version control and Git
 

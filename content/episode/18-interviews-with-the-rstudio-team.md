@@ -1,25 +1,36 @@
-+++
-Description = "The R-Podcast concludes its series on the Shiny Developer Conference with a jam-packed episode featuring two interviews with members of the [RStudio team](https://www.rstudio.com/about/)!  In part one I have a panel discussion with JJ Allaire, Jeff Allen, and Hadley Wickham to get their impressions of the conference and some exciting new features in the latest version of the RStudio IDE.  In part two I have an extended conversation with Joe Cheng to discuss the origins of Shiny, how the conference came together, and ideas for future enhancements of shiny. All of this and more on episode 18 of the R-Podcast!"
-aliases = ["/18"]
-author = "Matt"
-categories = ["Podcast"]
-date = "2016-02-22T05:33:31-05:00"
-episode = "18"
-#episode_image = "/img/episode/default.jpg"
-explicit = "no"
-guests = ["jallaire", "jallen", "jcheng", "hwickham"]
-images = ["/img/episode/default-social.jpg"]
-news_keywords = []
-podcast_duration = "1:08:22"
-podcast_dir = "trp_audio_018/"
-podcast_file = "rpodcast018.mp3"
-podcast_length = ""
-tags = []
-title = "Episode 18: Interviews with the RStudio Team"
-youtube = ""
-#media_override = "https://www.archive.org/download/trp_audio_021/rpodcast021.mp3"
-
-+++
+---
+Description: The R-Podcast concludes its series on the Shiny Developer Conference
+  with a jam-packed episode featuring two interviews with members of the [RStudio
+  team](https://www.rstudio.com/about/)!  In part one I have a panel discussion with
+  JJ Allaire, Jeff Allen, and Hadley Wickham to get their impressions of the conference
+  and some exciting new features in the latest version of the RStudio IDE.  In part
+  two I have an extended conversation with Joe Cheng to discuss the origins of Shiny,
+  how the conference came together, and ideas for future enhancements of shiny. All
+  of this and more on episode 18 of the R-Podcast!
+aliases:
+- /18
+author: Matt
+categories:
+- Podcast
+date: 2016-02-22T05:33:31-05:00
+episode: "18"
+explicit: "no"
+guests:
+- jallaire
+- jallen
+- jcheng
+- hwickham
+images:
+- /img/episode/default-social.jpg
+news_keywords: []
+podcast_dir: trp_audio_018/
+podcast_duration: "1:08:22"
+podcast_file: rpodcast018.mp3
+podcast_length: ""
+tags: []
+title: 'Episode 18: Interviews with the RStudio Team'
+youtube: ""
+---
 
 * RStudio 0.98.878 [Release Notes](http://blog.rstudio.org/2016/02/09/new-release-of-rstudio-v0-99-878/)
 * RStudio Addins [documentation portal](http://rstudio.github.io/rstudioaddins/)

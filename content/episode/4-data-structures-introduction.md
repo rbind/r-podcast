@@ -1,25 +1,30 @@
-+++
-Description = "In this episode: Site updates, additional screencasts about R from other sites, listener feedback, and discussion on the fundamental data structures for R: vectors, matrices, lists, and data frames. The R code discussed in this episode is available in our GitHub repository, see the show notes for details. Leave us a voicemail a +1-269-849-9780, or send an email or audio comment to theRcast[at]gmail.com. Thanks for listening!"
-aliases = ["/4"]
-author = "Matt"
-categories = ["Podcast"]
-date = "2012-03-25T18:03:18-05:00"
-episode = "4"
-#episode_image = "/img/episode/default.jpg"
-explicit = "no"
-guests = []
-images = ["/img/episode/default-social.jpg"]
-news_keywords = []
-podcast_duration = "1:08:22"
-podcast_dir = "trp_audio_004/"
-podcast_file = "rpodcast004.mp3"
-podcast_length = ""
-tags = []
-title = "Episode 4: Data Structures - Introduction"
-youtube = ""
-#media_override = "https://www.archive.org/download/trp_audio_021/rpodcast021.mp3"
-
-+++
+---
+Description: 'In this episode: Site updates, additional screencasts about R from other
+  sites, listener feedback, and discussion on the fundamental data structures for
+  R: vectors, matrices, lists, and data frames. The R code discussed in this episode
+  is available in our GitHub repository, see the show notes for details. Leave us
+  a voicemail a +1-269-849-9780, or send an email or audio comment to theRcast[at]gmail.com.
+  Thanks for listening!'
+aliases:
+- /4
+author: Matt
+categories:
+- Podcast
+date: 2012-03-25T18:03:18-05:00
+episode: "4"
+explicit: "no"
+guests: []
+images:
+- /img/episode/default-social.jpg
+news_keywords: []
+podcast_dir: trp_audio_004/
+podcast_duration: "1:08:22"
+podcast_file: rpodcast004.mp3
+podcast_length: ""
+tags: []
+title: 'Episode 4: Data Structures - Introduction'
+youtube: ""
+---
 
 -   Our Google Plus page: <http://goplus.us/rpodcast>
 -   R Twotorials: <http://www.twotorials.com>

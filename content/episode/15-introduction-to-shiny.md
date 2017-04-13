@@ -1,25 +1,39 @@
-+++
-Description = "Just in time for the new year is a new episode of the [R-Podcast](https://www.r-podcast.org/)!  I give a brief introduction to the Shiny package for creating web applications using R code, provide some of my tips and tricks I have learned (sometimes the hard way) when creating applications, and point to excellent resources and example apps in the community that show the immense potential at your fingertips.  You will see that [r-podcast.org](https://www.r-podcast.org) has gotten a major overhaul, and as a consequence the RSS feeds have changed slightly.  Be sure to check out the [Subscribe](https://www.r-podcast.org/stories/subscribe.html) page for the updated feeds, but all of the previous episodes have been migrated successfully.  As always you can provide your feedback in multiple ways: <br /><br /> * __New Feature__: Provide a comment on this [episode post](link://slug/the-r-podcast-episode-15-introduction-to-shiny#disqus_thread) directly (powered by the [Disqus](https://disqus.com/) commenting system) <br /> * Email the show at `thercast[at]gmail.com` <br /> * Use the new [Contact Form](https://www.r-podcast.org/stories/contact.html) directly on the site.<br /> * Leave a voicemail at at `+1-269-849-9780`.<br /><br />Happy New Year and I hope you enjoy the episode!"
-aliases = ["/15"]
-author = "Matt"
-categories = ["Podcast"]
-date = "2015-12-31T21:11:30-05:00"
-episode = "15"
-#episode_image = "/img/episode/default.jpg"
-explicit = "no"
-guests = []
-images = ["/img/episode/default-social.jpg"]
-news_keywords = []
-podcast_duration = "1:08:22"
-podcast_dir = "trp_audio_015/"
-podcast_file = "rpodcast015.mp3"
-podcast_length = ""
-tags = []
-title = "Episode 15: Introduction to Shiny"
-youtube = ""
-#media_override = "https://www.archive.org/download/trp_audio_021/rpodcast021.mp3"
-
-+++
+---
+Description: 'Just in time for the new year is a new episode of the [R-Podcast](https://www.r-podcast.org/)!  I
+  give a brief introduction to the Shiny package for creating web applications using
+  R code, provide some of my tips and tricks I have learned (sometimes the hard way)
+  when creating applications, and point to excellent resources and example apps in
+  the community that show the immense potential at your fingertips.  You will see
+  that [r-podcast.org](https://www.r-podcast.org) has gotten a major overhaul, and
+  as a consequence the RSS feeds have changed slightly.  Be sure to check out the
+  [Subscribe](https://www.r-podcast.org/stories/subscribe.html) page for the updated
+  feeds, but all of the previous episodes have been migrated successfully.  As always
+  you can provide your feedback in multiple ways: <br /><br /> * __New Feature__:
+  Provide a comment on this [episode post](link://slug/the-r-podcast-episode-15-introduction-to-shiny#disqus_thread)
+  directly (powered by the [Disqus](https://disqus.com/) commenting system) <br />
+  * Email the show at `thercast[at]gmail.com` <br /> * Use the new [Contact Form](https://www.r-podcast.org/stories/contact.html)
+  directly on the site.<br /> * Leave a voicemail at at `+1-269-849-9780`.<br /><br
+  />Happy New Year and I hope you enjoy the episode!'
+aliases:
+- /15
+author: Matt
+categories:
+- Podcast
+date: 2015-12-31T21:11:30-05:00
+episode: "15"
+explicit: "no"
+guests: []
+images:
+- /img/episode/default-social.jpg
+news_keywords: []
+podcast_dir: trp_audio_015/
+podcast_duration: "1:08:22"
+podcast_file: rpodcast015.mp3
+podcast_length: ""
+tags: []
+title: 'Episode 15: Introduction to Shiny'
+youtube: ""
+---
 
 ### [r-podcast.org](https://www.r-podcast.org) gets a face lift!
 

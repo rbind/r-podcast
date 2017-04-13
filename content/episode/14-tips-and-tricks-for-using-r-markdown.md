@@ -1,25 +1,32 @@
-+++
-Description = "The [R-Podcast](http://www.r-podcast.org) is back up and running! In this episode I discuss some useful resources and helpful tips/extensions that have greatly enhanced my work flow in creating reproducible analysis documents via R-Markdown. I also highlight some exciting new endeavors in the R community as well as provide my take on two key events that further illustrate the rapidly growing use of R across many industries. A big thank you to all who expressed their support during the extended hiatus, and please don't hesitate to provide your feedback and suggestions for future episodes. I hope you enjoy this episode!"
-aliases = ["/14"]
-author = "Matt"
-categories = ["Podcast"]
-date = "2015-11-18T14:07:21-05:00"
-episode = "14"
-#episode_image = "/img/episode/default.jpg"
-explicit = "no"
-guests = []
-images = ["/img/episode/default-social.jpg"]
-news_keywords = []
-podcast_duration = "1:08:22"
-podcast_dir = "trp_audio_014/"
-podcast_file = "rpodcast014.mp3"
-podcast_length = ""
-tags = []
-title = "Episode 14: Tips and Tricks for using R-Markdown"
-youtube = ""
-#media_override = "https://www.archive.org/download/trp_audio_021/rpodcast021.mp3"
-
-+++
+---
+Description: The [R-Podcast](http://www.r-podcast.org) is back up and running! In
+  this episode I discuss some useful resources and helpful tips/extensions that have
+  greatly enhanced my work flow in creating reproducible analysis documents via R-Markdown.
+  I also highlight some exciting new endeavors in the R community as well as provide
+  my take on two key events that further illustrate the rapidly growing use of R across
+  many industries. A big thank you to all who expressed their support during the extended
+  hiatus, and please don't hesitate to provide your feedback and suggestions for future
+  episodes. I hope you enjoy this episode!
+aliases:
+- /14
+author: Matt
+categories:
+- Podcast
+date: 2015-11-18T14:07:21-05:00
+episode: "14"
+explicit: "no"
+guests: []
+images:
+- /img/episode/default-social.jpg
+news_keywords: []
+podcast_dir: trp_audio_014/
+podcast_duration: "1:08:22"
+podcast_file: rpodcast014.mp3
+podcast_length: ""
+tags: []
+title: 'Episode 14: Tips and Tricks for using R-Markdown'
+youtube: ""
+---
 
 ### Resources produced by RStudio:
 

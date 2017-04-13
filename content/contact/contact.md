@@ -1,8 +1,8 @@
-+++
-title = "Contact"
-description = "about this site"
-date = "2015-09-01"
-+++
+---
+date: 2015-09-01
+description: about this site
+title: Contact
+---
 
 We welcome your questions, comments, and suggestions! Here are the various options available for you to provide feedback:
 

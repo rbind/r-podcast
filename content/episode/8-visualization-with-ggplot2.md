@@ -1,25 +1,33 @@
-+++
-Description = "I'm happy to present this jam-packed episode of the R-Podcast dedicated to using the ggplot2 package for visualization. This episode will have a companion screencast released in the next few days. I use data from the Hockey Summary Project to demonstrate how to create a series of boxplots of NHL regular season attendance for each team. The R code used in this episode will be available via GitHub. I also extend my thanks to the Going Linux podcast for plugging the R-Podcast. If you are interested in providing a listener tip about R, please call the voicemail hotline at +1-269-849-9780 or record an audio clip and send it tothe Rcast(at)gmail.com. Please keep the wonderful feedback coming and hope you enjoy this episode!"
-aliases = ["/8"]
-author = "Matt"
-categories = ["Podcast"]
-date = "2012-06-20T09:02:01-05:00"
-episode = "8"
-#episode_image = "/img/episode/default.jpg"
-explicit = "no"
-guests = []
-images = ["/img/episode/default-social.jpg"]
-news_keywords = []
-podcast_duration = "1:08:22"
-podcast_dir = "trp_audio_008/"
-podcast_file = "rpodcast008.mp3"
-podcast_length = ""
-tags = []
-title = "Episode 8: Visualization with `ggplot2`"
-youtube = ""
-#media_override = "https://www.archive.org/download/trp_audio_021/rpodcast021.mp3"
-
-+++
+---
+Description: I'm happy to present this jam-packed episode of the R-Podcast dedicated
+  to using the ggplot2 package for visualization. This episode will have a companion
+  screencast released in the next few days. I use data from the Hockey Summary Project
+  to demonstrate how to create a series of boxplots of NHL regular season attendance
+  for each team. The R code used in this episode will be available via GitHub. I also
+  extend my thanks to the Going Linux podcast for plugging the R-Podcast. If you are
+  interested in providing a listener tip about R, please call the voicemail hotline
+  at +1-269-849-9780 or record an audio clip and send it tothe Rcast(at)gmail.com.
+  Please keep the wonderful feedback coming and hope you enjoy this episode!
+aliases:
+- /8
+author: Matt
+categories:
+- Podcast
+date: 2012-06-20T09:02:01-05:00
+episode: "8"
+explicit: "no"
+guests: []
+images:
+- /img/episode/default-social.jpg
+news_keywords: []
+podcast_dir: trp_audio_008/
+podcast_duration: "1:08:22"
+podcast_file: rpodcast008.mp3
+podcast_length: ""
+tags: []
+title: 'Episode 8: Visualization with `ggplot2`'
+youtube: ""
+---
 
 -   The Going Linux Podcast: <http://www.goinglinux.com>
 -   Hockey Summary Project: <http://hsp.flyershistory.com/>

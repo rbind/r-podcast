@@ -1,25 +1,32 @@
-+++
-Description = "It’s great to be back with a new episode after an eventful break! This episode begins a series on my adventures in data munging, a.k.a data processing. I discuss three issues that demonstrate the flexibility and versatility R brings for recoding messy values, important inconsistent data files, and pinpointing problematic observations and variables. We also have an extended listener feedback segment with an audio installment of the “pitfalls” of R contributed by listener Frans. I hope you enjoy this episode and keep passing along your feedback to theRcast(at)gmail.com and stop by the forums as well!"
-aliases = ["/9"]
-author = "Matt"
-categories = ["Podcast"]
-date = "2012-08-05T09:48:44-05:00"
-episode = "9"
-#episode_image = "/img/episode/default.jpg"
-explicit = "no"
-guests = []
-images = ["/img/episode/default-social.jpg"]
-news_keywords = []
-podcast_duration = "1:08:22"
-podcast_dir = "trp_audio_009/"
-podcast_file = "rpodcast009.mp3"
-podcast_length = ""
-tags = []
-title = "Episode 9: Adventures in Data Munging Part 1"
-youtube = ""
-#media_override = "https://www.archive.org/download/trp_audio_021/rpodcast021.mp3"
-
-+++
+---
+Description: It’s great to be back with a new episode after an eventful break! This
+  episode begins a series on my adventures in data munging, a.k.a data processing.
+  I discuss three issues that demonstrate the flexibility and versatility R brings
+  for recoding messy values, important inconsistent data files, and pinpointing problematic
+  observations and variables. We also have an extended listener feedback segment with
+  an audio installment of the “pitfalls” of R contributed by listener Frans. I hope
+  you enjoy this episode and keep passing along your feedback to theRcast(at)gmail.com
+  and stop by the forums as well!
+aliases:
+- /9
+author: Matt
+categories:
+- Podcast
+date: 2012-08-05T09:48:44-05:00
+episode: "9"
+explicit: "no"
+guests: []
+images:
+- /img/episode/default-social.jpg
+news_keywords: []
+podcast_dir: trp_audio_009/
+podcast_duration: "1:08:22"
+podcast_file: rpodcast009.mp3
+podcast_length: ""
+tags: []
+title: 'Episode 9: Adventures in Data Munging Part 1'
+youtube: ""
+---
 
 -   Summary of UserR! 2012 conference: <http://pairach.com/2012/06/24/user2012/>
 -   R 2.15.1 release notes: <http://cran.r-project.org/src/base/NEWS>

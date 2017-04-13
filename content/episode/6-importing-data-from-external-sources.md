@@ -1,25 +1,32 @@
-+++
-Description = "In this episode: Listener feedback and importing data from external sources into R. We dive into the basics of importing delimited textfiles using read.table and its varients. We also discuss recommendations for importing MS Excel spreadsheet files, relational databases such as MySQL, data from HTML tables, and files produced by other statistical computing packages. If you are interested in providing a listener tip about R in audio format, please call the voicemail hotline at +1-269-849-9780 or record a short mp3 or ogg audio clip and send it to theRcast(at)gmail.com . Hope you enjoy the episode!"
-aliases = ["/6"]
-author = "Matt"
-categories = ["Podcast"]
-date = "2012-04-29T20:58:39-05:00"
-episode = "6"
-#episode_image = "/img/episode/default.jpg"
-explicit = "no"
-guests = []
-images = ["/img/episode/default-social.jpg"]
-news_keywords = []
-podcast_duration = "1:08:22"
-podcast_dir = "trp_audio_006/"
-podcast_file = "rpodcast006.mp3"
-podcast_length = ""
-tags = []
-title = "Episode 6: Importing Data from External Sources"
-youtube = ""
-#media_override = "https://www.archive.org/download/trp_audio_021/rpodcast021.mp3"
-
-+++
+---
+Description: 'In this episode: Listener feedback and importing data from external
+  sources into R. We dive into the basics of importing delimited textfiles using read.table
+  and its varients. We also discuss recommendations for importing MS Excel spreadsheet
+  files, relational databases such as MySQL, data from HTML tables, and files produced
+  by other statistical computing packages. If you are interested in providing a listener
+  tip about R in audio format, please call the voicemail hotline at +1-269-849-9780
+  or record a short mp3 or ogg audio clip and send it to theRcast(at)gmail.com . Hope
+  you enjoy the episode!'
+aliases:
+- /6
+author: Matt
+categories:
+- Podcast
+date: 2012-04-29T20:58:39-05:00
+episode: "6"
+explicit: "no"
+guests: []
+images:
+- /img/episode/default-social.jpg
+news_keywords: []
+podcast_dir: trp_audio_006/
+podcast_duration: "1:08:22"
+podcast_file: rpodcast006.mp3
+podcast_length: ""
+tags: []
+title: 'Episode 6: Importing Data from External Sources'
+youtube: ""
+---
 
 -   R Data Import/Export Manual: <http://cran.r-project.org/doc/manuals/R-data.html>
 -   XLConnect Package: <http://cran.r-project.org/web/packages/XLConnect/index.html>

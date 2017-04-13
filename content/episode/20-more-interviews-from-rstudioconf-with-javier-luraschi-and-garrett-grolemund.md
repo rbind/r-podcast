@@ -1,25 +1,37 @@
-+++
-Description = "In episode 20 I'm happy to bring you more great interviews with members of [RStudio](https://www.rstudio.com) from [rstudio::conf](https://www.rstudio.com/conference/)!  I had the pleasure of chatting with software engineer [Javier Luraschi](https://github.com/rstudio/) to discuss [Apache Spark](https://spark.apache.org/) and the new [sparklyr](http://spark.rstudio.com/index.html) package that allows R users to connect directly to a Spark cluster for high-performance data analyses.  In addition you will hear from RStudio's master instructor [Garret Grolemund](http://twitter.com/RStudio) to get his recommendations for teaching R and the highly-acclaimed [R for Data Science](http://r4ds.had.co.nz/) book.  All of this plus a package pick that could enable me to use R in my podcast workflow in episode 20 of the R-Podcast!"
-aliases = ["/20"]
-author = "Matt"
-categories = ["Podcast"]
-date = "2017-01-28T20:43:40-05:00"
-episode = "20"
-#episode_image = "/img/episode/default.jpg"
-explicit = "no"
-guests = ["jluraschi", "ggrolemund"]
-images = ["/img/episode/default-social.jpg"]
-news_keywords = []
-podcast_duration = "1:08:22"
-podcast_dir = "trp_audio_020/"
-podcast_file = "rpodcast020.mp3"
-podcast_length = ""
-tags = []
-title = "Episode 20: More interviews from rstudio::conf with Javier Luraschi and Garrett Grolemund"
-youtube = ""
-#media_override = "https://www.archive.org/download/trp_audio_021/rpodcast021.mp3"
-
-+++
+---
+Description: In episode 20 I'm happy to bring you more great interviews with members
+  of [RStudio](https://www.rstudio.com) from [rstudio::conf](https://www.rstudio.com/conference/)!  I
+  had the pleasure of chatting with software engineer [Javier Luraschi](https://github.com/rstudio/)
+  to discuss [Apache Spark](https://spark.apache.org/) and the new [sparklyr](http://spark.rstudio.com/index.html)
+  package that allows R users to connect directly to a Spark cluster for high-performance
+  data analyses.  In addition you will hear from RStudio's master instructor [Garret
+  Grolemund](http://twitter.com/RStudio) to get his recommendations for teaching R
+  and the highly-acclaimed [R for Data Science](http://r4ds.had.co.nz/) book.  All
+  of this plus a package pick that could enable me to use R in my podcast workflow
+  in episode 20 of the R-Podcast!
+aliases:
+- /20
+author: Matt
+categories:
+- Podcast
+date: 2017-01-28T20:43:40-05:00
+episode: "20"
+explicit: "no"
+guests:
+- jluraschi
+- ggrolemund
+images:
+- /img/episode/default-social.jpg
+news_keywords: []
+podcast_dir: trp_audio_020/
+podcast_duration: "1:08:22"
+podcast_file: rpodcast020.mp3
+podcast_length: ""
+tags: []
+title: 'Episode 20: More interviews from rstudio::conf with Javier Luraschi and Garrett
+  Grolemund'
+youtube: ""
+---
 
 - Apache Spark: <https://spark.apache.org>
 - sparklyr documentation: <http://spark.rstudio.com/index.html>

@@ -1,9 +1,8 @@
-+++
-date = "2016-09-25T02:11:48-05:00"
-description = "Resources"
-title = "resources"
-+++
-
+---
+date: 2016-09-25T02:11:48-05:00
+description: Resources
+title: resources
+---
 
 This page lists resources that I have found very helpful in learning R:
 

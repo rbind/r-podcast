@@ -1,25 +1,29 @@
-+++
-Description = "Here is the inaugural episode of the R-Podcast! In this episode, I take a few minutes to introduce myself and to explain the main goals of this podcast. I also define what R is and give an overview of R's history of development and features that distinguish it from other statistical software. Please feel free to send your feedback to theRcast[at]gmail.com or leave a voice mail at 1-269-849-9780."
-aliases = ["/1"]
-author = "Matt"
-categories = ["Podcast"]
-date = "2012-02-12T16:52:20-05:00"
-episode = "1"
-#episode_image = "/img/episode/default.jpg"
-explicit = "no"
-guests = []
-images = ["/img/episode/default-social.jpg"]
-news_keywords = []
-podcast_duration = "1:08:22"
-podcast_dir = "trp_audio_001/"
-podcast_file = "rpodcast001.mp3"
-podcast_length = ""
-tags = []
-title = "Episode 1: Introduction"
-youtube = ""
-#media_override = "https://www.archive.org/download/trp_audio_021/rpodcast021.mp3"
-
-+++
+---
+Description: Here is the inaugural episode of the R-Podcast! In this episode, I take
+  a few minutes to introduce myself and to explain the main goals of this podcast.
+  I also define what R is and give an overview of R's history of development and features
+  that distinguish it from other statistical software. Please feel free to send your
+  feedback to theRcast[at]gmail.com or leave a voice mail at 1-269-849-9780.
+aliases:
+- /1
+author: Matt
+categories:
+- Podcast
+date: 2012-02-12T16:52:20-05:00
+episode: "1"
+explicit: "no"
+guests: []
+images:
+- /img/episode/default-social.jpg
+news_keywords: []
+podcast_dir: trp_audio_001/
+podcast_duration: "1:08:22"
+podcast_file: rpodcast001.mp3
+podcast_length: ""
+tags: []
+title: 'Episode 1: Introduction'
+youtube: ""
+---
 
 -   The R-Project site: <http://www.r-project.org/>
 -   Wikipedia page for R:

@@ -1,25 +1,31 @@
-+++
-Description = "After a brief delay here's episode 5 of the R-Podcast. In this episode: R 2.15.0 released, listener feedback, and discussion on basic package management. I discuss helpful resources for finding packages,installation procedures, and how to determine what packages are installed in your R system, among other considerations. If you are interested in providing a listener tip about R in audio format, please call the voicemail hotline at +1-269-849-9780 or record a short mp3 or ogg audio clip and send it to theRcast(at)gmail.com . Hope you enjoy the episode!"
-aliases = ["/5"]
-author = "Matt"
-categories = ["Podcast"]
-date = "2012-04-15T12:41:26-05:00"
-episode = "5"
-#episode_image = "/img/episode/default.jpg"
-explicit = "no"
-guests = []
-images = ["/img/episode/default-social.jpg"]
-news_keywords = []
-podcast_duration = "1:08:22"
-podcast_dir = "trp_audio_005/"
-podcast_file = "rpodcast005.mp3"
-podcast_length = ""
-tags = []
-title = "Episode 5: Basic Package Management"
-youtube = ""
-#media_override = "https://www.archive.org/download/trp_audio_021/rpodcast021.mp3"
-
-+++
+---
+Description: 'After a brief delay here''s episode 5 of the R-Podcast. In this episode:
+  R 2.15.0 released, listener feedback, and discussion on basic package management.
+  I discuss helpful resources for finding packages,installation procedures, and how
+  to determine what packages are installed in your R system, among other considerations.
+  If you are interested in providing a listener tip about R in audio format, please
+  call the voicemail hotline at +1-269-849-9780 or record a short mp3 or ogg audio
+  clip and send it to theRcast(at)gmail.com . Hope you enjoy the episode!'
+aliases:
+- /5
+author: Matt
+categories:
+- Podcast
+date: 2012-04-15T12:41:26-05:00
+episode: "5"
+explicit: "no"
+guests: []
+images:
+- /img/episode/default-social.jpg
+news_keywords: []
+podcast_dir: trp_audio_005/
+podcast_duration: "1:08:22"
+podcast_file: rpodcast005.mp3
+podcast_length: ""
+tags: []
+title: 'Episode 5: Basic Package Management'
+youtube: ""
+---
 
 -   R version 2.15.0 release notes: <http://cran.r-project.org/src/base/NEWS.html>
 -   "R Fell on Alabama Last Night" presentation by Kent: <https://www.youtube.com/watch?v=W8d54ThS37Q>

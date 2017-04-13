@@ -1,25 +1,33 @@
-+++
-Description = "The R-Podcast continues its series on Shiny and the first-ever Shiny Developer Conference by catching up with [Vincent Nijs](http://rady.ucsd.edu/faculty/directory/nijs/), associate professor of marketing at UC San Diego and one of the earliest adopters of Shiny.  Some of the topics we cover include his journey to using R, his motivation and process for developing the [Radiant](http://vnijs.github.io/radiant/) Shiny application used by his students to perform business analytics, and how he would like to involve the community to add new capabilities to Radiant.  I hope you enjoy this episode and thanks for listening!"
-aliases = ["/17"]
-author = "Matt"
-categories = ["Podcast"]
-date = "2016-02-04T05:57:21-05:00"
-episode = "17"
-#episode_image = "/img/episode/default.jpg"
-explicit = "no"
-guests = ["vnijs"]
-images = ["/img/episode/default-social.jpg"]
-news_keywords = []
-podcast_duration = "1:08:22"
-podcast_dir = "trp_audio_017/"
-podcast_file = "rpodcast017.mp3"
-podcast_length = ""
-tags = []
-title = "Episode 17: A Simply Radiant Chat with Vincent Nijs"
-youtube = ""
-#media_override = "https://www.archive.org/download/trp_audio_021/rpodcast021.mp3"
-
-+++
+---
+Description: The R-Podcast continues its series on Shiny and the first-ever Shiny
+  Developer Conference by catching up with [Vincent Nijs](http://rady.ucsd.edu/faculty/directory/nijs/),
+  associate professor of marketing at UC San Diego and one of the earliest adopters
+  of Shiny.  Some of the topics we cover include his journey to using R, his motivation
+  and process for developing the [Radiant](http://vnijs.github.io/radiant/) Shiny
+  application used by his students to perform business analytics, and how he would
+  like to involve the community to add new capabilities to Radiant.  I hope you enjoy
+  this episode and thanks for listening!
+aliases:
+- /17
+author: Matt
+categories:
+- Podcast
+date: 2016-02-04T05:57:21-05:00
+episode: "17"
+explicit: "no"
+guests:
+- vnijs
+images:
+- /img/episode/default-social.jpg
+news_keywords: []
+podcast_dir: trp_audio_017/
+podcast_duration: "1:08:22"
+podcast_file: rpodcast017.mp3
+podcast_length: ""
+tags: []
+title: 'Episode 17: A Simply Radiant Chat with Vincent Nijs'
+youtube: ""
+---
 
 - Radiant [documentation](http://vnijs.github.io/radiant/) and [GitHub repo](https://github.com/vnijs/radiant)
 - Using selectize input in Shiny applications [article](http://shiny.rstudio.com/articles/selectize.html)

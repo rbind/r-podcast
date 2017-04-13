@@ -1,25 +1,33 @@
-+++
-Description = "Season 2 of the R-Podcast is up and running! This episode begins a multi-part series on reproducible analysis using R. In this episode I discuss the usage of Sweave and LaTeX for producing reproducible reports, an introduction to the capabilities of the knitr package (more episodes will be coming dedicated to this package), and my motivation for adapting reproducible analysis techniques and tools into my workflow. In our listener feedback segment I discuss a new means of providing feedback to the R-Podcast using our new sub-reddit page and introduce new segments highlighting interesting stories around the R community and useful packages. This promises to be an exciting season of the R-Podcast, and I hope you enjoy this episode!"
-aliases = ["/11"]
-author = "Matt"
-categories = ["Podcast"]
-date = "2012-11-13T09:19:56-05:00"
-episode = "11"
-#episode_image = "/img/episode/default.jpg"
-explicit = "no"
-guests = []
-images = ["/img/episode/default-social.jpg"]
-news_keywords = []
-podcast_duration = "1:08:22"
-podcast_dir = "trp_audio_011/"
-podcast_file = "rpodcast011.mp3"
-podcast_length = ""
-tags = []
-title = "Episode 11: Reproducible Analysis Part 1 (Introduction)"
-youtube = ""
-#media_override = "https://www.archive.org/download/trp_audio_021/rpodcast021.mp3"
-
-+++
+---
+Description: Season 2 of the R-Podcast is up and running! This episode begins a multi-part
+  series on reproducible analysis using R. In this episode I discuss the usage of
+  Sweave and LaTeX for producing reproducible reports, an introduction to the capabilities
+  of the knitr package (more episodes will be coming dedicated to this package), and
+  my motivation for adapting reproducible analysis techniques and tools into my workflow.
+  In our listener feedback segment I discuss a new means of providing feedback to
+  the R-Podcast using our new sub-reddit page and introduce new segments highlighting
+  interesting stories around the R community and useful packages. This promises to
+  be an exciting season of the R-Podcast, and I hope you enjoy this episode!
+aliases:
+- /11
+author: Matt
+categories:
+- Podcast
+date: 2012-11-13T09:19:56-05:00
+episode: "11"
+explicit: "no"
+guests: []
+images:
+- /img/episode/default-social.jpg
+news_keywords: []
+podcast_dir: trp_audio_011/
+podcast_duration: "1:08:22"
+podcast_file: rpodcast011.mp3
+podcast_length: ""
+tags: []
+title: 'Episode 11: Reproducible Analysis Part 1 (Introduction)'
+youtube: ""
+---
 
 -   R-Podcast subreddit: [links.r-podcast.org](http://links.r-podcast.org)
 -   Sweave: <http://www.stat.uni-muenchen.de/~leisch/Sweave/>

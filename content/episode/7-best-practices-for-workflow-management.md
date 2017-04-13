@@ -1,25 +1,36 @@
-+++
-Description = "Hello everybody, I am finally back with a new episode! In this episode: Hardware issues, major update to RStudio, new forums, and discussion on managing your workflow for projects. I discuss useful functions for executing R scripts and saving/loading R objects for future sessions, and summarize different solutions for organizing R code based on task and via the ProjectTemplate package, along with the importance of version control. Please check out the new forums and let me know what you think! If you are interested in providing a listener tip about R, please call the voicemail hotline at +1-269-849-9780 or record a short mp3 or ogg audio clip and send it to theRcast(at)gmail.com . As always I welcome any other feedback you have. Thanks for listening! P.S. From our [Google Plus page](https://plus.google.com/u/0/b/111193531932434833188/), Darren pointed out that I switched forward slashes with backward slashes in my discussion about file paths in Episode 6. Thanks Darren!"
-aliases = ["/7"]
-author = "Matt"
-categories = ["Podcast"]
-date = "2012-05-28T20:54:31-05:00"
-episode = "7"
-#episode_image = "/img/episode/default.jpg"
-explicit = "no"
-guests = []
-images = ["/img/episode/default-social.jpg"]
-news_keywords = []
-podcast_duration = "1:08:22"
-podcast_dir = "trp_audio_007/"
-podcast_file = "rpodcast007.mp3"
-podcast_length = ""
-tags = []
-title = "Episode 7: Best Practices for Workflow Management"
-youtube = ""
-#media_override = "https://www.archive.org/download/trp_audio_021/rpodcast021.mp3"
-
-+++
+---
+Description: 'Hello everybody, I am finally back with a new episode! In this episode:
+  Hardware issues, major update to RStudio, new forums, and discussion on managing
+  your workflow for projects. I discuss useful functions for executing R scripts and
+  saving/loading R objects for future sessions, and summarize different solutions
+  for organizing R code based on task and via the ProjectTemplate package, along with
+  the importance of version control. Please check out the new forums and let me know
+  what you think! If you are interested in providing a listener tip about R, please
+  call the voicemail hotline at +1-269-849-9780 or record a short mp3 or ogg audio
+  clip and send it to theRcast(at)gmail.com . As always I welcome any other feedback
+  you have. Thanks for listening! P.S. From our [Google Plus page](https://plus.google.com/u/0/b/111193531932434833188/),
+  Darren pointed out that I switched forward slashes with backward slashes in my discussion
+  about file paths in Episode 6. Thanks Darren!'
+aliases:
+- /7
+author: Matt
+categories:
+- Podcast
+date: 2012-05-28T20:54:31-05:00
+episode: "7"
+explicit: "no"
+guests: []
+images:
+- /img/episode/default-social.jpg
+news_keywords: []
+podcast_dir: trp_audio_007/
+podcast_duration: "1:08:22"
+podcast_file: rpodcast007.mp3
+podcast_length: ""
+tags: []
+title: 'Episode 7: Best Practices for Workflow Management'
+youtube: ""
+---
 
 -   The new R-Podcast forums: <http://www.r-podcast.org/forums/>
 -   RStudio v0.96 release notes: <http://blog.rstudio.org/2012/05/14/rstudio-v096/>
