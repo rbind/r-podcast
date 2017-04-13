@@ -1,23 +1,20 @@
 +++
 Description = "The R-Podcast concludes its coverage of [rstudio::conf](https://www.rstudio.com/conference/) by chatting with [R Foundation](https://www.r-project.org/foundation/board.html) member and [Rcpp](http://rcpp.org/) author [Dirk Eddelbuettel](http://dirk.eddelbuettel.com/)!  We cover a variety of topics including the state of Rcpp, how the integration of Rcpp in RStudio came about, and his perspective on Linux in the R community.  Plus a new batch of listener feedback and a package pick that gives your shiny apps and rmarkdown reports a little more bootstrap polish.  Enjoy episode 21 of the R-Podcast!"
 aliases = ["/21"]
-author = "Matt"
+author = "Eric"
 categories = ["Podcast"]
-date = "2017-02-09T06:00:25-05:00"
+date = "2017-02-09"
 episode = "21"
 #episode_image = "/img/episode/default.jpg"
 explicit = "no"
-guests = []
-images = ["/img/episode/default-social.jpg"]
-news_keywords = []
-podcast_duration = "1:08:22"
+guests = ["deddelbuettel"]
+podcast_duration = ""
 podcast_dir = "trp_audio_021/"
 podcast_file = "rpodcast021.mp3"
 podcast_length = ""
 tags = []
 title = "Episode 21: Talking Rcpp and more with Dirk Eddelbuettel"
 youtube = ""
-#media_override = "https://www.archive.org/download/trp_audio_021/rpodcast021.mp3"
 
 +++
 

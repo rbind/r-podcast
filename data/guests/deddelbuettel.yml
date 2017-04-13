@@ -1,0 +1,9 @@
+name: deddelbuettel
+full_name: "Dirk Eddelbuettel"
+thumbnail: "img/guest/deddelbuettel.png"
+bio: "Dirk is an active member of the R community in many capacities.  He is a board member of the R Foundation, author/maintainer of the [Rcpp](http://rcpp.org/) package, maintainer of the [finance](https://cran.r-project.org/view=Finance) and [high-performance computing](https://cran.r-project.org/view=HighPerformanceComputing) task views on CRAN, and is a maintainer for R packages on Debian."
+homepage: "http://dirk.eddelbuettel.com/"
+github: "eddelbuettel"
+facebook: ""
+twitter: "eddelbuettel"
+linkedin: "dirkeddelbuettel"

@@ -1,0 +1,8 @@
+name: hwickham 
+full_name: "Hadley Wickham"
+thumbnail: "img/guest/hwickham.jpg"
+bio: "Hadley Wickham is Chief Scientist at [RStudio](http://www.rstudio.com) and Adjunct Professor of Statistics at Rice University. He is interested in building better tools for data science. His work includes R packages for data analysis (ggplot2, plyr, reshape2); packages that make R less frustrating (lubridate for dates, stringr for strings, httr for accessing web APIs); and that make it easier to do good software development in R (roxygen2, testthat, devtools, lineprof, staticdocs). He is also a writer, educator, and frequent contributor to conferences promoting more accessible and more effective data analysis."
+github: "hadley"
+twitter: "hadleywickham"
+linkedin: "hadleywickham"
+homepage: "http://hadley.nz/"

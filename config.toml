@@ -35,6 +35,11 @@ themesdir = "/home/eric/hugo_testing"
     url = "/contact"
 
 [[Menu.Main]]
+    name = "Guests"
+		identifier = "guests"
+		url = "/guests"
+
+[[Menu.Main]]
     name = "Resources"
     identifier = "resources"
     url = "/resources"
