@@ -1,5 +1,5 @@
 +++
-title = "contact us"
+title = "Contact"
 description = "about this site"
 date = "2015-09-01"
 +++
@@ -7,12 +7,11 @@ date = "2015-09-01"
 We welcome your questions, comments, and suggestions! Here are the various options available for you to provide feedback:
 
 -   Complete the contact form below
--   Send an email (text or with an audio attachment) to: `theRcast(at)gmail.com`
+-   Send an email (text or with an audio attachment) to: `theRcast [at] gmail.com`
+-   Send a message to the R-Podcast twitter account [`@theRcast`](https://twitter.com/theRcast)
 -   Leave a voicemail using our listener hotline number at +1-269-849-9780
--   Visit our [Google+ page](https://plus.google.com/u/0/b/111193531932434833188/ "R-Podcast on Google+")
--   Provide show feedback and interact with other listeners at [The R-Podcast sub-reddit page](http://links.r-podcast.org "The R-Podcast sub-reddit page")
-
-**Note on Forums**: As of November 2012, the R-Podcast Forums have been moved to a new system due to spam user attacks despite my site controls to prevent such attacks from occurring. The R-Podcast now uses a sub-reddit as a replacement to these forums, in which users can submit interesting stories and links from the R Community, as well as provide direct feedback on the show.
+-   Visit our [Google+ page](https://plus.google.com/u/0/b/111193531932434833188/)
+-   Provide show feedback and interact with other listeners at [The R-Podcast sub-reddit page](http://links.r-podcast.org)
 
 <!-- www.123contactform.com script begins here -->
 
