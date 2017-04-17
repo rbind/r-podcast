@@ -13,6 +13,7 @@ metaDataFormat = "yaml"
 	# page = "/:filename/"
 	about = "/:filename/"
 	contact = "/:filename/"
+	subscribe = "/:filename/"
 	guests = "/:filename/"
 	#episode = "/:filename/"
 	#episode = "/:title/"
@@ -31,6 +32,11 @@ metaDataFormat = "yaml"
     identifier = "about"
     url = "/about"
 
+[[Menu.Main]]
+    name = "Subscribe"
+    identifier = "subscribe"
+    url = "/subscribe"
+    
 [[Menu.Main]]
     name = "Contact"
     identifier = "contact"
