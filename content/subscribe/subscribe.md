@@ -18,3 +18,4 @@ The R-Podcast is available on these podcast applications and services:
 #### Additional Content
 
 * It is highly recommended that you also subscribe to the podcast episode [web RSS feed](/episode/index.xml) to receive the full show notes with links and other information discussed in each episode.
+* For keeping up-to-date with all content appearing on the R-Podcast site (such as detailed articles) subscribe to the full content [RSS feed](index.xml).
