@@ -9,8 +9,9 @@ Description: I'm happy to present this jam-packed episode of the R-Podcast dedic
   at +1-269-849-9780 or record an audio clip and send it tothe Rcast(at)gmail.com.
   Please keep the wonderful feedback coming and hope you enjoy this episode!
 aliases:
+- /posts/the-r-podcast-episode-8-visualization-with-ggplot2.html
 - /8
-author: Matt
+author: Eric
 categories:
 - Podcast
 date: 2012-06-20T09:02:01-05:00
@@ -53,7 +54,7 @@ youtube: ""
     01:45 Thank you Going Linux
     05:01 Listener feedback
     14:14 ggplot2 background and philosophy
-    23:00 Description of data 
+    23:00 Description of data
     30:20 Setting up our plot with ggplot function
     38:15 Adding boxplot layer
     44:31 Customizing appearance

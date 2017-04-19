@@ -11,6 +11,7 @@ Description: In this episode of the R-Podcast I have a conversation with my coll
   on Twitter.  As always thanks for tuning in and I hope you enjoy episode 22 of the
   R-Podcast!
 aliases:
+- /posts/the-r-podcast-episode-22-diving-in-to-drake-with-will-landau.html
 - /22
 author: Eric
 categories:
@@ -24,7 +25,6 @@ podcast_dir: trp_audio_022/
 podcast_duration: ""
 podcast_file: rpodcast022.mp3
 podcast_length: ""
-slug: the-r-podcast-episode-22-diving-in-to-drake-with-will-landau
 tags: []
 title: 'Episode 22: Diving in to Drake with Will Landau'
 youtube: ""

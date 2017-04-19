@@ -10,8 +10,9 @@ Description: I'm happy to present episode 10 of the R-Podcast! Season 1 of the R
   enjoy the episode and check out our new contact page if you would like to provide
   any feedback. Thanks for listening!
 aliases:
+- /posts/the-r-podcast-episode-10-adventures-in-data-munging-part-2.html
 - /10
-author: Matt
+author: Eric
 categories:
 - Podcast
 date: 2012-09-16T16:13:09-05:00
@@ -51,7 +52,7 @@ youtube: ""
     01:50 Wrapping up season 1 ... wait, what?
     03:30 Rstudio team expands
     05:41 R Community milestone
-    07:53 Discovering hockey-reference.com 
+    07:53 Discovering hockey-reference.com
     10:54 Tips for readHTMLtable
     21:10 Checking for valid data first
     29:23 Minor processing needed

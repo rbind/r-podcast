@@ -6,8 +6,9 @@ Description: 'In this episode: Site updates, additional screencasts about R from
   a voicemail a +1-269-849-9780, or send an email or audio comment to theRcast[at]gmail.com.
   Thanks for listening!'
 aliases:
+- /posts/the-r-podcast-episode-4-data-structures-introduction.html
 - /4
-author: Matt
+author: Eric
 categories:
 - Podcast
 date: 2012-03-25T18:03:18-05:00

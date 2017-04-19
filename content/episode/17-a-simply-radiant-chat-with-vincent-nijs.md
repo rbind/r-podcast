@@ -8,8 +8,9 @@ Description: The R-Podcast continues its series on Shiny and the first-ever Shin
   like to involve the community to add new capabilities to Radiant.  I hope you enjoy
   this episode and thanks for listening!
 aliases:
+- /posts/the-r-podcast-episode-17-a-simply-radiant-chat-with-vincent-nijs.html
 - /17
-author: Matt
+author: Eric
 categories:
 - Podcast
 date: 2016-02-04T05:57:21-05:00

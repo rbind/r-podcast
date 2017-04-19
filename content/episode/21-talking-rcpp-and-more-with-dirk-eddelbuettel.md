@@ -7,6 +7,7 @@ Description: The R-Podcast concludes its coverage of [rstudio::conf](https://www
   new batch of listener feedback and a package pick that gives your shiny apps and
   rmarkdown reports a little more bootstrap polish.  Enjoy episode 21 of the R-Podcast!
 aliases:
+- /posts/the-r-podcast-episode-21-talking-rcpp-and-more-with-dirk-eddelbuettel.html
 - /21
 author: Eric
 categories:

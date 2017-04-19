@@ -12,8 +12,9 @@ Description: 'Hello everybody, I am finally back with a new episode! In this epi
   Darren pointed out that I switched forward slashes with backward slashes in my discussion
   about file paths in Episode 6. Thanks Darren!'
 aliases:
+- /posts/the-r-podcast-episode-7-best-practices-for-workflow-management.html
 - /7
-author: Matt
+author: Eric
 categories:
 - Podcast
 date: 2012-05-28T20:54:31-05:00

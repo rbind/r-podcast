@@ -15,8 +15,9 @@ Description: 'Just in time for the new year is a new episode of the [R-Podcast](
   directly on the site.<br /> * Leave a voicemail at at `+1-269-849-9780`.<br /><br
   />Happy New Year and I hope you enjoy the episode!'
 aliases:
+- /posts/the-r-podcast-episode-15-introduction-to-shiny.html
 - /15
-author: Matt
+author: Eric
 categories:
 - Podcast
 date: 2015-12-31T21:11:30-05:00
@@ -38,7 +39,7 @@ youtube: ""
 ### [r-podcast.org](https://www.r-podcast.org) gets a face lift!
 
 - Now powered by the awesome [Nikola](www.getnikola.com) static site generator.  Able to write all content using markdown!
-- Potential to use R-Markdown for future content!  See Edward Borasky's excellent tutorial: http://www.znmeb.mobi/stories/blogging-with-rstudio-and-nikola 
+- Potential to use R-Markdown for future content!  See Edward Borasky's excellent tutorial: http://www.znmeb.mobi/stories/blogging-with-rstudio-and-nikola
 - Shout out to Roberto and the rest of the [Nikola contributors](https://getnikola.com/authors.html) for helping me fix some key [migration issues](https://groups.google.com/forum/#!topic/nikola-discuss/qYTaOoek-ic)!  Still a few tweaks to go, pardon the dust as I continue to make improvements.
 - Now with SSL support via the [lets encrypt](https://letsencrypt.org/) initiative, and the certificate is absolutely free!
 

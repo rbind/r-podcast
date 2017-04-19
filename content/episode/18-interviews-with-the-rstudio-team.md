@@ -8,8 +8,9 @@ Description: The R-Podcast concludes its series on the Shiny Developer Conferenc
   how the conference came together, and ideas for future enhancements of shiny. All
   of this and more on episode 18 of the R-Podcast!
 aliases:
+- /posts/the-r-podcast-episode-18-interviews-with-the-rstudio-team.html
 - /18
-author: Matt
+author: Eric
 categories:
 - Podcast
 date: 2016-02-22T05:33:31-05:00

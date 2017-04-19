@@ -5,8 +5,9 @@ Description: This is not an April Fool's joke ... The R-Podcast is back once aga
   of listener feedback, and highlight a couple of great visualization applications
   from the community using ggplot2. All of that and more on episode 12 of the R-Podcast!
 aliases:
+- /posts/the-r-podcast-episode-12-using-version-control-with-r.html
 - /12
-author: Matt
+author: Eric
 categories:
 - Podcast
 date: 2013-04-01T05:44:10-05:00

@@ -8,8 +8,9 @@ Description: 'In this episode: Listener feedback and importing data from externa
   or record a short mp3 or ogg audio clip and send it to theRcast(at)gmail.com . Hope
   you enjoy the episode!'
 aliases:
+- /posts/the-r-podcast-episode-6-importing-data-from-external-sources.html
 - /6
-author: Matt
+author: Eric
 categories:
 - Podcast
 date: 2012-04-29T20:58:39-05:00

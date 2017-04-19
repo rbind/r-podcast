@@ -10,8 +10,9 @@ Description: In episode 20 I'm happy to bring you more great interviews with mem
   of this plus a package pick that could enable me to use R in my podcast workflow
   in episode 20 of the R-Podcast!
 aliases:
+- /posts/the-r-podcast-episode-20-more-interviews-from-rstudioconf-with-javier-luraschi-and-garrett-grolemund.html
 - /20
-author: Matt
+author: Eric
 categories:
 - Podcast
 date: 2017-01-28T20:43:40-05:00
@@ -36,8 +37,8 @@ youtube: ""
 - Apache Spark: <https://spark.apache.org>
 - sparklyr documentation: <http://spark.rstudio.com/index.html>
 - sparklyr on GitHub: <https://github.com/rstudio/sparklyr>
-- sparklyr version 0.5 release notes: <https://blog.rstudio.org/2017/01/24/sparklyr-0-5/> 
-* R For Data Science: <http://r4ds.had.co.nz/> 
+- sparklyr version 0.5 release notes: <https://blog.rstudio.org/2017/01/24/sparklyr-0-5/>
+* R For Data Science: <http://r4ds.had.co.nz/>
 * Garrett's Introduction to Data Science with R video course on O'Reilly Media: <http://shop.oreilly.com/product/0636920034834.do>
 
 ### Package Pick

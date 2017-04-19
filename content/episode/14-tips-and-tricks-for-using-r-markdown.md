@@ -8,8 +8,9 @@ Description: The [R-Podcast](http://www.r-podcast.org) is back up and running! I
   hiatus, and please don't hesitate to provide your feedback and suggestions for future
   episodes. I hope you enjoy this episode!
 aliases:
+- /posts/the-r-podcast-episode-14-tips-and-tricks-for-using-r-markdown.html
 - /14
-author: Matt
+author: Eric
 categories:
 - Podcast
 date: 2015-11-18T14:07:21-05:00
@@ -53,7 +54,7 @@ youtube: ""
 Insert following code chunk in beginning of document
 
 ```{r}
-out_type <- knitr::opts_knit$get("rmarkdown.pandoc.to") 
+out_type <- knitr::opts_knit$get("rmarkdown.pandoc.to")
 ```
 
 Then use conditional logic to perform different tasks depending on output type (docx, html, pdf, md)

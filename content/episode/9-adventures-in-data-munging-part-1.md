@@ -8,8 +8,9 @@ Description: It’s great to be back with a new episode after an eventful break!
   you enjoy this episode and keep passing along your feedback to theRcast(at)gmail.com
   and stop by the forums as well!
 aliases:
+- /posts/the-r-podcast-episode-9-adventures-in-data-munging-part-1.html
 - /9
-author: Matt
+author: Eric
 categories:
 - Podcast
 date: 2012-08-05T09:48:44-05:00

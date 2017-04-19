@@ -5,8 +5,9 @@ Description: Here is the inaugural episode of the R-Podcast! In this episode, I 
   that distinguish it from other statistical software. Please feel free to send your
   feedback to theRcast[at]gmail.com or leave a voice mail at 1-269-849-9780.
 aliases:
+- /posts/the-r-podcast-episode-1-introduction.html
 - /1
-author: Matt
+author: Eric
 categories:
 - Podcast
 date: 2012-02-12T16:52:20-05:00

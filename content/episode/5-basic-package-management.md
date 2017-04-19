@@ -7,8 +7,9 @@ Description: 'After a brief delay here''s episode 5 of the R-Podcast. In this ep
   call the voicemail hotline at +1-269-849-9780 or record a short mp3 or ogg audio
   clip and send it to theRcast(at)gmail.com . Hope you enjoy the episode!'
 aliases:
+- /posts/the-r-podcast-episode-5-basic-package-management.html
 - /5
-author: Matt
+author: Eric
 categories:
 - Podcast
 date: 2012-04-15T12:41:26-05:00

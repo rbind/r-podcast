@@ -7,8 +7,9 @@ Description: 'It''s an episode of firsts on the R-Podcast! In this episode recor
   approach for publishing and maintaining reproducible statistical results online,
   and much more on this ''lucky'' episode 13 of the R-Podcast!'
 aliases:
+- /posts/the-r-podcast-episode-13-interview-with-yihui-xie.html
 - /13
-author: Matt
+author: Eric
 categories:
 - Podcast
 date: 2013-05-23T08:43:17-05:00
@@ -46,7 +47,7 @@ youtube: ""
 #### Package pick
 
 -   [Pandoc](http://johnmacfarlane.net/pandoc/): Powerful and customizable document conversion
-    
+
 #### How to interact with the show
 
 -   Submit your questions and comments via the R-Podcast [contac page](http://www.r-podcast.org/contact/), or send an email to theRcast(at)gmail.com

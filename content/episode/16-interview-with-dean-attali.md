@@ -9,8 +9,9 @@ Description: Direct from the first-ever [Shiny Developer conference](http://blog
   using R, his collaboration with the RStudio team, and much more.  I hope you enjoy
   this episode and thanks for listening!
 aliases:
+- /posts/the-r-podcast-episode-16-interview-with-dean-attali.html
 - /16
-author: Matt
+author: Eric
 categories:
 - Podcast
 date: 2016-01-30T07:28:43-05:00

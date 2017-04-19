@@ -9,8 +9,9 @@ Description: 'The [R-Podcast](http://www.r-podcast.org/) has landed in Orlando f
   this plus a package pick that can give Shiny app users a helping hand.  I hope you
   enjoy episode 19 of the R-Podcast!'
 aliases:
+- /posts/the-r-podcast-episode-19-talking-shiny-at-rstudio-conf-with-barbara-borges-and-dean-attali.html
 - /19
-author: Matt
+author: Eric
 categories:
 - Podcast
 date: 2017-01-12T09:08:57-05:00

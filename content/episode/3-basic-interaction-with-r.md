@@ -6,8 +6,9 @@ Description: 'In this episode: New versions of R and ggplot2 available, listener
   always, please provide your feedback via email or audio comment to theRcast[at]gmail.com
   or leave us a voicemail at 1-269-849-9780.'
 aliases:
+- /posts/the-r-podcast-episode-3-basic-interaction-with-r.html
 - /3
-author: Matt
+author: Eric
 categories:
 - Podcast
 date: 2012-03-11T22:54:12-05:00

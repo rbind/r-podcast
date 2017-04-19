@@ -9,8 +9,9 @@ Description: Season 2 of the R-Podcast is up and running! This episode begins a 
   interesting stories around the R community and useful packages. This promises to
   be an exciting season of the R-Podcast, and I hope you enjoy this episode!
 aliases:
+- /posts/the-r-podcast-episode-11-reproducible-analysis-part-1-introduction.html
 - /11
-author: Matt
+author: Eric
 categories:
 - Podcast
 date: 2012-11-13T09:19:56-05:00

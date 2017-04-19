@@ -5,8 +5,9 @@ Description: 'In this episode: A couple of site updates, our first listener feed
   please send an email or audio comment to theRcast[at]gmail.com or leave us a voicemail
   at 1-269-849-9780.'
 aliases:
+- /posts/the-r-podcast-episode-2-getting-ready-to-use-r.html
 - /2
-author: Matt
+author: Eric
 categories:
 - Podcast
 date: 2012-02-26T20:43:52-05:00
