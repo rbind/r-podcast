@@ -49,9 +49,9 @@ youtube: ""
 
 ### Feedback
 
-- Leave a comment on this episode's [post](link://slug/the-r-podcast-episode-21-talking-rcpp-and-more-with-dirk-eddelbuettel)
+- Leave a comment on this episode's [post]({{< ref "21-talking-rcpp-and-more-with-dirk-eddelbuettel.md" >}})
 - Email the show: `thercast[at]gmail.com`
-- Use the R-Podcast [contact page](link://slug/contact)
+- Use the R-Podcast [contact page]({{< ref "contact.md" >}})
 - Leave a voicemail at `+1-269-849-9780`
 
 ### Music Credits

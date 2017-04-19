@@ -47,9 +47,9 @@ youtube: ""
 
 ### Feedback
 
-- Leave a comment on this episode's [post](link://slug/the-r-podcast-episode-18-interviews-with-the-rstudio-team)
+- Leave a comment on this episode's [post]({{< ref "18-interviews-with-the-rstudio-team.md" > }})
 - Email the show: `thercast[at]gmail.com`
-- Use the R-Podcast [contact page](link://slug/contact)
+- Use the R-Podcast [contact page]({{< ref "contact.md" >}})
 - Leave a voicemail at `+1-269-849-9780`
 
 ### Music Credits

@@ -87,9 +87,9 @@ youtube: ""
 
 ### Feedback
 
-- Leave a comment on this episode's [post](link://slug/the-r-podcast-episode-15-introduction-to-shiny)
+- Leave a comment on this episode's [post]({{< ref "15-introduction-to-shiny.md" > }})
 - Email the show: `thercast[at]gmail.com`
-- Use the R-Podcast [contact page](www.r-podcast.org/contact)
+- Use the R-Podcast [contact page]({{< ref "contact.md" >}})
 - Leave a voicemail at `+1-269-849-9780`
 
 ### Music Credits

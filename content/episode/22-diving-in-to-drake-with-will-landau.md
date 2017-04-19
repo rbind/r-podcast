@@ -61,9 +61,9 @@ youtube: ""
 
 ### Feedback
 
-- Leave a comment on this episode's [post](link://slug/the-r-podcast-episode-22-diving-in-to-drake-with-will-landau)
+- Leave a comment on this episode's [post]({{< ref "22-diving-in-to-drake-with-will-landau.md" >}})
 - Email the show: `thercast[at]gmail.com`
-- Use the R-Podcast [contact page](link://slug/contact)
+- Use the R-Podcast [contact page]({{< ref "contact.md" >}})
 - Leave a voicemail at `+1-269-849-9780`
 
 ### Music Credits

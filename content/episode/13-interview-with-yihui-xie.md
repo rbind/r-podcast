@@ -50,7 +50,7 @@ youtube: ""
 
 #### How to interact with the show
 
--   Submit your questions and comments via the R-Podcast [contac page](http://www.r-podcast.org/contact/), or send an email to theRcast(at)gmail.com
+-   Submit your questions and comments via the R-Podcast [contact page]({{< ref "contact.md" >}}), or send an email to theRcast(at)gmail.com
 -   Send in an audio comment via audio attachment to theRcast(at)gmail.com, or leave a voicemail on the R-Podcast voicemail hotline: +1-269-849-9780
 -   Get show updates via our Twitter account: @theRcast
 -   Follow us on our R-Podcast Google Plus page: [gplus.to/thercast](http://gplus.to/thercast)
