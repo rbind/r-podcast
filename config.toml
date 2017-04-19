@@ -61,7 +61,7 @@ metaDataFormat = "yaml"
 [params]
 site_theme = "blue"
 # about_logo = ""  # path to image file within hugo dir
-copyright_notice = "The R-Podcast is licensed under a Creative Commons Attribution 4.0 International License"
+copyright_notice = "The R-Podcast is licensed under a Creative Commons Attribution 4.0 International License.  Web site powered by [hugo](https://gohugo.io/) and [blogdown](https://github.com/rstudio/blogdown) all created within [R](https://www.r-project.org/)"
 soundcloud_subscribe = "http://feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
 itunes_subscribe = "https://itunes.apple.com/us/podcast/the-r-podcast/id1140581792"
 pocketcasts_subscribe = "http://pcasts.in/feed/feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
