@@ -2,6 +2,8 @@
 date: 2015-09-01
 description: about this site
 title: Contact
+aliases:
+- /stories/contact.html
 ---
 
 We welcome your questions, comments, and suggestions! Here are the various options available for you to provide feedback:
