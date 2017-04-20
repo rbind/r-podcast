@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://www.r-podcast.org/"
 languageCode = "en-us"
 title = "The R-Podcast"
 theme = "castanet"
