@@ -36,7 +36,7 @@ youtube: ""
 
 ### Feedback
 
-- Leave a comment on this episode's [post]({{ < ref "17-a-simply-radiant-chat-with-vincent-nijs.md" > }})
+- Leave a comment on this episode's [post]({{< ref "17-a-simply-radiant-chat-with-vincent-nijs.md" >}})
 - Email the show: `thercast[at]gmail.com`
 - Use the R-Podcast [contact page]({{< ref "contact.md" >}})
 - Leave a voicemail at `+1-269-849-9780`
