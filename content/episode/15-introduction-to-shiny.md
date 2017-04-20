@@ -87,7 +87,7 @@ youtube: ""
 
 ### Feedback
 
-- Leave a comment on this episode's [post]({{< ref "15-introduction-to-shiny.md" > }})
+- Leave a comment on this episode's [post]({{< ref "15-introduction-to-shiny.md" >}})
 - Email the show: `thercast[at]gmail.com`
 - Use the R-Podcast [contact page]({{< ref "contact.md" >}})
 - Leave a voicemail at `+1-269-849-9780`
