@@ -8,15 +8,11 @@ disqusShortname = "r-podcast"
 themesdir = "../hugo_testing"
 metaDataFormat = "yaml"
 
-
 [permalinks]
-	# page = "/:filename/"
 	about = "/:filename/"
 	contact = "/:filename/"
 	subscribe = "/:filename/"
 	guests = "/:filename/"
-	#episode = "/:filename/"
-	#episode = "/:title/"
 	resources = "/:filename/"
 
 [taxonomies]
@@ -52,12 +48,6 @@ metaDataFormat = "yaml"
     identifier = "resources"
     url = "/resources"
 
-#[[Menu.Main]]
-#    name = "Books"
-#    identifier = "books"
-#    url = "/books"
-#    parent = "resources"
-
 [params]
 site_theme = "blue"
 # about_logo = ""  # path to image file within hugo dir
@@ -65,10 +55,7 @@ copyright_notice = "The R-Podcast is licensed under a Creative Commons Attributi
 soundcloud_subscribe = "http://feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
 itunes_subscribe = "https://itunes.apple.com/us/podcast/the-r-podcast/id1140581792"
 pocketcasts_subscribe = "http://pcasts.in/feed/feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
-#android_subscribe = "http://subscribeonandroid.com/feeds.podtrac.com/VGAulpN7MY1U"
-#google_play_subscribe = "https://goo.gl/app/playmusic?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Ihj4yege3lfmp3vs5yoopgxijpi?t%3DArrested_DevOps"
 mailchimp_subscribe = "//r-podcast.us14.list-manage.com/subscribe/post?u=060990021bb38f2dbcc6a55ac&amp;id=6aca215b46"
-#rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
 description = "Giving practical advice on how to use R for powerful and innovative data analyses."
 media_prefix = "https://aphid.fireside.fm/d/1437767933/487fd4f7-8859-4de4-98de-25634d400177/"
   [params.feed]
@@ -86,15 +73,10 @@ media_prefix = "https://aphid.fireside.fm/d/1437767933/487fd4f7-8859-4de4-98de-2
   [params.social]
     github = "thercast"
 		gitlab = "rpodcast"
-    #facebook = ""
-    #facebook_admin = ""  # This needs to be a page admin to get domain insights
     twitter = "thercast"
     twitter_domain = "r-podcast.org" # This domain shows in twitter cards as "View on `twitter_domain`"
     googleplus = "111193531932434833188"
-    #pinterest = ""
-    #instagram = ""
     #youtube = ""
-    #linkedin = ""
 
   [params.authors]
     [params.authors.Eric]
@@ -103,7 +85,6 @@ media_prefix = "https://aphid.fireside.fm/d/1437767933/487fd4f7-8859-4de4-98de-2
       bio = "The host of the R-Podcast is Eric Nantz, a statistician working in the life sciences industry who has been using R since 2004.  Eric quickly developed a passion for using and learning more about R due in large part to the brilliant and exciting R community and its free and open source heritage, much like his favorite operating system Linux.  Currently he is running a mix of various linux distrubutions such as Arch, Ubuntu, and CentOS on both his local computers and virtual servers hosted on [Digital Ocean](www.digitalocean.com), each running R of course!"
       [params.authors.Eric.social]
         github = "thercast"
-        #facebook = ""
         twitter = "thercast"
-        #linkedin = ""
+        #linkedin = "
         #homepage = ""
