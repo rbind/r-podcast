@@ -4,8 +4,7 @@ title = "The R-Podcast"
 theme = "castanet"
 #googleAnalytics = "UA-123-45"
 disqusShortname = "r-podcast"
-#themesdir = "themes"
-themesdir = "../hugo_testing"
+themesdir = "themes"
 metaDataFormat = "yaml"
 
 [permalinks]
