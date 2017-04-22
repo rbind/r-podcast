@@ -20,9 +20,8 @@ guests:
 images:
 - /img/episode/default-social.jpg
 news_keywords: []
-podcast_dir: trp_audio_013/
-podcast_duration: "1:08:22"
-podcast_file: rpodcast013.mp3
+podcast_duration: "0:52:01"
+podcast_file: 77e98b58-c259-4989-aac5-4e4157434455.mp3
 podcast_length: ""
 tags: []
 title: 'Episode 13: Interview with Yihui Xie'

@@ -21,9 +21,8 @@ guests: []
 images:
 - /img/episode/default-social.jpg
 news_keywords: []
-podcast_dir: trp_audio_008/
-podcast_duration: "1:08:22"
-podcast_file: rpodcast008.mp3
+podcast_duration: "1:29:00"
+podcast_file: 9a05eec7-c464-47fd-8d59-0f902e2b13ec.mp3
 podcast_length: ""
 tags: []
 title: 'Episode 8: Visualization with `ggplot2`'

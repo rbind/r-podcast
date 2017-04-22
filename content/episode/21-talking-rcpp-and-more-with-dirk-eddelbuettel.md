@@ -17,9 +17,8 @@ episode: "21"
 explicit: "no"
 guests:
 - deddelbuettel
-podcast_dir: trp_audio_021/
-podcast_duration: ""
-podcast_file: rpodcast021.mp3
+podcast_duration: "0:40:00"
+podcast_file: 0ac7aa1e-0dd2-403e-8d3d-eedaad8f625f.mp3
 podcast_length: ""
 tags: []
 title: 'Episode 21: Talking Rcpp and more with Dirk Eddelbuettel'

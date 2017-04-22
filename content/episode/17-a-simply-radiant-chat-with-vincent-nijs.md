@@ -21,9 +21,8 @@ guests:
 images:
 - /img/episode/default-social.jpg
 news_keywords: []
-podcast_dir: trp_audio_017/
-podcast_duration: "1:08:22"
-podcast_file: rpodcast017.mp3
+podcast_duration: "0:37:19"
+podcast_file: 811d2c31-3108-44e0-b938-66f9ee23f30b.mp3
 podcast_length: ""
 tags: []
 title: 'Episode 17: A Simply Radiant Chat with Vincent Nijs'

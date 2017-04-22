@@ -20,9 +20,8 @@ guests: []
 images:
 - /img/episode/default-social.jpg
 news_keywords: []
-podcast_dir: trp_audio_009/
-podcast_duration: "1:08:22"
-podcast_file: rpodcast009.mp3
+podcast_duration: "1:11:00"
+podcast_file: 00942d84-d2e8-4d7c-94ec-46bf7add9eca.mp3
 podcast_length: ""
 tags: []
 title: 'Episode 9: Adventures in Data Munging Part 1'

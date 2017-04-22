@@ -17,9 +17,8 @@ guests: []
 images:
 - /img/episode/default-social.jpg
 news_keywords: []
-podcast_dir: trp_audio_002/
-podcast_duration: "1:08:22"
-podcast_file: rpodcast002.mp3
+podcast_duration: "0:31:34"
+podcast_file: a774c57a-38df-4884-b380-1d07ce172a68.mp3
 podcast_length: ""
 tags: []
 title: 'Episode 2: Getting Ready to Use R'

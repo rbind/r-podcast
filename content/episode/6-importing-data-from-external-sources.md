@@ -20,9 +20,8 @@ guests: []
 images:
 - /img/episode/default-social.jpg
 news_keywords: []
-podcast_dir: trp_audio_006/
-podcast_duration: "1:08:22"
-podcast_file: rpodcast006.mp3
+podcast_duration: "0:54:03"
+podcast_file: 82d4368d-6f99-4af9-a50c-321dc6d7e43b.mp3
 podcast_length: ""
 tags: []
 title: 'Episode 6: Importing Data from External Sources'

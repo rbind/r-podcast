@@ -22,9 +22,8 @@ guests: []
 images:
 - /img/episode/default-social.jpg
 news_keywords: []
-podcast_dir: trp_audio_010/
-podcast_duration: "1:08:22"
-podcast_file: rpodcast010.mp3
+podcast_duration: "1:09:00"
+podcast_file: eb37f31c-4873-4447-99dc-02f492778347.mp3
 podcast_length: ""
 tags: []
 title: 'Episode 10: Adventures in Data Munging Part 2'

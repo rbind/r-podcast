@@ -70,7 +70,7 @@ pocketcasts_subscribe = "http://pcasts.in/feed/feeds.soundcloud.com/users/soundc
 mailchimp_subscribe = "//r-podcast.us14.list-manage.com/subscribe/post?u=060990021bb38f2dbcc6a55ac&amp;id=6aca215b46"
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
 description = "Giving practical advice on how to use R for powerful and innovative data analyses."
-media_prefix = "https://archive.org/download/"
+media_prefix = "https://aphid.fireside.fm/d/1437767933/487fd4f7-8859-4de4-98de-25634d400177/"
   [params.feed]
     feed_copyright = "Copyright 2017 Eric Nantz" #do not use markdown in this field; it is used in the feed
     itunes_subtitle = "" #no markdown or HTML

@@ -24,9 +24,8 @@ guests:
 images:
 - /img/episode/default-social.jpg
 news_keywords: []
-podcast_dir: trp_audio_020/
-podcast_duration: "1:08:22"
-podcast_file: rpodcast020.mp3
+podcast_duration: "0:29:59"
+podcast_file: ce37b36c-33b4-4c15-997f-16ff9b9d28ec.mp3
 podcast_length: ""
 tags: []
 title: 'Episode 20: More interviews from rstudio::conf with Javier Luraschi and Garrett

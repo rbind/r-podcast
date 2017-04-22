@@ -18,9 +18,8 @@ guests: []
 images:
 - /img/episode/default-social.jpg
 news_keywords: []
-podcast_dir: trp_audio_003/
-podcast_duration: "1:08:22"
-podcast_file: rpodcast003.mp3
+podcast_duration: "1:01:00"
+podcast_file: 495d95da-c998-48d7-b4cf-6038530f33a6.mp3
 podcast_length: ""
 tags: []
 title: 'Episode 3: Basic Interaction with R'

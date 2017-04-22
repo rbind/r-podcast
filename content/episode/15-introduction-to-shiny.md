@@ -27,9 +27,8 @@ guests: []
 images:
 - /img/episode/default-social.jpg
 news_keywords: []
-podcast_dir: trp_audio_015/
-podcast_duration: "1:08:22"
-podcast_file: rpodcast015.mp3
+podcast_duration: "0:50:51"
+podcast_file: 4f7d1d1d-2e08-4141-b2f7-ebd7ce479311.mp3
 podcast_length: ""
 tags: []
 title: 'Episode 15: Introduction to Shiny'

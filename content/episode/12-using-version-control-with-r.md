@@ -17,9 +17,8 @@ guests: []
 images:
 - /img/episode/default-social.jpg
 news_keywords: []
-podcast_dir: trp_audio_012/
-podcast_duration: "1:08:22"
-podcast_file: rpodcast012.mp3
+podcast_duration: "1:29:00"
+podcast_file: a19b0f6e-3efe-4abc-a793-c69b91c0558e.mp3
 podcast_length: ""
 tags: []
 title: 'Episode 12: Using Version Control with R'

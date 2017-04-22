@@ -19,9 +19,8 @@ guests: []
 images:
 - /img/episode/default-social.jpg
 news_keywords: []
-podcast_dir: trp_audio_005/
-podcast_duration: "1:08:22"
-podcast_file: rpodcast005.mp3
+podcast_duration: "1:01:00"
+podcast_file: 1ca82663-3ac3-450e-b906-b3b21f734443.mp3
 podcast_length: ""
 tags: []
 title: 'Episode 5: Basic Package Management'

@@ -23,9 +23,8 @@ guests:
 images:
 - /img/episode/default-social.jpg
 news_keywords: []
-podcast_dir: trp_audio_019/
-podcast_duration: "1:08:22"
-podcast_file: rpodcast019.mp3
+podcast_duration: "1:09:00"
+podcast_file: 4f799fbe-c56a-442a-8bff-2c11fb424ff4.mp3
 podcast_length: ""
 tags: []
 title: 'Episode 19: Talking Shiny at RStudio Conf with Barbara Borges and Dean Attali'

@@ -21,9 +21,8 @@ episode: "22"
 explicit: "no"
 guests:
 - wlandau
-podcast_dir: trp_audio_022/
-podcast_duration: ""
-podcast_file: rpodcast022.mp3
+podcast_duration: "1:17:00"
+podcast_file: e53eab6e-651a-44b3-9cd4-9bc3f0bb8c12.mp3
 podcast_length: ""
 tags: []
 title: 'Episode 22: Diving in to Drake with Will Landau'

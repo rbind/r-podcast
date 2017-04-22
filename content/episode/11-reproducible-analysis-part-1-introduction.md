@@ -21,9 +21,8 @@ guests: []
 images:
 - /img/episode/default-social.jpg
 news_keywords: []
-podcast_dir: trp_audio_011/
-podcast_duration: "1:08:22"
-podcast_file: rpodcast011.mp3
+podcast_duration: "1:17:00"
+podcast_file: 8fc51582-ff4b-4d03-a186-b14f8eb1ca5f.mp3
 podcast_length: ""
 tags: []
 title: 'Episode 11: Reproducible Analysis Part 1 (Introduction)'

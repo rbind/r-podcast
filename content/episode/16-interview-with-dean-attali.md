@@ -22,9 +22,8 @@ guests:
 images:
 - /img/episode/default-social.jpg
 news_keywords: []
-podcast_dir: trp_audio_016/
-podcast_duration: "1:08:22"
-podcast_file: rpodcast016.mp3
+podcast_duration: "0:40:58"
+podcast_file: 0c12b711-7fb0-4a93-ae26-94ea11784bc2.mp3
 podcast_length: ""
 tags: []
 title: 'Episode 16: Interview with Dean Attali'

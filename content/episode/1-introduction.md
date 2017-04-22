@@ -17,9 +17,8 @@ guests: []
 images:
 - /img/episode/default-social.jpg
 news_keywords: []
-podcast_dir: trp_audio_001/
-podcast_duration: "1:08:22"
-podcast_file: rpodcast001.mp3
+podcast_duration: "0:30:52"
+podcast_file: 94e70df6-a918-456d-a2e9-27b257fe4b9e.mp3
 podcast_length: ""
 tags: []
 title: 'Episode 1: Introduction'
