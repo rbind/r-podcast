@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "The R-Podcast"
 theme = "castanet"
 #googleAnalytics = "UA-123-45"
-#disqusShortname = "r-podcast"
+disqusShortname = "r-podcast"
 #themesdir = "themes"
 themesdir = "../hugo_testing"
 metaDataFormat = "yaml"
@@ -36,7 +36,7 @@ metaDataFormat = "yaml"
     name = "Subscribe"
     identifier = "subscribe"
     url = "/subscribe"
-    
+
 [[Menu.Main]]
     name = "Contact"
     identifier = "contact"
@@ -78,8 +78,8 @@ media_prefix = "https://archive.org/download/"
     itunes_summary = "The R-Podcast is a podcast for both new and experienced R users who want to learn more about using R to conduct innovative data analyses." # Limited to 4000 characters or less, plain text, no HTML
     itunes_owner_name = "Eric Nantz"
     itunes_owner_email = "theRcast@gmail.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on iTunes. It will not be publicly displayed on iTunes.
-    #itunes_image = "https://www.arresteddevops.com/img/ado-podcast-logo.png" #fqdn to the image art for your podcast
-    #itunes_top_category = "Technology"
+    itunes_image = "http://i.imgur.com/Mr70QS9.png" #fqdn to the image art for your podcast
+    itunes_top_category = "Technology"
     #itunes_first_sub_category = "Software How-To"
     #itunes_second_sub_category = "Tech News"
 
