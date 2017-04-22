@@ -1,0 +1,3 @@
+[submodule "themes/castanet"]
+	path = themes/castanet
+	url = git@github.com:yihui/castanet.git
