@@ -49,6 +49,8 @@ metaDataFormat = "yaml"
 
 [params]
 site_theme = "blue"
+site_layout = "row"
+enable_jumbo = "false"
 # about_logo = ""  # path to image file within hugo dir
 copyright_notice = "The R-Podcast is licensed under a Creative Commons Attribution 4.0 International License.  Web site powered by [hugo](https://gohugo.io/) and [blogdown](https://github.com/rstudio/blogdown) all created within [R](https://www.r-project.org/)"
 soundcloud_subscribe = "http://feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
@@ -75,15 +77,44 @@ media_prefix = "https://aphid.fireside.fm/d/1437767933/487fd4f7-8859-4de4-98de-2
     twitter = "thercast"
     twitter_domain = "r-podcast.org" # This domain shows in twitter cards as "View on `twitter_domain`"
     googleplus = "111193531932434833188"
-    #youtube = ""
+    youtube = "TheRPodcast"
 
   [params.authors]
     [params.authors.Eric]
       name	= "Eric Nantz"
-      #thumbnail = ""
-      bio = "The host of the R-Podcast is Eric Nantz, a statistician working in the life sciences industry who has been using R since 2004.  Eric quickly developed a passion for using and learning more about R due in large part to the brilliant and exciting R community and its free and open source heritage, much like his favorite operating system Linux.  Currently he is running a mix of various linux distrubutions such as Arch, Ubuntu, and CentOS on both his local computers and virtual servers hosted on [Digital Ocean](www.digitalocean.com), each running R of course!"
+      thumbnail = "http://i.imgur.com/Mr70QS9.png"
+      bio = "The host of the R-Podcast is Eric Nantz, a statistician working in the life sciences industry who has been using R since 2004.  Eric quickly developed a passion for using and learning more about R due in large part to the brilliant and exciting R community and its free and open source heritage, much like his favorite operating system Linux.  Currently he is running a mix of various linux distributions such as Arch, Ubuntu, and CentOS on both his local computers and virtual servers hosted on [Digital Ocean](www.digitalocean.com), each running R of course!"
       [params.authors.Eric.social]
         github = "thercast"
         twitter = "thercast"
         #linkedin = "
         #homepage = ""
+
+	[params.links]
+		[params.links.twitter]
+			name = "@theRcast on Twitter"
+			url = "https://twitter.com/theRcast"
+		[params.links.rweekly]
+			name = "R-Weekly"
+			url = "https://rweekly.org"
+		[params.links.rbloggers]
+			name = "R-Bloggers"
+			url = "http://www.r-bloggers.com"
+		[params.links.rstatistics]
+			name = "R-Statistics Blog"
+			url = "http://www.r-statistics.com"
+		[params.links.rusers]
+			name = "R-Users"
+			url = "http://www.r-users.com"
+		[params.links.rstudioblog]
+			name = "RStudio Blog"
+			url = "https://blog.rstudio.com"
+		[params.links.rviews]
+			name = "R-Views"
+			url = "https://www.rstudio.com/rviews.com"
+		[params.links.metacran]
+			name = "METACRAN"
+			url = "https://www.r-pkg.org/"
+		[params.links.datacamp]
+			name = "DataCamp"
+			url = "https://www.datacamp.com"
