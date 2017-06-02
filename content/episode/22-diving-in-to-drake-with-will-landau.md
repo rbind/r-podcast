@@ -23,10 +23,10 @@ guests:
 - wlandau
 podcast_duration: "1:17:00"
 podcast_file: e53eab6e-651a-44b3-9cd4-9bc3f0bb8c12.mp3
-podcast_length: ""
+podcast_bytes: ""
 tags: []
 title: 'Episode 22: Diving in to Drake with Will Landau'
-youtube: ""
+youtube: "eJQ29CLyDCs"
 ---
 
 * `drake` package on CRAN: <https://cran.rstudio.com/web/packages/drake/>.  Check out the [quickstart](https://cran.rstudio.com/web/packages/drake/vignettes/quickstart.html) and detailed [introduction](https://cran.rstudio.com/web/packages/drake/vignettes/drake.html) vignettes.

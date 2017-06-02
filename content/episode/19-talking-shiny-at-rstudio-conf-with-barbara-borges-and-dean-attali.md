@@ -22,13 +22,12 @@ guests:
 - dattali
 images:
 - /img/episode/default-social.jpg
-news_keywords: []
 podcast_duration: "1:09:00"
 podcast_file: 4f799fbe-c56a-442a-8bff-2c11fb424ff4.mp3
-podcast_length: ""
+podcast_bytes: ""
 tags: []
 title: 'Episode 19: Talking Shiny at RStudio Conf with Barbara Borges and Dean Attali'
-youtube: ""
+youtube: "GzCeABCU3Gk"
 ---
 
 * Barbara's [GitHub profile](https://github.com/bborgesr)

@@ -21,13 +21,12 @@ guests:
 - dattali
 images:
 - /img/episode/default-social.jpg
-news_keywords: []
 podcast_duration: "0:40:58"
 podcast_file: 0c12b711-7fb0-4a93-ae26-94ea11784bc2.mp3
-podcast_length: ""
+podcast_bytes: ""
 tags: []
 title: 'Episode 16: Interview with Dean Attali'
-youtube: ""
+youtube: "L9MINMAGHMU"
 ---
 
 ### Dean Attali ([@daattali](https://twitter.com/daattali))

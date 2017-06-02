@@ -17,13 +17,12 @@ explicit: "no"
 guests: []
 images:
 - /img/episode/default-social.jpg
-news_keywords: []
 podcast_duration: "1:01:00"
 podcast_file: 495d95da-c998-48d7-b4cf-6038530f33a6.mp3
-podcast_length: ""
+podcast_bytes: ""
 tags: []
 title: 'Episode 3: Basic Interaction with R'
-youtube: ""
+youtube: "IoqyVUPnALY"
 ---
 
 -   R version 2.14.2 release notes: <https://stat.ethz.ch/pipermail/r-announce/2012/000550.html>

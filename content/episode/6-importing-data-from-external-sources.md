@@ -19,13 +19,12 @@ explicit: "no"
 guests: []
 images:
 - /img/episode/default-social.jpg
-news_keywords: []
 podcast_duration: "0:54:03"
 podcast_file: 82d4368d-6f99-4af9-a50c-321dc6d7e43b.mp3
-podcast_length: ""
+podcast_bytes: ""
 tags: []
 title: 'Episode 6: Importing Data from External Sources'
-youtube: ""
+youtube: "z3MZaL_fsV8"
 ---
 
 -   R Data Import/Export Manual: <http://cran.r-project.org/doc/manuals/R-data.html>

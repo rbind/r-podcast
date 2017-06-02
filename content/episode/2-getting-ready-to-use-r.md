@@ -16,13 +16,12 @@ explicit: "no"
 guests: []
 images:
 - /img/episode/default-social.jpg
-news_keywords: []
 podcast_duration: "0:31:34"
 podcast_file: a774c57a-38df-4884-b380-1d07ce172a68.mp3
-podcast_length: ""
+podcast_bytes: ""
 tags: []
 title: 'Episode 2: Getting Ready to Use R'
-youtube: ""
+youtube: "DsufvpCwhVo"
 ---
 
 -   The R-Project site: <http://www.r-project.org/>

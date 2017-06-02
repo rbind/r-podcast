@@ -20,13 +20,12 @@ explicit: "no"
 guests: []
 images:
 - /img/episode/default-social.jpg
-news_keywords: []
 podcast_duration: "1:29:00"
 podcast_file: 9a05eec7-c464-47fd-8d59-0f902e2b13ec.mp3
-podcast_length: ""
+podcast_bytes: ""
 tags: []
 title: 'Episode 8: Visualization with `ggplot2`'
-youtube: ""
+youtube: "Inl40ZZMy5k"
 ---
 
 -   The Going Linux Podcast: <http://www.goinglinux.com>

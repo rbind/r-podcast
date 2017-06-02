@@ -23,13 +23,12 @@ explicit: "no"
 guests: []
 images:
 - /img/episode/default-social.jpg
-news_keywords: []
 podcast_duration: "0:52:44"
 podcast_file: 0f1f5be7-97ad-415b-bfd1-87c21a80111e.mp3
-podcast_length: ""
+podcast_bytes: ""
 tags: []
 title: 'Episode 7: Best Practices for Workflow Management'
-youtube: ""
+youtube: "2VMbud7XO8Q"
 ---
 
 -   The new R-Podcast forums: <http://www.r-podcast.org/forums/>

@@ -19,13 +19,12 @@ explicit: "no"
 guests: []
 images:
 - /img/episode/default-social.jpg
-news_keywords: []
 podcast_duration: "1:01:00"
 podcast_file: 58003a01-0fc8-405d-a7a2-086a2d666007.mp3
-podcast_length: ""
+podcast_bytes: ""
 tags: []
 title: 'Episode 14: Tips and Tricks for using R-Markdown'
-youtube: ""
+youtube: "tW-LdyJnEXI"
 ---
 
 ### Resources produced by RStudio:

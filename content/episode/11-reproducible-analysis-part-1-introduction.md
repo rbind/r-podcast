@@ -20,13 +20,12 @@ explicit: "no"
 guests: []
 images:
 - /img/episode/default-social.jpg
-news_keywords: []
 podcast_duration: "1:17:00"
 podcast_file: 8fc51582-ff4b-4d03-a186-b14f8eb1ca5f.mp3
-podcast_length: ""
+podcast_bytes: ""
 tags: []
 title: 'Episode 11: Reproducible Analysis Part 1 (Introduction)'
-youtube: ""
+youtube: "fGGVpM6ydAY"
 ---
 
 -   R-Podcast subreddit: [links.r-podcast.org](http://links.r-podcast.org)

@@ -21,13 +21,12 @@ explicit: "no"
 guests: []
 images:
 - /img/episode/default-social.jpg
-news_keywords: []
 podcast_duration: "1:09:00"
 podcast_file: eb37f31c-4873-4447-99dc-02f492778347.mp3
-podcast_length: ""
+podcast_bytes: ""
 tags: []
 title: 'Episode 10: Adventures in Data Munging Part 2'
-youtube: ""
+youtube: "AKUDoYdN6mM"
 ---
 
 -   New additions to the RStudio team: [blog.rstudio.org/2012/08/20/welcome-hadley-winston-and-garrett/](blog.rstudio.org/2012/08/20/welcome-hadley-winston-and-garrett/)

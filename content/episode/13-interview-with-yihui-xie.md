@@ -19,13 +19,12 @@ guests:
 - yxie
 images:
 - /img/episode/default-social.jpg
-news_keywords: []
 podcast_duration: "0:52:01"
 podcast_file: 77e98b58-c259-4989-aac5-4e4157434455.mp3
-podcast_length: ""
+podcast_bytes: ""
 tags: []
 title: 'Episode 13: Interview with Yihui Xie'
-youtube: ""
+youtube: "0ihxaaYRG0o"
 ---
 
 #### Resources mentioned during interview with Yihui

@@ -23,13 +23,12 @@ guests:
 - hwickham
 images:
 - /img/episode/default-social.jpg
-news_keywords: []
 podcast_duration: "1:19:00"
 podcast_file: 6450fbb4-e47f-4ee1-80e1-58ba5c1e5a6d.mp3
-podcast_length: ""
+podcast_bytes: ""
 tags: []
 title: 'Episode 18: Interviews with the RStudio Team'
-youtube: ""
+youtube: "IOwA_ojs12Y"
 ---
 
 * RStudio 0.98.878 [Release Notes](http://blog.rstudio.org/2016/02/09/new-release-of-rstudio-v0-99-878/)

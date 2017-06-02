@@ -19,13 +19,12 @@ explicit: "no"
 guests: []
 images:
 - /img/episode/default-social.jpg
-news_keywords: []
 podcast_duration: "1:11:00"
 podcast_file: 00942d84-d2e8-4d7c-94ec-46bf7add9eca.mp3
-podcast_length: ""
+podcast_bytes: ""
 tags: []
 title: 'Episode 9: Adventures in Data Munging Part 1'
-youtube: ""
+youtube: "i0YqRl-Qpzs"
 ---
 
 -   Summary of UserR! 2012 conference: <http://pairach.com/2012/06/24/user2012/>

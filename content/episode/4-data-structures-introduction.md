@@ -17,13 +17,12 @@ explicit: "no"
 guests: []
 images:
 - /img/episode/default-social.jpg
-news_keywords: []
 podcast_duration: "0:49:26"
 podcast_file: 99764570-c416-474c-b81b-aa3200318f77.mp3
-podcast_length: ""
+podcast_bytes: ""
 tags: []
 title: 'Episode 4: Data Structures - Introduction'
-youtube: ""
+youtube: "OyPVI-Bw9b8"
 ---
 
 -   Our Google Plus page: <http://goplus.us/rpodcast>

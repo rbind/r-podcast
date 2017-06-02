@@ -1,10 +1,10 @@
 ---
 Description: "In this episode: The R-Podcast site is now powered by `blogdown`!.  I give a tour of the new site and outline my next steps to make the production pipeline even more powered by R.  Plus I present a tutorial on enhancing the user interfaces of `shiny` applications that pay off for you and your app viewers, with a video version available on the new R-Podcast [YouTube channel](https://www.youtube.com/user/TheRPodcast).  We round things off with a recap of the ROpenSci Unconference and discuss more listener feedback.  I hope you enjoy episode 23 of the R-Podcast!"
-PublishDate: ""
 aliases:
 - /23
 author: 'Eric Nantz'
 date: 2017-05-29T12:58:06-04:00
+draft: true
 episode: "23"
 episode_image: img/episode/default.jpg
 explicit: "no"
@@ -29,7 +29,7 @@ youtube: ""
 
 ### Enhancing Shiny UI Tutorial
 
-* [`shinyjqui`](https://yang-tang.github.io/shinyjqui/): jQuery UI Interactions and Effects for Shiny 
+* [`shinyjqui`](https://yang-tang.github.io/shinyjqui/): jQuery UI Interactions and Effects for Shiny
 * Enabling drag and drop variable assignments with `shinyjqui::orderInput`
 * Resizing plots with `shinyjqui::resizeabled()`
 * [`shinyWidgets`](https://dreamrs.github.io/shinyWidgets/index.html): Custom input widgets for Shiny
@@ -37,7 +37,7 @@ youtube: ""
 * [`shinycssloaders`](https://github.com/andrewsali/shinycssloaders): Add CSS loader animations with Shiny outputs
 * Making Shiny modals movable with `shinyjqui`: <https://github.com/rstudio/shiny/issues/1698>
 
-### R Community Roundup 
+### R Community Roundup
 
 #### rOpenSci Unconference 2017 Takeaways
 
@@ -53,7 +53,7 @@ youtube: ""
 
 ### Package Picks
 
-* [dataMeta](https://github.com/dmrodz/dataMeta): An R package to create and append a data dictionary for an R dataset created by [Dania Rodriguez](https://github.com/dmrodz) 
+* [dataMeta](https://github.com/dmrodz/dataMeta): An R package to create and append a data dictionary for an R dataset created by [Dania Rodriguez](https://github.com/dmrodz)
 
 ### Feedback
 

@@ -26,13 +26,12 @@ explicit: "no"
 guests: []
 images:
 - /img/episode/default-social.jpg
-news_keywords: []
 podcast_duration: "0:50:51"
 podcast_file: 4f7d1d1d-2e08-4141-b2f7-ebd7ce479311.mp3
-podcast_length: ""
+podcast_bytes: ""
 tags: []
 title: 'Episode 15: Introduction to Shiny'
-youtube: ""
+youtube: "y_iFCLOAWNk"
 ---
 
 ### [r-podcast.org](https://www.r-podcast.org) gets a face lift!
@@ -75,7 +74,7 @@ youtube: ""
 
 ### Package Pick
 
-- [stubthat](https://github.com/sainathadapa/stubthat): Provide [stubs](http://stackoverflow.com/a/463305) for use while unit testing in R.  
+- [stubthat](https://github.com/sainathadapa/stubthat): Provide [stubs](http://stackoverflow.com/a/463305) for use while unit testing in R.
 
 ### News
 

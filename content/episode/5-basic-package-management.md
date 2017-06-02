@@ -18,13 +18,12 @@ explicit: "no"
 guests: []
 images:
 - /img/episode/default-social.jpg
-news_keywords: []
 podcast_duration: "1:01:00"
 podcast_file: 1ca82663-3ac3-450e-b906-b3b21f734443.mp3
-podcast_length: ""
+podcast_bytes: ""
 tags: []
 title: 'Episode 5: Basic Package Management'
-youtube: ""
+youtube: "ltpSACme3ag"
 ---
 
 -   R version 2.15.0 release notes: <http://cran.r-project.org/src/base/NEWS.html>
