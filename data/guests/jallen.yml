@@ -1,8 +1,0 @@
-name: jallen
-full_name: "Jeff Allen"
-thumbnail: "img/guest/jallen.jpeg"
-bio: "Jeff Allen is a software engineer at [RStudio](http://www.rstudio.com). Jeff’s background is in Computer Science and bioinformatics; it was there that he first encountered R in 2007. After spending many years as an RStudio user and evangelist, he joined the team in 2013. On top of his work with Shiny Server and RStudio Connect, Jeff also maintains a few R packages such as [plumbr](http://plumber.trestletech.com/) and [shinyStore](https://github.com/trestletech/shinyStore)."
-github: "trestletech"
-twitter: "trestlejeff"
-linkedin: "jeffreydallen1"
-homepage: "http://www.trestletech.com/"
