@@ -39,19 +39,23 @@ youtube: ""
 
 ### R Community Roundup
 
-#### rOpenSci Unconference 2017 Takeaways
+#### rOpenSci Unconference 2017 
 
 * List of Projects: <https://ropenscilabs.github.io/runconf17-projects/>
 * L.A. Unconfidential: a.k.a. an rOpenSci #runconf17 Retrospective <https://rud.is/b/2017/05/28/l-a-unconf-idential-a-k-a-an-ropensci-runconf17-retrospective/>
+* Bringing Together People and Projects at Unconf17: <https://ropensci.org/blog/blog/2017/06/02/unconf2017> 
+* Summary of tweets during conference: <https://storify.com/_inundata/4th-annual-ropensci-unconf>
 * Unexpected discovery: RStudio daily bulids enable dark theme that works  __on all panes!__  (thx Bob Rudis `@hrbrmstr`)
 
-### Listener Feedback REVISE
+### Listener Feedback
+
+{{< tweet 869808016656355329 >}}
 
 * Matthew: [ProjectTemplate vs Drake](https://pastebin.com/6VMtC9HD)
 * Jit: [Problem installing R package](https://pastebin.com/bze7GLF5)
 * Ron: [Access data in a Cisco VPN](https://pastebin.com/c62YJ2ax)
 
-### Package Picks
+### Package Pick
 
 * [dataMeta](https://github.com/dmrodz/dataMeta): An R package to create and append a data dictionary for an R dataset created by [Dania Rodriguez](https://github.com/dmrodz)
 
