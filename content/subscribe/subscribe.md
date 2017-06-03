@@ -15,6 +15,10 @@ The R-Podcast is available on these podcast applications and services:
 * [Soundcloud](http://feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss)
 * [Fireside](https://r-podcast.fireside.fm/rss)
 
+#### Video Content
+
+* The R-Podcast [YouTube channel](https://www.youtube.com/user/TheRPodcast) is now available!  Each podcast episode will have a video version posted on this channel, along with any supplemental screencasts.
+
 #### Additional Content
 
 * It is highly recommended that you also subscribe to the podcast episode [web RSS feed](/episode/index.xml) to receive the full show notes with links and other information discussed in each episode.
