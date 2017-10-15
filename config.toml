@@ -1,4 +1,5 @@
 baseurl = "https://www.r-podcast.org/"
+relativeurls = true
 languageCode = "en-us"
 title = "The R-Podcast"
 theme = "castanet"
