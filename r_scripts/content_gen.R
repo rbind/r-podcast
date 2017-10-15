@@ -3,17 +3,17 @@ new_episode <- function(number,
                         author = "Eric Nantz", 
                         date = Sys.Date(),
                         open = interactive(),
+                        categories = "Podcast",
                         file = NULL,
-                        draft = TRUE, 
-                        description = NULL,
+                        draft = "true", 
+                        Description = "Add description here",
                         episode_image = "img/episode/default.jpg",
-                        guests = NULL,
+                        guests = "",
                         images = "img/episode/default-social.jpg",
-                        podcast_duration = NULL,
-                        podcast_file = NULL,
-                        podcast_bytes = NULL,
-                        tags = NULL,
-                        youtube = NULL) {
+                        podcast_duration = "1:00:00",
+                        podcast_file = "grab-from-fireside.mp3",
+                        podcast_bytes = 20000000L,
+                        youtube = "vidid") {
   
   library(blogdown)
   
@@ -38,10 +38,10 @@ new_episode <- function(number,
   
   do.call(blogdown:::modify_yaml, c(list(
     file, episode = as.integer(number), title = title_yaml, author = author, date = format(date), 
-    aliases = aliases, explicit = explicit, Description = description,
+    aliases = aliases, explicit = explicit, Description = Description,
     draft = draft, episode_image = episode_image, guests = guests,
     images = images, podcast_duration = podcast_duration, podcast_file = podcast_file,
-    podcast_bytes = podcast_bytes, tags = tags, youtube = youtube
+    podcast_bytes = podcast_bytes, youtube = youtube, categories = categories
   )))
   
   if (open) blogdown:::open_file(file)
