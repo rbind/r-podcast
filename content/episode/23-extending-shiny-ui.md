@@ -1,5 +1,5 @@
 ---
-Description: "In this episode: The R-Podcast site is now powered by `blogdown`!.  I give a tour of the new site and outline my next steps to make the production pipeline even more powered by R.  Plus I present a tutorial on enhancing the user interfaces of `shiny` applications that pay off for you and your app viewers, with a video version available on the new R-Podcast [YouTube channel](https://www.youtube.com/user/TheRPodcast).  We round things off with a recap of the ROpenSci Unconference and discuss more listener feedback.  I hope you enjoy episode 23 of the R-Podcast!"
+Description: "In this episode: The [R-Podcast site](https://r-podcast.org/) is now powered by [blogdown](https://bookdown.org/yihui/blogdown/)! I give a tour of the new site and outline my next steps to make the production pipeline even more powered by R.  Plus I present a tutorial on enhancing the user interfaces of [shiny](http://shiny.rstudio.com/) applications that pay off for you and your app users, with a video version available on the new R-Podcast [YouTube channel](https://www.youtube.com/user/TheRPodcast).  We round things off with a recap of recent conferences related to R, listener feedback, and package picks that make the _future_ of HPC in R a lot brighter.  I hope you enjoy episode 23 of the R-Podcast!"
 aliases:
 - /23
 author: 'Eric Nantz'
@@ -18,8 +18,12 @@ title: "Episode 23: Easy Enhancements for a Shiny UI"
 youtube: ""
 ---
 
-### [r-podcast.org](https://r-podcast.org) Powered by `blogdown`!
+### Opening intro (17 seconds) (remove for final version of post)
 
+Coming up on this episode of the R-Podcast: Blogdown is now the engine powering the R-Podcast site!  You'll hear about the new features and new ideas in the pipeline.  Plus we have a tutorial on easily enhancing your Shiny app UI with some nice extensions.  Plus listener feedback, community roundup, and a package pick that makes the future of HPC in R a lot brighter.  It's episode 23 of the R-Podcast: Are you ready?
+
+### [r-podcast.org](https://r-podcast.org) Powered by [`blogdown`](https://github.com/rstudio/blogdown)!
+k
 * Blog post: <https://support.rbind.io/2017/04/27/r-podcast-website/>
 * RSS feeds for audio episodes are same as before
 * Overall site RSS feed is now <https://r-podcast.org/index.xml>
@@ -39,25 +43,30 @@ youtube: ""
 
 ### R Community Roundup
 
+* New RStudio Community Portal!  [community.rstudio.com](https://community.rstudio.com)
+* <https://blog.rstudio.com/2017/09/14/rstudio-community/>
+
 #### rOpenSci Unconference 2017 
 
 * List of Projects: <https://ropenscilabs.github.io/runconf17-projects/>
-* L.A. Unconfidential: a.k.a. an rOpenSci #runconf17 Retrospective <https://rud.is/b/2017/05/28/l-a-unconf-idential-a-k-a-an-ropensci-runconf17-retrospective/>
+* L.A. Unconfidential: a.k.a. an rOpenSci `#runconf17` Retrospective <https://rud.is/b/2017/05/28/l-a-unconf-idential-a-k-a-an-ropensci-runconf17-retrospective/>
 * Bringing Together People and Projects at Unconf17: <https://ropensci.org/blog/blog/2017/06/02/unconf2017> 
 * Summary of tweets during conference: <https://storify.com/_inundata/4th-annual-ropensci-unconf>
-* Unexpected discovery: RStudio daily bulids enable dark theme that works  __on all panes!__  (thx Bob Rudis `@hrbrmstr`)
 
 ### Listener Feedback
 
 {{< tweet 869808016656355329 >}}
 
+* David: [Thank you](https://pastebin.com/QbbhC1rP)
 * Matthew: [ProjectTemplate vs Drake](https://pastebin.com/6VMtC9HD)
 * Jit: [Problem installing R package](https://pastebin.com/bze7GLF5)
 * Ron: [Access data in a Cisco VPN](https://pastebin.com/c62YJ2ax)
 
-### Package Pick
+### Package Picks
 
-* [dataMeta](https://github.com/dmrodz/dataMeta): An R package to create and append a data dictionary for an R dataset created by [Dania Rodriguez](https://github.com/dmrodz)
+* [future](https://github.com/HenrikBengtsson/future): A Future API for R by Henrik Bengtsson ([@henrikbengtsson](https://twitter.com/henrikbengtsson))
+* [Futures in R: Atomic Building Blocks for Asynchronous Evaluation](http://www.aroma-project.org/share/presentations/BengtssonH_20170511-RConsortium/BengtssonH_20170511-future,RConsortium,flat.pdf): Slides from R Consortium webinar 
+* [future.batchtools](https://github.com/HenrikBengtsson/future.batchtools): A Future API for Parallel and Distributed Processiong using [batchtools](https://mllg.github.io/batchtools/).
 
 ### Feedback
 
