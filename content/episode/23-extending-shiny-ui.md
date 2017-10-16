@@ -1,5 +1,5 @@
 ---
-Description: "In this episode: The [R-Podcast site](https://r-podcast.org/) is now powered by [blogdown](https://bookdown.org/yihui/blogdown/)! I give a tour of the new site and outline my next steps to make the production pipeline even more powered by R.  Plus I present a tutorial on enhancing the user interfaces of [shiny](http://shiny.rstudio.com/) applications that pay off for you and your app users, with a video version available on the new R-Podcast [YouTube channel](https://www.youtube.com/user/TheRPodcast).  We round things off with a recap of recent conferences related to R, listener feedback, and package picks that make the _future_ of HPC in R a lot brighter.  I hope you enjoy episode 23 of the R-Podcast!"
+Description: "In this episode: The [R-Podcast site](https://r-podcast.org/) is now powered by [blogdown](https://bookdown.org/yihui/blogdown/)! I give a tour of the new site and outline my next steps to make the production pipeline even more powered by R.  Plus I present a tutorial on enhancing the user interfaces of [shiny](http://shiny.rstudio.com/) applications that pay off for you and your app users, with a video version available on the new R-Podcast [YouTube channel](https://www.youtube.com/user/TheRPodcast).  We round things off with the R community roundup, listener feedback, and package picks that make the _future_ of HPC in R a lot brighter.  I hope you enjoy episode 23 of the R-Podcast!"
 aliases:
 - /23
 author: 'Eric Nantz'
@@ -23,28 +23,28 @@ youtube: ""
 Coming up on this episode of the R-Podcast: Blogdown is now the engine powering the R-Podcast site!  You'll hear about the new features and new ideas in the pipeline.  Plus we have a tutorial on easily enhancing your Shiny app UI with some nice extensions.  Plus listener feedback, community roundup, and a package pick that makes the future of HPC in R a lot brighter.  It's episode 23 of the R-Podcast: Are you ready?
 
 ### [r-podcast.org](https://r-podcast.org) Powered by [`blogdown`](https://github.com/rstudio/blogdown)!
-k
-* Blog post: <https://support.rbind.io/2017/04/27/r-podcast-website/>
-* RSS feeds for audio episodes are same as before
+
+* The New and Improved R-Podcast Site: [support.rbind.io/2017/04/27/r-podcast-website](https://support.rbind.io/2017/04/27/r-podcast-website/)
+* Launching the Rbind support website: [support.rbind.io/2017/04/24/launching-rbind-support/](https://support.rbind.io/2017/04/24/launching-rbind-support/)
+* RSS feeds for audio episodes remain the same. Check the [subscribe page](https://r-podcast.org/subscribe/) for all feeds.
 * Overall site RSS feed is now <https://r-podcast.org/index.xml>
-* Check out the new R-Podcast guest page: <https://r-podcast.org/guests/>
-* All feeds listed in the [subscribe page](https://r-podcast.org/subscribe/)
-* The R-Podcast Youtube channel is now live! <https://www.youtube.com/user/TheRPodcast>
+* Check out the new R-Podcast guest page: [r-podcast.org/guests](https://r-podcast.org/guests/)
+* The R-Podcast Youtube channel is now live! [youtube.com/user/TheRPodcast](https://www.youtube.com/user/TheRPodcast)
 
 ### Enhancing Shiny UI Tutorial
 
 * [`shinyjqui`](https://yang-tang.github.io/shinyjqui/): jQuery UI Interactions and Effects for Shiny
-* Enabling drag and drop variable assignments with `shinyjqui::orderInput`
-* Resizing plots with `shinyjqui::resizeabled()`
+* Enabling drag and drop variable assignments with [`shinyjqui::orderInput`](https://yang-tang.github.io/shinyjqui/reference/orderInput.html)
+* Resizing plots with [`shinyjqui::resizeabled()`](https://yang-tang.github.io/shinyjqui/reference/Interactions.html)
 * [`shinyWidgets`](https://dreamrs.github.io/shinyWidgets/index.html): Custom input widgets for Shiny
-* Using a small icon for extended inputs with `shinyWidgets::dropdownButton()`
+* Using a small icon for extended inputs with [`shinyWidgets::dropdownButton()`](https://dreamrs.github.io/shinyWidgets/reference/dropdownButton.html)
 * [`shinycssloaders`](https://github.com/andrewsali/shinycssloaders): Add CSS loader animations with Shiny outputs
-* Making Shiny modals movable with `shinyjqui`: <https://github.com/rstudio/shiny/issues/1698>
+* Making Shiny modals movable with `shinyjqui`: [github.com/rstudio/shiny/issues/1698](https://github.com/rstudio/shiny/issues/1698)
 
 ### R Community Roundup
 
-* New RStudio Community Portal!  [community.rstudio.com](https://community.rstudio.com)
-* <https://blog.rstudio.com/2017/09/14/rstudio-community/>
+* New RStudio Community Portal: [community.rstudio.com](https://community.rstudio.com)
+* Introducing the RStudio Community: [blog.rstudio.com/2017/09/14/rstudio-community/](https://blog.rstudio.com/2017/09/14/rstudio-community/)
 
 #### rOpenSci Unconference 2017 
 
