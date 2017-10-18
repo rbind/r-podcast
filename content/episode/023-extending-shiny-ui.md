@@ -70,7 +70,7 @@ Coming up on this episode of the R-Podcast: Blogdown is now the engine powering 
 
 ### Feedback
 
-- Leave a comment on this episode's [post]({{< ref "23-extending-shiny-ui.md" >}})
+- Leave a comment on this episode's [post]({{< ref "023-extending-shiny-ui.md" >}})
 - Email the show: `thercast[at]gmail.com`
 - Use the R-Podcast [contact page]({{< ref "contact.md" >}})
 - Leave a voicemail at `+1-269-849-9780`

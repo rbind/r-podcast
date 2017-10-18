@@ -48,7 +48,7 @@ youtube: "ljKplAi4s3c"
 
 ### Feedback
 
-- Leave a comment on this episode's [post]({{< ref "21-talking-rcpp-and-more-with-dirk-eddelbuettel.md" >}})
+- Leave a comment on this episode's [post]({{< ref "021-talking-rcpp-and-more-with-dirk-eddelbuettel.md" >}})
 - Email the show: `thercast[at]gmail.com`
 - Use the R-Podcast [contact page]({{< ref "contact.md" >}})
 - Leave a voicemail at `+1-269-849-9780`
