@@ -1,6 +1,6 @@
 new_episode <- function(number, 
                         title, 
-                        author = "Eric Nantz", 
+                        author = "Eric", 
                         date = Sys.Date(),
                         open = interactive(),
                         categories = "Podcast",
@@ -22,8 +22,13 @@ new_episode <- function(number,
   
   if (is.null(file)) {
     # create clean title for episode
+    if (nchar(number) < 3) {
+      number_print <- paste0(paste(rep(0, 3 - nchar(number)), collapse = ""), number)
+    } else {
+      number_print <- as.character(number)
+    }
     clean_title <- blogdown:::dash_filename(title)
-    file <- file.path("episode", paste0(number, "-", clean_title, ".md"))
+    file <- file.path("episode", paste0(number_print, "-", clean_title, ".md"))
   }
   
   # define other parameters
