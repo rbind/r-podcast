@@ -1,0 +1,16 @@
+{{ define "main" }}
+
+<div class="row">
+  <div class="col-md-12">
+    <h1>Articles</h1>
+    <p>These articles provide supplemental material to the R-Podcast episodes.</p>
+    <div>
+      {{- range .Paginator.Pages -}}
+         {{ .Render "summary" }}
+      {{- end -}}
+      {{- partial "articles_pagination.html" . -}}
+    </div>
+  </div>
+</div>
+
+{{ end }}

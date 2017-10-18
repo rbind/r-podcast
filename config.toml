@@ -47,6 +47,11 @@ metaDataFormat = "yaml"
     name = "Resources"
     identifier = "resources"
     url = "/resources"
+    
+#[[Menu.Main]]
+#    name = "Articles"
+#    identifier = "articles"
+#    url = "/articles"
 
 [params]
 site_theme = "blue"
