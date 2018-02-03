@@ -1,11 +1,11 @@
 ---
 Description: "In this episode: The [R-Podcast site](https://r-podcast.org/) is now powered by [blogdown](https://bookdown.org/yihui/blogdown/)! I give a tour of the new site and outline my next steps to make the production pipeline even more powered by R.  Plus I present a tutorial on enhancing the user interfaces of [shiny](http://shiny.rstudio.com/) applications that pay off for you and your app users, with a video version available on the new R-Podcast [YouTube channel](https://www.youtube.com/user/TheRPodcast).  We round things off with the R community roundup, listener feedback, and package picks that make the _future_ of HPC in R a lot brighter.  I hope you enjoy episode 23 of the R-Podcast!"
 aliases:
-- /23
+- /99
 author: 'Eric Nantz'
 date: 2017-05-29T12:58:06-04:00
 draft: true
-episode: "23"
+episode: "99"
 episode_image: img/episode/default.jpg
 explicit: "no"
 guests: []
@@ -14,7 +14,7 @@ images:
 podcast_bytes: ""
 podcast_duration: ""
 podcast_file: '###.mp3'
-title: "Episode 23: Easy Enhancements for a Shiny UI"
+title: "Episode 99: Easy Enhancements for a Shiny UI"
 youtube: ""
 ---
 
@@ -30,6 +30,10 @@ Coming up on this episode of the R-Podcast: Blogdown is now the engine powering 
 * Overall site RSS feed is now <https://r-podcast.org/index.xml>
 * Check out the new R-Podcast guest page: [r-podcast.org/guests](https://r-podcast.org/guests/)
 * The R-Podcast Youtube channel is now live! [youtube.com/user/TheRPodcast](https://www.youtube.com/user/TheRPodcast)
+
+### Additional `blogdown` resources
+
+__TO DO__: Add links to Mara's page, blogdown book, other ones I have bookmarked
 
 ### Enhancing Shiny UI Tutorial
 
@@ -70,7 +74,7 @@ Coming up on this episode of the R-Podcast: Blogdown is now the engine powering 
 
 ### Feedback
 
-- Leave a comment on this episode's [post]({{< ref "023-extending-shiny-ui.md" >}})
+- Leave a comment on this episode's [post]({{< ref "099-extending-shiny-ui.md" >}})
 - Email the show: `thercast[at]gmail.com`
 - Use the R-Podcast [contact page]({{< ref "contact.md" >}})
 - Leave a voicemail at `+1-269-849-9780`
