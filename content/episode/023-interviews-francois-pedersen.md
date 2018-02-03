@@ -16,8 +16,8 @@ images:
 podcast_bytes: ""
 podcast_duration: ""
 podcast_file: '947ce4f4-bf7b-4c5a-ae06-fba6e5d31aa8.mp3'
-title: "Episode 23: Interviews at rstudio::conf with Romain Francois and Thomas Lin Pedersen"
-youtube: "0ihxaaYRG0o"
+title: "Episode 23: Interviews with Romain Francois and Thomas Lin Pedersen at rstudio::conf"
+youtube: "Db6L2EWrIHc"
 ---
 
 ### Getting involved with the R Community
