@@ -4,7 +4,7 @@ aliases:
 - /24
 author: 'Eric Nantz'
 date: 2018-02-16T12:58:06-04:00
-draft: true
+draft: false
 episode: "24"
 episode_image: img/episode/default.jpg
 explicit: "no"
