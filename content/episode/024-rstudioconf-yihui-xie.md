@@ -14,14 +14,14 @@ images:
 - img/episode/default-social.jpg
 podcast_bytes: ""
 podcast_duration: ""
-podcast_file: '947ce4f4-bf7b-4c5a-ae06-fba6e5d31aa8.mp3'
+podcast_file: '1eefeddc-2528-48a5-8875-e45828bb78ca.mp3'
 title: "Episode 24: Yihui Xie Returns (rstudio::conf 2018)"
-youtube: "Db6L2EWrIHc"
+youtube: "Z-lcxO30X8E"
 ---
 
 ### Conversation with Yihui Xie
 
-* Yihui's blog post: [yihui.name/en/2018/02/r-podcast/](https://yihui.name/en/2018/02/r-podcast/)
+* Yihui's supplemental post: [yihui.name/en/2018/02/r-podcast/](https://yihui.name/en/2018/02/r-podcast/)
 * Rbind project: [support.rbind.io/about/](https://support.rbind.io/about/)
 * The New and Improved R-Podcast Site: [support.rbind.io/2017/04/27/r-podcast-website/](https://support.rbind.io/2017/04/27/r-podcast-website/)
 * REWORK: [basecamp.com/books/rework](https://basecamp.com/books/rework)
