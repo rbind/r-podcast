@@ -22,6 +22,7 @@ youtube: "Z-lcxO30X8E"
 ### Conversation with Yihui Xie
 
 * Yihui's supplemental post: [yihui.name/en/2018/02/r-podcast/](https://yihui.name/en/2018/02/r-podcast/)
+* Additional post (Yihui's early career crisis): [yihui.name/en/2018/02/career-crisis/](https://yihui.name/en/2018/02/career-crisis/)
 * Rbind project: [support.rbind.io/about/](https://support.rbind.io/about/)
 * The New and Improved R-Podcast Site: [support.rbind.io/2017/04/27/r-podcast-website/](https://support.rbind.io/2017/04/27/r-podcast-website/)
 * REWORK: [basecamp.com/books/rework](https://basecamp.com/books/rework)
