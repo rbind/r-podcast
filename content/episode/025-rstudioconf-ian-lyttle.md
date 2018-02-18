@@ -19,13 +19,25 @@ title: "Episode 25: Interview with Ian Lyttle (rstudio::conf 2018)"
 youtube: "Db6L2EWrIHc"
 ---
 
-### First Segment (impressions of the conference)
+### rstudioconf takeaways and insights 
+
+#### Tweets to link in notes
+
+* Keynote crowd: <https://twitter.com/theRcast/status/959471094095781888>
+* tidyverse training lobstr package: <https://twitter.com/theRcast/status/959183105180356608>
+* tidyverse training strict package: <https://twitter.com/theRcast/status/959119429077385216>
+* tidyverse training hadley multiple cursors: <https://twitter.com/theRcast/status/958766089843822592>
+* Emily Riederer talk on tidycf: <https://twitter.com/theRcast/status/959562476365914112>
+* Tanya Cashorali talk on prototyping shiny apps and imposter syndrome: <https://twitter.com/theRcast/status/959579400734781440>
+* JJ Allaire's keynote on deep learning tensorflow showing real-time model performance graphs for tensorflow models in rstudio IDE: <https://twitter.com/theRcast/status/959846844976152576>
+
+### Other notes
 
 * I wore multiple hats: My "industry/work" hat, my "podcaster" hat, and my "ambassador for R Weekly" hat.  I was humbled to have this opportunity
 * simultaneously excited and exhausted
 * Much bigger than last year
 * Huge interest in communicating results interactively (Carson Sievert's talk had standing room only)
-* __IDEA__: Try to add a page with an HTML widget of showing pictures I took during the conference (find Jonathan sidi's carousel app)
+* __IDEA__: Try to add a page with an HTML widget of showing pictures I took during the conference.  Use slickR package as htmlwidget within widgetframe package widget and put pictures in imgur rstudio conf 2018 album.  See <https://bookdown.org/yihui/blogdown/html-widgets.html> and <https://rawgit.com/bhaskarvk/widgetframe/examples/blogdown/public/index.html>
 * Review the pics I took during presentations: What were the aha moments
 * Key note Di Cook: An interesting blend of the newer tidyverse principles with what can be quite complicated statistical inference methods (and she used xarangin!)
 * Shiny async processes: This is a real thing and very important
