@@ -25,7 +25,8 @@ youtube: "2zEXhgwhQ0A"
 * Ian's presentation at `rstudio::conf` 2018 recording: [www.rstudio.com/resources/videos/how-i-learned-to-stop-worrying-and-love-the-firewall/](https://www.rstudio.com/resources/videos/how-i-learned-to-stop-worrying-and-love-the-firewall/)
 * `bsplus` package: [ijlyttle.github.io/bsplus/](https://ijlyttle.github.io/bsplus)
 * `shinychord` package: [github.com/ijlyttle/shinychord](https://github.com/ijlyttle/shinychord)
-* `ghenter` package: [github.com/ijlyttle/ghentr](https://github.com/ijlyttle/ghentr)
+* `ghentr` package: [github.com/ijlyttle/ghentr](https://github.com/ijlyttle/ghentr)
+* Effective reactive programming from Shiny Developer Conference: [www.rstudio.com/resources/videos/effective-reactive-programming/](https://www.rstudio.com/resources/videos/effective-reactive-programming/)
 
 ### Rstudio::conf 2018 takeaways and insights 
 
