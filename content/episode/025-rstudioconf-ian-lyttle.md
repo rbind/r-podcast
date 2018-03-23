@@ -3,7 +3,7 @@ Description: "Our coverage of rstudio::conf 2018 concludes with another great in
 aliases:
 - /25
 author: 'Eric Nantz'
-date: 2018-02-18T12:58:06-04:00
+date: 2018-03-22
 draft: true
 episode: "25"
 episode_image: img/episode/default.jpg
@@ -14,7 +14,7 @@ images:
 - img/episode/default-social.jpg
 podcast_bytes: ""
 podcast_duration: ""
-podcast_file: '947ce4f4-bf7b-4c5a-ae06-fba6e5d31aa8.mp3'
+podcast_file: 'b0d7ab4c-a06b-4d59-a180-191983e8cb63.mp3'
 title: "Episode 25: Interview with Ian Lyttle (rstudio::conf 2018)"
 youtube: "Db6L2EWrIHc"
 ---
@@ -43,7 +43,6 @@ youtube: "Db6L2EWrIHc"
 * David Miller's slides on `rstudio::conf` 2018: [github.com/dill/rstudioconf2018-summary/blob/master/talk.Rmd](https://github.com/dill/rstudioconf2018-summary/blob/master/talk.Rmd)
 * Recap of `rstudio::conf` 2018 (Colby Ford): [www.blue-granite.com/blog/rstudio-conference-2018-recap](https://www.blue-granite.com/blog/rstudio-conference-2018-recap)
 * Highlights from `rstudio::conf` 2018 (Methods Consultants blog): [blog.methodsconsultants.com/posts/highlights-from-rstudio-conf-2018/](https://blog.methodsconsultants.com/posts/highlights-from-rstudio-conf-2018/)
-* `lobstr` package: [github.com/r-lib/lobstr](https://github.com/r-lib/lobstr)
 
 ### Listener feedback
 
