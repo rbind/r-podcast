@@ -16,7 +16,7 @@ podcast_bytes: ""
 podcast_duration: ""
 podcast_file: 'b0d7ab4c-a06b-4d59-a180-191983e8cb63.mp3'
 title: "Episode 25: Interview with Ian Lyttle (rstudio::conf 2018)"
-youtube: "Db6L2EWrIHc"
+youtube: "2zEXhgwhQ0A"
 ---
 
 ### Conversation with Ian Lyttle
