@@ -10,9 +10,8 @@ The R-Podcast offers several ways to keep up-to-date with new episodes and other
 
 The R-Podcast is available on these podcast applications and services:
 
-* [iTunes](https://itunes.apple.com/us/h/the-r-podcast/id1140581792)
+* [iTunes](https://itunes.apple.com/us/podcast/the-r-podcast/id1140581792)
 * [PocketCasts](http://pcasts.in/feed/feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss)
-* [Soundcloud](http://feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss)
 * [Fireside](https://r-podcast.fireside.fm/rss)
 
 #### Video Content
