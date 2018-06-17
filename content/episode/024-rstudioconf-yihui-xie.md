@@ -3,6 +3,8 @@ Description: "Our coverage of `rstudio::conf` 2018 continues!  In this episode I
 aliases:
 - /24
 author: 'Eric Nantz'
+categories:
+- Podcast
 date: 2018-02-16T12:58:06-04:00
 draft: false
 episode: "24"

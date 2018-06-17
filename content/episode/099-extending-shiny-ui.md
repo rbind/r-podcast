@@ -3,6 +3,8 @@ Description: "In this episode: The [R-Podcast site](https://r-podcast.org/) is n
 aliases:
 - /99
 author: 'Eric Nantz'
+categories:
+- Podcast
 date: 2017-05-29T12:58:06-04:00
 draft: true
 episode: "99"

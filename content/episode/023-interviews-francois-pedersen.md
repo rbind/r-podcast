@@ -3,6 +3,8 @@ Description: "The R-Podcast's coverage of rstudio::conf 2018 begins!  I have the
 aliases:
 - /23
 author: 'Eric Nantz'
+categories:
+- Podcast
 date: 2018-02-02T12:58:06-04:00
 draft: false
 episode: "23"

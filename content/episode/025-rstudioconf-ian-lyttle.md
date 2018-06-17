@@ -3,6 +3,8 @@ Description: "Our coverage of rstudio::conf 2018 concludes with another great in
 aliases:
 - /25
 author: 'Eric Nantz'
+categories:
+- Podcast
 date: 2018-03-22
 draft: false
 episode: "25"
