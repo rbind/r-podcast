@@ -8,6 +8,7 @@ disqusShortname = "r-podcast"
 themesdir = "themes"
 metaDataFormat = "yaml"
 PaginatePath = "articles"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [permalinks]
 	about = "/:filename/"
