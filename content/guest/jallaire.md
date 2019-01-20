@@ -5,9 +5,9 @@ Instagram: ""
 Linkedin: ""
 Pinterest: ""
 Thumbnail: "img/guest/jallaire.jpg"
-Twitter: ""
+Twitter: "fly_upside_down"
 Type: guest
-Website: ""
+Website: "https://rstudio.com"
 YouTube: ""
 date: 2017-06-02T01:25:22-04:00
 title: "JJ Allaire"
