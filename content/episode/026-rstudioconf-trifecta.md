@@ -8,7 +8,7 @@ categories:
 date: 2019-01-23
 draft: true
 episode: "26"
-episode_image: img/episode/default.jpg
+episode_image: img/episode/ep26_logo.jpg
 explicit: "no"
 guests:
 - hparker
@@ -25,8 +25,8 @@ youtube: "2zEXhgwhQ0A"
 ### Conversation with Hilary Parker and Nick Tierney
 
 * Credibly Curious podcast: [soundcloud.com/crediblycurious](https://soundcloud.com/crediblycurious)
-* Not So Standard Deviations podcast: [nssdeviations.com/](http://nssdeviations.com/)
-* Apache Arrow: [https://arrow.apache.org/](arrow.apache.org/)
+* Not So Standard Deviations podcast: [nssdeviations.com](http://nssdeviations.com/)
+* Apache Arrow: [arrow.apache.org/](https://arrow.apache.org/)
 * Tidy Evaluation online book: [tidyeval.tidyverse.org/](https://tidyeval.tidyverse.org/)
 * Tidy models family of packages: [github.com/tidymodels](https://github.com/tidymodels)
 * The `magick` package by Jeroen Ooms: [github.com/ropensci/magick](https://github.com/ropensci/magick)
@@ -34,12 +34,12 @@ youtube: "2zEXhgwhQ0A"
 
 ### Advanced R Markdown workshop highlights
 
-* Course website: [https://arm.rbind.io/](arm.rbind.io/) (powered by [`blogdown`](https://bookdown.org/yihui/blogdown/)!)
-* Course GitHub repository: [https://github.com/rstudio-education/arm-workshop-rsc2019](github.com/rstudio-education/arm-workshop-rsc2019)
-* My slides on using the `officer` package to create PowerPoint slides: [https://rpodcast.github.io/officer-advrmarkdown/#1](https://rpodcast.github.io/officer-advrmarkdown)
-* The `officer` package documenation: [davidgohel.github.io/officer/](https://davidgohel.github.io/officer/)
-* MegaMan slide generator Shiny app: [https://rpodcast.shinyapps.io/megaman/](rpodcast.shinyapps.io/megaman/)
-* GitHub repo for slides and app: [https://github.com/rpodcast/officer-advrmarkdown](github.com/rpodcast/officer-advrmarkdown)
+* Course website: [arm.rbind.io](https://arm.rbind.io/) (powered by [`blogdown`](https://bookdown.org/yihui/blogdown/)!)
+* Course GitHub repository: [github.com/rstudio-education/arm-workshop-rsc2019](https://github.com/rstudio-education/arm-workshop-rsc2019)
+* My slides on using the `officer` package to create PowerPoint slides: [rpodcast.github.io/officer-advrmarkdown/#1](https://rpodcast.github.io/officer-advrmarkdown)
+* The `officer` package documenation: [davidgohel.github.io/officer](https://davidgohel.github.io/officer/)
+* MegaMan slide generator Shiny app: [rpodcast.shinyapps.io/megaman](https://rpodcast.shinyapps.io/megaman/)
+* GitHub repo for slides and app: [github.com/rpodcast/officer-advrmarkdown](https://github.com/rpodcast/officer-advrmarkdown)
 
 ### Feedback
 
