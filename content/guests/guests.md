@@ -13,6 +13,8 @@ guests:
 - jluraschi
 - ilyttle
 - vnijs
+- hparker
+- ntierney
 - hwickham
 - yxie
 
