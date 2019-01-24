@@ -17,17 +17,17 @@ images:
 - img/episode/default-social.jpg
 podcast_bytes: ""
 podcast_duration: ""
-podcast_file: 'b0d7ab4c-a06b-4d59-a180-191983e8cb63.mp3'
+podcast_file: 'd0a7874e-74c7-4166-9b3f-8b8d64b65abe.mp3'
 title: "Episode 26: The Podcast Trifecta (rstudio::conf 2019)"
-youtube: "2zEXhgwhQ0A"
+youtube: "Faw4j2tpk9Q"
 ---
 
 ### Conversation with Hilary Parker and Nick Tierney
 
 * Credibly Curious podcast: [soundcloud.com/crediblycurious](https://soundcloud.com/crediblycurious)
 * Not So Standard Deviations podcast: [nssdeviations.com](http://nssdeviations.com/)
-* Apache Arrow: [arrow.apache.org/](https://arrow.apache.org/)
-* Tidy Evaluation online book: [tidyeval.tidyverse.org/](https://tidyeval.tidyverse.org/)
+* Apache Arrow: [arrow.apache.org](https://arrow.apache.org/)
+* Tidy Evaluation online book: [tidyeval.tidyverse.org](https://tidyeval.tidyverse.org/)
 * Tidy models family of packages: [github.com/tidymodels](https://github.com/tidymodels)
 * The `magick` package by Jeroen Ooms: [github.com/ropensci/magick](https://github.com/ropensci/magick)
 * `pagedown` package (paginate HTML output of R Markdown) by Yihui Xie: [github.com/rstudio/pagedown](https://github.com/rstudio/pagedown)
@@ -36,7 +36,7 @@ youtube: "2zEXhgwhQ0A"
 
 * Course website: [arm.rbind.io](https://arm.rbind.io/) (powered by [`blogdown`](https://bookdown.org/yihui/blogdown/)!)
 * Course GitHub repository: [github.com/rstudio-education/arm-workshop-rsc2019](https://github.com/rstudio-education/arm-workshop-rsc2019)
-* My slides on using the `officer` package to create PowerPoint slides: [rpodcast.github.io/officer-advrmarkdown/#1](https://rpodcast.github.io/officer-advrmarkdown)
+* My slides on using the `officer` package to create PowerPoint slides: [rpodcast.github.io/officer-advrmarkdown](https://rpodcast.github.io/officer-advrmarkdown)
 * The `officer` package documenation: [davidgohel.github.io/officer](https://davidgohel.github.io/officer/)
 * MegaMan slide generator Shiny app: [rpodcast.shinyapps.io/megaman](https://rpodcast.shinyapps.io/megaman/)
 * GitHub repo for slides and app: [github.com/rpodcast/officer-advrmarkdown](https://github.com/rpodcast/officer-advrmarkdown)
