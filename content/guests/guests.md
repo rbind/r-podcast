@@ -9,6 +9,7 @@ guests:
 - jcheng
 - deddelbuettel
 - ggrolemund
+- riannone
 - wlandau
 - jluraschi
 - ilyttle
