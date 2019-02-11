@@ -1,14 +1,14 @@
 ---
-Description: "The R-Podcast rolls along with part two of our rstudio::conf 2019 coverage! In this episode I share my experience" 
+Description: "The R-Podcast rolls along with part two of our rstudio::conf 2019 coverage! In this episode I share the advice and tips I used to prepare my talk on Shiny Modules.  Plus I sit down with RStudio software engineer Rich Iannone to learn about his journey from atmospheric science to creating a collection of awesome R packages like DiagrammeR and gt for creating tables with a tidy syntax. As always thank you so much for listening and hope you enjoy this episode!" 
 aliases:
 - /27
 author: 'Eric Nantz'
 categories:
 - Podcast
-date: 2019-02-10
-draft: true
+date: 2019-02-11
+draft: false
 episode: "27"
-episode_image: img/episode/default-social.jpg
+episode_image: img/episode/ep27_logo.jpg
 explicit: "no"
 guests:
 - riannone
@@ -16,9 +16,9 @@ images:
 - img/episode/default-social.jpg
 podcast_bytes: ""
 podcast_duration: ""
-podcast_file: 'd0a7874e-74c7-4166-9b3f-8b8d64b65abe.mp3'
+podcast_file: 'bc6edad7-787d-4d10-926c-327a2388d19c.mp3'
 title: "Episode 27: Get the {gt} tables! (rstudio::conf 2019)"
-youtube: "Faw4j2tpk9Q"
+youtube: "-0pXDxDyYeA"
 ---
 
 ### Conversation with Rich Iannone
