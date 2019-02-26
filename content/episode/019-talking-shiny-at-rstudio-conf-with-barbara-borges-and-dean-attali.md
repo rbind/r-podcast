@@ -46,7 +46,7 @@ youtube: "GzCeABCU3Gk"
 
 ### Feedback
 
-- Leave a comment on this episode's [post]({{< ref "19-talking-shiny-at-rstudio-conf-with-barbara-borges-and-dean-attali.md" >}})
+- Leave a comment on this episode's [post]({{< ref "019-talking-shiny-at-rstudio-conf-with-barbara-borges-and-dean-attali.md" >}})
 - Email the show: `thercast[at]gmail.com`
 - Use the R-Podcast [contact page]({{< ref "contact.md" >}})
 - Leave a voicemail at `+1-269-849-9780`

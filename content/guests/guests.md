@@ -9,11 +9,16 @@ guests:
 - jcheng
 - deddelbuettel
 - ggrolemund
+- riannone
 - wlandau
 - jluraschi
+- ilyttle
 - vnijs
+- hparker
+- ntierney
 - hwickham
 - yxie
+
 title: guests
 ---
 

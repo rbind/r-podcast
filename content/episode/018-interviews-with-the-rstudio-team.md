@@ -45,7 +45,7 @@ youtube: "IOwA_ojs12Y"
 
 ### Feedback
 
-- Leave a comment on this episode's [post]({{< ref "18-interviews-with-the-rstudio-team.md" >}})
+- Leave a comment on this episode's [post]({{< ref "018-interviews-with-the-rstudio-team.md" >}})
 - Email the show: `thercast[at]gmail.com`
 - Use the R-Podcast [contact page]({{< ref "contact.md" >}})
 - Leave a voicemail at `+1-269-849-9780`

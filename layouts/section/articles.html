@@ -1,0 +1,43 @@
+{{ define "main" }}
+
+<div class="row">
+  <div class="col-md-12">
+    <h1>Articles</h1>
+    <p>Each episode of the R-Podcast strives to present concepts and practical advice conducive to audio, both in our interviews with members of the community and tutorials. However, some topics benefit from additional material that may not fit seamlessly in the podcast. The articles section of the R-Podcast aims to provide supplemental material to various topics discussed on the show, as well as other subjects that may or may not be related to R specifically.  Visit the <a href="/subscribe">subscribe</a> page for ways of keeping up-to-date with new articles posted.</p>
+    <!--
+     {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
+      <li><a href="{{ "/" | relLangURL}}{{ $taxonomyname | urlize }}">{{ $taxonomyname }}</a>
+        <ul>
+          {{ range $key, $value := $taxonomy }}
+          <li> {{ $key }} </li>
+                <ul>
+                {{ range $value.Pages }}
+                    <li><a href="{{ .Permalink}}"> {{ .LinkTitle }} </a> </li>
+                {{ end }}
+                </ul>
+          {{ end }}
+        </ul>
+      </li>
+    {{ end }}
+    -->
+    {{ range $taxonomyname, $taxonomy := .Site.Taxonomies.tags }}
+      <h3>{{ $taxonomyname }}</h3>
+        <ul>
+          {{ range $taxonomy.Pages }}
+              <h4><a href="{{ .Permalink}}">{{ .LinkTitle }}</a></h4>
+              {{ if isset .Params "description" }}
+                {{ if ne .Params.descripton "" }}
+                  {{ .Params.description | markdownify }}
+                {{ end }}
+              {{ else }}
+                {{ .Summary }}
+              {{ end }}
+              <footer>
+                <a href='{{ .Permalink }}'><nobr>Read more →</nobr></a>
+              </footer>
+          {{ end }}
+        </ul>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

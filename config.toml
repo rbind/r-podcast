@@ -1,4 +1,5 @@
 baseurl = "https://www.r-podcast.org/"
+relativeurls = true
 languageCode = "en-us"
 title = "The R-Podcast"
 theme = "castanet"
@@ -6,6 +7,8 @@ theme = "castanet"
 disqusShortname = "r-podcast"
 themesdir = "themes"
 metaDataFormat = "yaml"
+PaginatePath = "articles"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [permalinks]
 	about = "/:filename/"
@@ -13,6 +16,7 @@ metaDataFormat = "yaml"
 	subscribe = "/:filename/"
 	guests = "/:filename/"
 	resources = "/:filename/"
+	articles = "/articles/:year/:month/:day/:title/"
 
 [taxonomies]
   tag = "tags"
@@ -46,6 +50,11 @@ metaDataFormat = "yaml"
     name = "Resources"
     identifier = "resources"
     url = "/resources"
+    
+[[Menu.Main]]
+    name = "Articles"
+    identifier = "articles"
+    url = "/articles"
 
 [params]
 site_theme = "blue"
@@ -66,13 +75,13 @@ media_prefix = "https://aphid.fireside.fm/d/1437767933/487fd4f7-8859-4de4-98de-2
     itunes_summary = "The R-Podcast is a podcast for both new and experienced R users who want to learn more about using R to conduct innovative data analyses." # Limited to 4000 characters or less, plain text, no HTML
     itunes_owner_name = "Eric Nantz"
     itunes_owner_email = "theRcast@gmail.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on iTunes. It will not be publicly displayed on iTunes.
-    itunes_image = "http://i.imgur.com/Mr70QS9.png" #fqdn to the image art for your podcast
+    itunes_image = "https://i.imgur.com/Mr70QS9.png" #fqdn to the image art for your podcast
     itunes_top_category = "Technology"
     #itunes_first_sub_category = "Software How-To"
     #itunes_second_sub_category = "Tech News"
 
   [params.social]
-    github = "thercast"
+    github = "rpodcast"
 		gitlab = "rpodcast"
     twitter = "thercast"
     twitter_domain = "r-podcast.org" # This domain shows in twitter cards as "View on `twitter_domain`"
@@ -82,10 +91,10 @@ media_prefix = "https://aphid.fireside.fm/d/1437767933/487fd4f7-8859-4de4-98de-2
   [params.authors]
     [params.authors.Eric]
       name	= "Eric Nantz"
-      thumbnail = "http://i.imgur.com/Mr70QS9.png"
-      bio = "The host of the R-Podcast is Eric Nantz, a statistician working in the life sciences industry who has been using R since 2004.  Eric quickly developed a passion for using and learning more about R due in large part to the brilliant and exciting R community and its free and open source heritage, much like his favorite operating system Linux.  Currently he is running a mix of various linux distributions such as Arch, Ubuntu, and CentOS on both his local computers and virtual servers hosted on [Digital Ocean](www.digitalocean.com), each running R of course!"
+      thumbnail = "https://i.imgur.com/CsxqGah.jpg"
+      bio = "The host of the R-Podcast is Eric Nantz, a statistician working in the life sciences industry who has been using R since 2004.  Eric quickly developed a passion for using and learning more about R due in large part to the brilliant and exciting R community and its free and open source heritage, much like his favorite operating system Linux.  Currently he is running a mix of various linux distributions such as Arch, Ubuntu, and CentOS on both his local computers and virtual servers hosted on [Digital Ocean](https://www.digitalocean.com), each running R of course!"
       [params.authors.Eric.social]
-        github = "thercast"
+        github = "rpodcast"
         twitter = "thercast"
         #linkedin = "
         #homepage = ""
