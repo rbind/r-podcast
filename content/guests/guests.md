@@ -10,6 +10,7 @@ guests:
 - deddelbuettel
 - ggrolemund
 - riannone
+- mkuhn
 - wlandau
 - jluraschi
 - ilyttle
