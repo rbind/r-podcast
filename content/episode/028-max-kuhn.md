@@ -1,5 +1,5 @@
 ---
-Description: "The R-Podcast's coverage of the 2019 rstudio::conf wraps up in this episode, featuring a comprehensive conversation with RStudio software engineer Max Kuhn!  We discuss his vision for the `tidymodels` ecosystem of modeling packages, lessons learned from continued development of the `caret` package, and candida advice for how the life sciences industry can utilize R effectively in new workflows.  Plus I share hidden gems from the excellent array of conference talks. Thank you so much for listening and hope you enjoy this episode!" 
+Description: "The R-Podcast's coverage of rstudio::conf 2019 wraps up in this episode, featuring a comprehensive conversation with RStudio software engineer Max Kuhn!  We discuss his vision for the `tidymodels` ecosystem of modeling packages, lessons learned from continued development of the `caret` package, and candida advice for how the life sciences industry can utilize R effectively in new workflows.  Plus I share some of my favorite gems from the excellent array of conference talks and posters. Thank you so much for listening and hope you enjoy this episode!" 
 aliases:
 - /28
 author: 'Eric Nantz'
@@ -8,7 +8,7 @@ categories:
 date: 2019-02-28
 draft: true
 episode: "28"
-episode_image: img/episode/ep27_logo.jpg
+episode_image: img/episode/ep28_logo.png
 explicit: "no"
 guests:
 - mkuhn
@@ -16,9 +16,9 @@ images:
 - img/episode/default-social.jpg
 podcast_bytes: ""
 podcast_duration: ""
-podcast_file: 'bc6edad7-787d-4d10-926c-327a2388d19c.mp3'
-title: "Episode 28: Max Kuhn"
-youtube: "-0pXDxDyYeA"
+podcast_file: 'cb9139b6-9cf0-42bd-8f9a-863ce64e817d.mp3'
+title: "Episode 28: Tidymodels with Max Kuhn (rstudio::conf 2019)"
+youtube: "hCrd8CU5zxw"
 ---
 
 ### Conversation with Max Kuhn
@@ -38,13 +38,9 @@ youtube: "-0pXDxDyYeA"
 * The lazy and distracted report writer - using rmarkdown and parameterised reports (Mike K Smith): [resources.rstudio.com/rstudio-conf-2019/the-lazy-and-easily-distracted-report-writer-using-rmarkdown-and-parameterised-reports](https://resources.rstudio.com/rstudio-conf-2019/the-lazy-and-easily-distracted-report-writer-using-rmarkdown-and-parameterised-reports)
 * Modernizing the Clinical Trial Analysis Pipeline with R and JavaScript: [github.com/RhoInc/RStudioConf2019-ePoster/](https://github.com/RhoInc/RStudioConf2019-ePoster/)
 
-### Additional resources
-
-* Tips on designing hex stickers for R packages (Hao Zhu): [zhuhao.org/post/tips-on-designing-a-hex-sticker-for-rstats-packages/](https://zhuhao.org/post/tips-on-designing-a-hex-sticker-for-rstats-packages/)
-
 ### Feedback
 
-- Leave a comment on this episode's [post]({{< ref "028-rstudioconf-max-kuhn.md" >}})
+- Leave a comment on this episode's [post]({{< ref "028-max-kuhn.md" >}})
 - Email the show: `thercast[at]gmail.com`
 - Use the R-Podcast [contact page]({{< ref "contact.md" >}})
 - Leave a voicemail at `+1-269-849-9780`
