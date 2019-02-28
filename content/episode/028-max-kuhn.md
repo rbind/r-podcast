@@ -6,7 +6,7 @@ author: 'Eric Nantz'
 categories:
 - Podcast
 date: 2019-02-28
-draft: true
+draft: false
 episode: "28"
 episode_image: img/episode/ep28_logo.png
 explicit: "no"
