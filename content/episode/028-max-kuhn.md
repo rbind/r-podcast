@@ -23,23 +23,20 @@ youtube: "-0pXDxDyYeA"
 
 ### Conversation with Max Kuhn
 
-* Tidy models link to GitHub repo
+* Tidy models: [github.com/tidymodels](https://github.com/tidymodels)
+* `parsnip` - A tidy interface to models: [tidymodels.github.io/parsnip/](https://tidymodels.github.io/parsnip/)
 * `caret` package: [topepo.github.io/caret/index.html](http://topepo.github.io/caret/index.html)
-* Other links
+* Conventions for R Modeling Packages: [tidymodels.github.io/model-implementation-principles/](https://tidymodels.github.io/model-implementation-principles/)
 
-### Hidden gems
+### Additional `rstudio::conf` gems
 
-TODO: Update
-
-* Karl Browman's rstudio::conf 2019 resources repo: [github.com/kbroman/RStudioConf2019Slides](https://github.com/kbroman/RStudioConf2019Slides)
-* Slides: [bit.ly/modules2019](https://bit.ly/modules2019)
-* Recording: [resources.rstudio.com/rstudio-conf-2019/effective-use-of-shiny-modules-in-application-development](https://resources.rstudio.com/rstudio-conf-2019/effective-use-of-shiny-modules-in-application-development)
-* Communication between modules article: [shiny.rstudio.com/articles/communicate-bet-modules.html](http://shiny.rstudio.com/articles/communicate-bet-modules.html)
-* Ames Housing Explorer application: [gallery.shinyapps.io/ames-explorer](https://gallery.shinyapps.io/ames-explorer)
-* `shinypod` package by Ian Lyttle: [github.com/ijlyttle/shinypod](https://github.com/ijlyttle/shinypod)
-* `shinysense` package by Nick Strayer:  [github.com/nstrayer/shinysense](https://github.com/nstrayer/shinysense)
-* Giving your first data science talk by Emily Robinson: [hookedondata.org/giving-your-first-data-science-talk/](https://hookedondata.org/giving-your-first-data-science-talk/)
-* The Unreasonable Effectiveness of Public Work (David Robinson): [slides](https://www.dropbox.com/s/jk7216yr30ztpdp/DavidRobinson-RStudio-2019-old.pdf?dl=0) and [recording](https://resources.rstudio.com/rstudio-conf-2019/the-unreasonable-effectiveness-of-public-work)
+* Empowering a data team with RStudio addins (Hao Zhu): [resources.rstudio.com/rstudio-conf-2019/empowering-a-data-team-with-rstudio-addins](https://resources.rstudio.com/rstudio-conf-2019/empowering-a-data-team-with-rstudio-addins)
+* `pak`: A fresh approach to package installation: [pak.r-lib.org/](https://pak.r-lib.org/)
+* Gabor Csardi's `rstudio::conf` presentation: [resources.rstudio.com/rstudio-conf-2019/pkgman-a-fresh-approach-to-package-installation](https://resources.rstudio.com/rstudio-conf-2019/pkgman-a-fresh-approach-to-package-installation)
+* Democratizing R with Plumber APIs (James Blair): [resources.rstudio.com/rstudio-conf-2019/democratizing-r-with-plumber-apis](https://resources.rstudio.com/rstudio-conf-2019/democratizing-r-with-plumber-apis)
+* Configuration management tools for the R admin (Kelly O'Briant): [resources.rstudio.com/rstudio-conf-2019/configuration-management-tools-for-the-r-admin](https://resources.rstudio.com/rstudio-conf-2019/configuration-management-tools-for-the-r-admin)
+* The lazy and distracted report writer - using rmarkdown and parameterised reports (Mike K Smith): [resources.rstudio.com/rstudio-conf-2019/the-lazy-and-easily-distracted-report-writer-using-rmarkdown-and-parameterised-reports](https://resources.rstudio.com/rstudio-conf-2019/the-lazy-and-easily-distracted-report-writer-using-rmarkdown-and-parameterised-reports)
+* Modernizing the Clinical Trial Analysis Pipeline with R and JavaScript: [github.com/RhoInc/RStudioConf2019-ePoster/](https://github.com/RhoInc/RStudioConf2019-ePoster/)
 
 ### Additional resources
 
