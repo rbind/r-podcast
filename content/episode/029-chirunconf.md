@@ -1,144 +1,61 @@
 ---
-Description: "Great description of Chicago R Unconference" 
+Description: "I am delighted to bring your coverage of the first-ever Chicago R Unconference in episode 29 of the R-Podcast!  I share perspectives on many of the great projects addressed in this unconference, ranging from new metrics on machine text translations to an entire unconference toolbox. Be sure to check the extensive show notes for links to these projects. Plus the return of highlights from the R community, including two newly-funded R Consortium projects. Thank you for listening and I hope you enjoy this episode!" 
 aliases:
 - /29
 author: 'Eric Nantz'
 categories:
 - Podcast
-date: 2019-03-15
-draft: true
+date: 2019-03-23
+draft: false
 episode: "29"
-episode_image: img/episode/ep28_logo.png
+episode_image: img/episode/ep29_logo.png
 explicit: "no"
 guests:
-- wlandau
 - kmisra
+- blistyg
+- wlandau
+- cclark
 images:
 - img/episode/default-social.jpg
 podcast_bytes: ""
 podcast_duration: ""
-podcast_file: 'cb9139b6-9cf0-42bd-8f9a-863ce64e817d.mp3'
+podcast_file: 'b8094da6-e9eb-4ec8-8ccd-f3d924f6435d.mp3'
 title: "Episode 29: Chicago R Unconference Recap"
-youtube: "hCrd8CU5zxw"
+youtube: "0833oUT59nY"
 ---
 
-### segment intro
+### Chicago R Unconference 
 
-* Conference took place on March 9-10 in chicago
-* GitHub issues for potential projects, got lots of activity the week before the conference
-* Slack space was great, had each person introduce themselves in the welcome channel
-* Great to have my colleague Will Landau attend too, he went to the university of chicago for his undergrad
-* Mixer dinner night before, great to meet a few of the attendees already
-* Really nice campus, pleasant walks from the hotel, Will shared great stories about the campus and his time there
-* warm-up exercise, patterend after some of the ropensci unfoncerences
-* question about if we knew where we fit in the R community, I stayed in the middle because I want to be more involved in helping use R and help improve various packages and create interesting apps to showcase its usage, I have not done enough of that in my opinion, so this unconf was a great chance to see what I could accomplish in two days
-* Huge thanks to Joshua Golberg (data scientist at Nuveen investments) for the awesome photos throughout the event TODO add link to his Google photos album
+* Unconf website: [https://chirunconf.github.io/](chirunconf.github.io/)
+* Issue board: [github.com/chirunconf/chirunconf19/issues](https://github.com/chirunconf/chirunconf19/issues)
+* `#chirunconf` (Sharla Gelfand): [sharla.party/posts/chirunconf/](https://sharla.party/posts/chirunconf/)
+* Discover and share your supeR powers (Mauro Lepore): [maurolepore.github.io/confs/articles/2019_chirunconf_experience.html](https://maurolepore.github.io/confs/articles/2019_chirunconf_experience.html)
+* Joshua Goldberg's awesome unconf [photo album](https://photos.google.com/share/AF1QipPJmgx7AVbz_ELCTEPz583dK1m_nwQNIVnN4yDNVN7LHCQ9olWQBw7TSCeA1QwDxA?key=MmVHT1hLQ1ZoeGJzUHhuc0VMTXo1YzFDNDFNSkd3)
+* `footrulr` package repo: [github.com/kanishkamisra/footrulr](https://github.com/kanishkamisra/footrulr)
+* Fixed-Choice Design Simulation `drake` workflow (Ben Listyg):  [github.com/wlandau/drake-examples/tree/master/fcd](https://github.com/wlandau/drake-examples/tree/master/fcd)
+* `drake` v7.0.0 package release notes: [ropensci.org/technotes/2019/03/18/drake-700/](https://ropensci.org/technotes/2019/03/18/drake-700/)
+* `electricShine` package repo: [github.com/chasemc/electricShine](https://github.com/chasemc/electricShine)
+* 25 `gt` examples: [frm1789.github.io/gt_examples/](https://frm1789.github.io/gt_examples/)
+* The Unconference Toolbox: [github.com/unconf-toolbox/](https://github.com/unconf-toolbox/)
+* The Unconf Issue Explorer Shiny app: [rpodcast.shinyapps.io/unconfissues/](https://rpodcast.shinyapps.io/unconfissues/)
+* Unconf Twitter bot repo: [github.com/unconf-toolbox/unconf-bot](https://github.com/unconf-toolbox/unconf-bot)
+* How to Organize an R Unconference: [unconf-toolbox.github.io/unconf-guide/](https://unconf-toolbox.github.io/unconf-guide/)
+* Unconf attendee application repo: [github.com/unconf-toolbox/unconf-apps](https://github.com/unconf-toolbox/unconf-apps)
+* Unconf review Shiny app repo: [github.com/unconf-toolbox/Shiny_review_app](https://github.com/unconf-toolbox/Shiny_review_app) 
+* `rlangtip` package repo: [github.com/revodavid/rlangtip](https://github.com/revodavid/rlangtip)
+* `broom` package repo: [github.com/tidymodels/broom](https://github.com/tidymodels/broom)
+* `workflowr` package repo: [github.com/jdblischak/workflowr](https://github.com/jdblischak/workflowr)
 
+### Package Pick
 
-### footrulr
+* `brickr` 3D LEGO models and mosaics from images using R and `tidyverse`: [github.com/ryantimpe/brickr](https://github.com/ryantimpe/brickr)
+* My ShinyLEGO app: [rpodcast.shinyapps.io/shinylego/](https://rpodcast.shinyapps.io/shinylego/)
 
-* https://github.com/kanishkamisra/footrulr Compare sentences using Machine Translation and Text Summarization evaluation metrics
-* Measure quality of generated text using human references as examples
-* Say translating from one language to another, know both language, and for a given french line they get the english line
-* Cpmpare the machine-translated version with the human versions
-* The goal of footrulr is to provide some functionality to compute sentence comparisons using metrics frequently employed in Machine Translation and Text Summarization evaluation.
-* Compare generated text of english with given references of the humans
-* Mauro was very helpful to share his perspectives on package development and organization 
-Contributors 
+### Community News Highlights
 
- - Kanishka Misra
- - [Katherine Simeon](https://katherinesimeon.github.io/)
- - [Mauro Lepore](https://github.com/maurolepore)
- - [Joshua Goldberg](https://twitter.com/GoldbergData)
- - [Will Bonnell](https://twitter.com/_willdebras)
- - [Weiyang Tham](https://twitter.com/wytham88?lang=en)
-  
-
-The name is inspired from Rstudio’s yardstick package for Machine Learning evaluation metrics.
-
-### Drake updates
-
-* Ben Listyg @BListyg made a ton of progress on wlandau/drake-examples#13. He added a new example drake-powered workflow for a real social science research problem. The runtime is long enough to motivate the usefulness of drake.
-* https://github.com/wlandau/drake-examples/tree/master/fcd
-* TJ Mahr @tjmahr fixed some substantial issues in drake itself (ropensci/drake#743 and ropensci/drake#741) and joined the official list of drake contributors. He also began adapting one of his current behavioral research projects to use drake.
-* @kangel09 fixed ropensci/drake#750 and ropenscilabs/drake-manual#64, adding links to guidance on how to use drake and tensorflow together.
-* We submitted drake 7.0.0 to CRAN: ropensci/drake#753.
-
-### electricShine
-
-* Chase Clark TODO get guest card and bio info
-* R package to automate creating electron apps for distribution 
-* Belinda Chen (data analyst in healthcare industry) helped create a test to make sure path specifications were correct
-
-
-### rlangtip
-
-* David Smith maintained a twitter account called RLangTip that tweeted an R tip every day since 2011.
-* https://github.com/revodavid/rlangtip 
-
-This package was created during the [Chicago R Unconference](https://chirunconf.github.io/), March 9-10 2019 by:
-
-* Benjamin Crary (@benjamincrary)  
-* Amanda Dobbyn (@aedobbyn)  
-* Jim Hester (@jimhester)  
-* Caroline Kinnen (@carolinekinnen) E. Auden Krauska (@krauskae) David
-* Smith (@revodavid)  
-* Belinda Zo (@belindazo)  
-
-
-### Broom package
-
-* Alex Hayes (organizer of conference and maintainer of broom)
-* Contributors:
-    + Indrajeet Patil
-    + Auden Krasuka
-    + Weiyang Tham
-    + Annie Wang
-    + Clara ?
-    
-### Workflowr
-
-* John Blischak was mentor and is creator of the package
-* Zaynaib (Ola) Giwa and Jorge Argueta worked on an RStudio add-in prototype to help with the publish portion of the workflow
-* Ola also added a check for a pandoc installation before the wflow_build function executes
-
-### GT Table examples
-
-* Florencia Mangini created a very nice collection of examples using the `gt` package to produce a variety of tables!
-* Karl Browman also contributed
-* https://github.com/frm1789/gt_examples
-* https://frm1789.github.io/gt_examples/ 
-
-### Unconf Toolbox!
-
-* Contributors: 
-   + me, 
-   + Sam Tyner (postdoc at Iowa state) and organizer of the upcoming Uncoast Unconf April 14-16
-   + Emily Riederer (fellow organizer, spoken at rstudio::conf before), 
-   + Sydney Ardue (researcher in cook county sheriff office),
-   + Natalie Jorion (psychometrician at PearsonVUE), 
-   + Sharla Gelfand (statistican working in nursing regulation in Toronto, develops Shiny apps as well with Tonya Casheriali) , 
-   + Angela Li (the organizer! works at the center for spatial data science at UChicago), co-organizer of R-Ladies Chicago
-* https://github.com/unconf-toolbox
-* Syndey and Natalie created an awesome Shiny form for applications and have made great process on a Shiny app facilitating review of applicants
-     + https://github.com/unconf-toolbox/Shiny_form 
-     + https://github.com/unconf-toolbox/Shiny_review_app 
-* Sam made an automated Twitter bot that retweets tweets with your unconference's hashtag https://github.com/unconf-toolbox/unconf-bot 
-* Sam and Angela created the unconf guide! https://github.com/unconf-toolbox/unconf-guide and https://unconf-toolbox.github.io/unconf-guide/ 
-* Emily created a framework for emailing participants based on the `blastula` package from Rich Iannone
-* I and Sharla created a nifty unconf issue dashboard!  Based on bs4Dash for UI
-* Sharla wrote a great blog post on her experience
-
-### Wrapup
-
-* Awesome experience
-* Fun to finally put the skills I've been learning to practice and help others learn new ideas and new insights from R
-* Rweekly highlights 
-    * I didn't break the machine!
-    * R 3.5.3 available
-    * R consortium projects funded this year (two members of the Rweekly team!)
-        + Maelle salmon: Catalyst of R-hub (R-hub created by Gabor Csardi)
-        + Colin Faye: Licensing in R guidelines and tools
+* Powered by R Weekly issue [2019-11](https://rweekly.org/#RWeekly2019-11R3.5.3,RConsortium,chirunconf)
+* R 3.5.3 now available: [blog.revolutionanalytics.com/2019/03/r-353-now-available.html](https://blog.revolutionanalytics.com/2019/03/r-353-now-available.html)
+* R Consortium 2019 Update: [www.r-consortium.org/blog/2019/03/12/2019-update-one-r-consortium-and-isc-announce-the-newest-funded-projects-for-the-r-community](https://www.r-consortium.org/blog/2019/03/12/2019-update-one-r-consortium-and-isc-announce-the-newest-funded-projects-for-the-r-community)
 
 ### Feedback
 
