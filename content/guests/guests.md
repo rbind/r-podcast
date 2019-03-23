@@ -7,13 +7,16 @@ guests:
 - dattali
 - bborges
 - jcheng
+- cclark
 - deddelbuettel
 - ggrolemund
 - riannone
 - mkuhn
 - wlandau
+- blistyg
 - jluraschi
 - ilyttle
+- kmisra
 - vnijs
 - hparker
 - ntierney
