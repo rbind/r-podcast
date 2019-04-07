@@ -50,5 +50,8 @@ This page lists resources that can help you learn about R effectively.  Use the 
 
 ## <a id="training"></a>Online Training & Courses
 
-* [DataCamp](https://www.datacamp.com): One of the leaders in data science education that offers many courses leveraging R as well as Python that cover many worflows of data science.  Interactive exercises and real-time assessments help students learn efficiently and video lectures are contained in each course.  
+* [R for the rest of us](https://rfortherestofus.com/): A new platform created by David Keyes with R courses that are approachable to a wide variety of audiences. Quote from the home site: "You don’t need a PhD in statistics or years of coding experience to learn R. Anyone can learn the most powerful tool for data analysis and visualization."
+* [Chromebook Data Science](https://jhudatascience.org/chromebookdatascience/): Chromebook Data Science (CBDS) is a free, massive open online educational program offered through Leanpub to help anyone who can read, write, and use a computer to move into data science, the number one rated job. 
+* [Dataquest](https://www.dataquest.io/): Whether you’re new to the field or looking to take a step up in your career, Dataquest can teach you the data skills you’ll need. Learn Python, R, SQL, data visualization, data analysis, and machine learning. 
+* [Swirl](https://swirlstats.com/): The `swirl` R package teaches you R programming and data science interactively, at your own pace, and right in the R console!
 * [Woz U Data Science](https://woz-u.com/data-science-2/): Part of the __Woz U__ education platform, the Data Science curriculum focuses on the fundamentals of computer science, statistics, and applied mathematics, while incorporating real-world examples.  Instructor videos are available for each course and students can receive certifications upon course completion.
