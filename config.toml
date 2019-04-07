@@ -124,6 +124,3 @@ media_prefix = "https://aphid.fireside.fm/d/1437767933/487fd4f7-8859-4de4-98de-2
 		[params.links.metacran]
 			name = "METACRAN"
 			url = "https://www.r-pkg.org/"
-		[params.links.datacamp]
-			name = "DataCamp"
-			url = "https://www.datacamp.com"
