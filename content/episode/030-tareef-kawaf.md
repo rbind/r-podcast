@@ -21,10 +21,11 @@ title: "Episode 30: The inside story of RStudio with Tareef Kawaf"
 youtube: "0833oUT59nY"
 ---
 
-* RStudio 1.2 release highlights: [blog.rstudio.com/2019/04/30/rstudio-1-2-release/](https://blog.rstudio.com/2019/04/30/rstudio-1-2-release/)
+* RStudio 1.2 release highlights: [blog.rstudio.com/2019/04/30/rstudio-1-2-release](https://blog.rstudio.com/2019/04/30/rstudio-1-2-release/)
 * Tareef's opening keynote at `rstudio::conf` 2019: [Welcome and RStudio Vision](https://resources.rstudio.com/rstudio-conf-2019/opening-keynote-tareef-kawaf)
-* RStudio Community: [community.rstudio.com/](https://community.rstudio.com/)
-* RStudio Cloud (currently in alpha): [rstudio.cloud/](https://rstudio.cloud/)
+* Reproducible Environments: [environments.rstudio.com](https://environments.rstudio.com/)
+* RStudio Community: [community.rstudio.com](https://community.rstudio.com/)
+* RStudio Cloud (currently in alpha): [rstudio.cloud](https://rstudio.cloud/)
 * __TODO__ add link to announcement blogpost
 
 ### Feedback
