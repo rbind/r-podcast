@@ -26,7 +26,7 @@ youtube: "oOQOnPWwCu4"
 * Reproducible Environments: [environments.rstudio.com](https://environments.rstudio.com/)
 * RStudio Community: [community.rstudio.com](https://community.rstudio.com/)
 * RStudio Cloud (currently in alpha): [rstudio.cloud](https://rstudio.cloud/)
-* __TODO__ add link to announcement blogpost
+* Introducing RStudio Server Pro 1.2 - New Features, Packaging, and Pricing: [blog.rstudio.com/2019/05/09/introducing-rstudio-server-pro-1-2/](https://blog.rstudio.com/2019/05/09/introducing-rstudio-server-pro-1-2/)
 
 ### Feedback
 
