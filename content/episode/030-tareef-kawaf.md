@@ -16,9 +16,9 @@ images:
 - img/episode/default-social.jpg
 podcast_bytes: ""
 podcast_duration: ""
-podcast_file: 'b8094da6-e9eb-4ec8-8ccd-f3d924f6435d.mp3'
-title: "Episode 30: The inside story of RStudio with Tareef Kawaf"
-youtube: "0833oUT59nY"
+podcast_file: '630fd1cf-311d-4503-83af-c3a043adbd1b.mp3'
+title: "Episode 30: The origins and future of RStudio with Tareef Kawaf"
+youtube: "oOQOnPWwCu4"
 ---
 
 * RStudio 1.2 release highlights: [blog.rstudio.com/2019/04/30/rstudio-1-2-release](https://blog.rstudio.com/2019/04/30/rstudio-1-2-release/)
