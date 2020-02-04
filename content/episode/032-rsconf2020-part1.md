@@ -23,7 +23,7 @@ youtube: "CJGkkRE5re0"
 1. Public Benefit Corporations news
 
 * Chatter/rumors before the keynote about a big annoucement coming.  No one was saying any hints other than "you will really like it"
-* JJ announced that RStudio has officially become a Public Benefit Corporation (PBC). This is the first time I've heard of this term
+* JJ announced that RStudio has officially become a Public Benefit Corporation (PBC). This is the first time I've heard of this term.  JJ was an early guest of this very podcast on episode
 * We will link to JJ's blogpost and keynote slides
 * Other tech news sites (even podcasts about open-source news) covered this story.  I don't recall another time recently that an event in the R community received this much mainstream tech press
 * What does this mean to me?  After a bit of reflection, I feel relief.  
@@ -46,7 +46,15 @@ youtube: "CJGkkRE5re0"
 * If you are listening to this on your smartphone you'll see the cool photo Colin took of the 4 of us.  
 *There's been a little bit of a turnover in our curator group, and we would welcome anyone who is passoionate about RWeekly's mission to join our team!  Visit Rweekly.org (TODO find real link in the site).  We've been discussing ways of using new advancements in the automations possible to alleviate some of the manual efforts, but we could certainly use help in seeing that through
 
-3. Interview with Kevin Ushey
+3. Interview with Kevin Ushey setup
+
+* Apologizes for audio quality, we recorded as they were tearing down the vender / lounge booths and chairs!  I did the best I could with editing
+* It's always an art to try and find a "quiet" area in the conference floor to do these interviews, and the hotel locked my favorite rooms to use
+
+4. Post interview comments
+
+* Kevin packed a lot of content in this conference presentation, definitely check out the links in the show notes
+* I was estatic when renv was first released to CRAN, sent a tweet about it, and asesome community member Emily Riederer thought I was already interviewing Kevin :) .  Needless to say, I've fulfilled that promise now haha
 
 4. Residual Snippets!
 
@@ -56,6 +64,12 @@ youtube: "CJGkkRE5re0"
 * Also big shoutout to Maelle Salmon (fellow RWeekly curator and all around awesome person) who wrote an excellent post on using the utterances widget to capture comments via GitHub issues
 * Somehow, Residual Snippets is actually on the Apple Podcasts service (who knew!) so if you want to listen via an actual podcast client, I won't judge!
 
+5. Episode wrapup
+
+* Emil Hvitfeldt has created a GitHub repo collecting links to all of the slides, workshop materials, posters, and other online resources related to the conference.  If you presented at the conference, please check it out and add your links in a PR!
+* In next episode, I will share my experience creating and presenting a poster about Shiny highlights in the community.  Plus my guest in the next episode is a wizard with integrating Shiny with css and javascript, you won't want to miss it!  I'll also share my takeaways on the presentations I attended as well as the javascript for Shiny users workshop.
+* As always feel free to send your feedback in multiple ways: r-podcast.org/contact for the dedicated contact form.  Email directly with theRcast@gmail.com, and you can provide a comment to the episode directly at r-podcast.org/32 .
+
 ### Links
 
 * RStudio becomes a Public Benefit Corporation: [blog.rstudio.com/2020/01/29/rstudio-pbc](https://blog.rstudio.com/2020/01/29/rstudio-pbc)
@@ -63,6 +77,8 @@ youtube: "CJGkkRE5re0"
 * JJ Allaire's keynote slides: [rstudio.com/slides/rstudio-pbc/](https://rstudio.com/slides/rstudio-pbc/)
 * A corporate paradign shift - Public Benefit Corporations [https://www.gibsondunn.com/a-corporate-paradigm-shift-public-benefit-corporations/](www.gibsondunn.com/a-corporate-paradigm-shift-public-benefit-corporations)
 * `renv`: Project Environments for R [kevinushey-2020-rstudio-conf.netlify.com/slides.html](https://kevinushey-2020-rstudio-conf.netlify.com/slides.html)
+* `renv` GitHub repository: [github.com/rstudio/renv](https://github.com/rstudio/renv)
+* Emil Hvitfeldt's repository with `rstudio::conf` links to slides and other materials: [github.com/EmilHvitfeldt/RStudioConf2020Slides](https://github.com/EmilHvitfeldt/RStudioConf2020Slides)
 * Residual Snippets app: [rpodcast.shinyapps.io/rsnippets](https://rpodcast.shinyapps.io/rsnippets)
 
 ### Feedback
@@ -75,6 +91,11 @@ youtube: "CJGkkRE5re0"
 
 ```
 00:00:00.000 Intro
+00:XX:XX.000 RStudio PBC
+00:XX:XX.000 RWeekly Curators Unite!
+00:XX:XX.000 RStudio's Kevin Ushey
+00:XX:XX.000 Residual Snippets!
+00:XX:XX.000 Wrapup
 ```
 
 ### Music Credits
