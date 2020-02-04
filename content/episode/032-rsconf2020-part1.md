@@ -28,7 +28,7 @@ youtube: "CJGkkRE5re0"
 * Other tech news sites (even podcasts about open-source news) covered this story.  I don't recall another time recently that an event in the R community received this much mainstream tech press
 * What does this mean to me?  After a bit of reflection, I feel relief.  
 * JJ received a standing ovation at the end, it was one of the more powerful moments I've experienced at this event.
-* I did a bit of research and will link to a nice summary article on the details of a PBC.  Here are my takeaways
+* I did a bit of research and will link to a nice summary article on the details of a PBC.  Disclaimer I am not a lawyer and I definitely don't play one on a podcast!  Here are my takeaways
      + While this doesn't outright prevent another company from acquiring RStudio, it at least offers "takover" protection.  One example is that "merged" corporation's certificate of incorporation needs to contain identical provisions that detail public benefits, otherwise the transaction must receive at least 2/3 of the desired company's voting shares. 
      + RStudio has now the legal freedom to consider how decisions impact stakeholders besides the actual shareholders.  A company's board now has the right (and duty) to consider the public's good and social benefits/risks for key decisions
      + A growing number of investors are becoming more interested to invest in companies that are socially responsible.  Some are called "impact" investors and they tend to believe that the long-term value of a PBC is better than a typical for-profit corporation
@@ -44,6 +44,7 @@ youtube: "CJGkkRE5re0"
 * It was great to meet Jonathan Carroll for the first time!  We've knowen eachoter virtually for years, in fact he was one of the very first listeners to this little podcast.  We had lots of fun talking about the trends we're seeing in the R community and the R core team, and share storeis of our Shiny developements (he and I work in the same industry!)
 * I met Ryo <insert last name for the first time as well (he came all the way from Japan).  He's published some really cool and insightful analyess of "football"  data (the world football that is) and I learned that he is also a hockey fan like me!
 * If you are listening to this on your smartphone you'll see the cool photo Colin took of the 4 of us.  
+* I had the pleasure of being the curator this past week and a bunch of great content is available!  Link in the show notes
 *There's been a little bit of a turnover in our curator group, and we would welcome anyone who is passoionate about RWeekly's mission to join our team!  Visit Rweekly.org (TODO find real link in the site).  We've been discussing ways of using new advancements in the automations possible to alleviate some of the manual efforts, but we could certainly use help in seeing that through
 
 3. Interview with Kevin Ushey setup
