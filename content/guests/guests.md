@@ -6,10 +6,12 @@ guests:
 - jallen
 - dattali
 - bborges
+- mrundel
 - jcheng
 - cclark
 - deddelbuettel
 - ggrolemund
+- ahill
 - riannone
 - tkawaf
 - mkuhn
@@ -21,6 +23,7 @@ guests:
 - vnijs
 - hparker
 - ntierney
+- kushey
 - hwickham
 - yxie
 
