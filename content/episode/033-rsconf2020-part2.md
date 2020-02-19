@@ -38,6 +38,20 @@ youtube: "EdKzYaVg2Gk"
 
 #### RStudioconf overall impressions
 
+* Styling shiny apps SASS and bootstrap 4 Joe Cheng
+    - shinydashboard usage caught them by surprise
+    - as someone in life sciences, it is so hard to get out of my head the "other" company that sounds just like SASS
+    - funny moment: code was too small and Joe thought he heard voices in his head 14:44-15:23
+    - another great tool: real time previewer tool
+    - next version of Shiny will have plot autocolor feature
+
+* Tech debt is a social problem (Gordon Shotwell)
+    - People can be biased on how they might address tech debt
+    - Can over-estimate how good something is
+    - forgive the mess
+    - emphathy with the debtor is important
+    - embracing that encountering tech debt is a good thing: 18:15-18:42
+
 * Logger package is awesome
 * Ryan Timpe's talk
 * Future package
