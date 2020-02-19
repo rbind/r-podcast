@@ -51,6 +51,13 @@ youtube: "EdKzYaVg2Gk"
     - forgive the mess
     - emphathy with the debtor is important
     - embracing that encountering tech debt is a good thing: 18:15-18:42
+    
+* Facilitating communities of practice (Kate Hertweck) Fred Hutchinson bioinformatics training manager
+
+    - Activities unite community: 4:40 5:20
+    - skills vary your community: 8:06 - 8:44
+    - adapt as community changes: 17:17 - 17:57
+    - what are the needs: 18:40-19:00
 
 * Logger package is awesome
 * Ryan Timpe's talk
