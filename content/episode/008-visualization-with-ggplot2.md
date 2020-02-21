@@ -28,6 +28,7 @@ title: 'Episode 8: Visualization with `ggplot2`'
 youtube: "Inl40ZZMy5k"
 ---
 
+-   Screencast available at [https://www.youtube.com/watch?v=L08YA4eJiUo](www.youtube.com/watch?v=L08YA4eJiUo)
 -   The Going Linux Podcast: <http://www.goinglinux.com>
 -   Hockey Summary Project: <http://hsp.flyershistory.com/>
 -   Plot Code on GitHub: <https://github.com/thercast/nhl_analysis/blob/master/src/plot_demo_code.R>
