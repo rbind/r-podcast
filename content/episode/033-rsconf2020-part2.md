@@ -36,7 +36,7 @@ youtube: "EdKzYaVg2Gk"
 * Preparation was evident
 * Cool to see me and Maya working on a similar project without even knowing
 
-#### RStudioconf overall impressions
+#### Shiny content at RStudioconf overall impressions
 
 * Styling shiny apps SASS and bootstrap 4 Joe Cheng
     - shinydashboard usage caught them by surprise
@@ -45,40 +45,40 @@ youtube: "EdKzYaVg2Gk"
     - another great tool: real time previewer tool
     - next version of Shiny will have plot autocolor feature
 
-* Tech debt is a social problem (Gordon Shotwell)
-    - People can be biased on how they might address tech debt
-    - Can over-estimate how good something is
-    - forgive the mess
-    - emphathy with the debtor is important
-    - embracing that encountering tech debt is a good thing: 18:15-18:42
+* Shinymeta (Carson Sievert)
+    - Not my first time hearing it, but makes more sense now
+    - A good example of how iterating over a topic can lead to great things
     
-* Facilitating communities of practice (Kate Hertweck) Fred Hutchinson bioinformatics training manager
+* Logger package (Gergely Daroczi) (pronounced Jerglay)
+    - Must have for any type of "production" R workflow
+    - Ability to log shiny interactions!
 
-    - Activities unite community: 4:40 5:20
-    - skills vary your community: 8:06 - 8:44
-    - adapt as community changes: 17:17 - 17:57
-    - what are the needs: 18:40-19:00
+#### Listener feedback
 
-* Logger package is awesome
-* Ryan Timpe's talk
-* Future package
-* shinymeta (finally makes more sense)
-* James Blair's plumber talk very well done
-* T-mobile R in production (they have a call to action too)
+* Ricardo's feedback on RStudio's move to becoming a B-Corp
+     - "personally I think it becomes painfully obvious that the role of businesses needs to evolve because the needs we have out of those businesses have evolved as a society"
+     - Messaging is important: Ricardo's exposure to B-Corps was not idea in a university course.  I can relate in a much different way, see my Java course in undergrad
+     - Check out his tutorials introducing tidyverse concepts with cryptocurrency data.  Cool stuff!
+     - Thanks for the great feedback!
 
+* Richard's  question (sent to me on twitter) looking for a good tutorial on using the servr package for real-time previewing of R markdown documents:
+     - These days I simply use the `infinite_moon_reader` function from the `xaringan` package because it wraps the servr functionality and can be used for any R-markdown document.  Perhaps that can solve your issue?
+     
 #### Wrapup
 
 * Enjoyed the NSSD 101 interview with JJ Allaire
-* Was cool to be interviewed on the Michael Dominick show to share a bit about R to a software developer community
+* Was cool to be interviewed on the Michael Dominick show (epsiode 8) to share a bit about R to a software developer community
+* I want to dedicate next episode to some of the awesome nuggets related to R-Markdown that were shared at rstudio conf, perhaps with a special guest too
 
 
 ### Links
 
+* Shiny highlights poster
 * Javascript for Shiny users home site
 * Garrick's GitHub
 * Package for course
 * RStudio conf 2020 videos
-* My appearance on Michael Dominick Show
+* My appearance on Michael Dominick Show https://www.automator.show/8 
 * NSSD 101 interview with JJ Allaire
 
 
