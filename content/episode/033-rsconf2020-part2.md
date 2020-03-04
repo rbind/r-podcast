@@ -93,7 +93,13 @@ youtube: "EdKzYaVg2Gk"
 
 ```
 00:00:00.000 Intro
-00:XX:XX.000 Wrapup
+00:01:48.000 Shiny community e-poster
+00:20:12.000 Garrick Aiden-Buie
+00:38:10.000 Styling Shiny apps
+00:40:56.000 Shinymeta
+00:44:20.000 logger
+00:49:49.000 listener feedback
+00:57:25.000 Wrapup
 ```
 
 ### Music Credits
