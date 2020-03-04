@@ -1,11 +1,11 @@
 ---
-Description: "Episode 33 description here"
+Description: "Episode 33 of the R-Podcast continues our coverage of rstudio::conf 2020!  I share my experiences from my e-poster presentation about the Shiny community, and have a great conversation with the very talented Garrick Aiden-Buie! We discuss his spectacular JavaScript for Shiny Users course, the mind-blowing features of the package accompanying the course, and much more.  Plus I share my takeaways from Shiny-related presentations at the conference and a fresh batch of listener feedback.  I hope you enjoy this episode!"
 aliases:
 - /33
 author: 'Eric Nantz'
 categories:
 - Podcast
-date: 2020-02-19
+date: 2020-03-04
 draft: false
 episode: "33"
 episode_image: img/episode/default.jpg
@@ -16,9 +16,9 @@ images:
 - img/episode/default-social.jpg
 podcast_bytes: ""
 podcast_duration: ""
-podcast_file: 'a4dc13f1-a89b-4e59-b813-511635f1f96c.mp3'
+podcast_file: 'c9ca71c0-bf50-4844-9cb8-30099a4a8a95.mp3'
 title: "Episode 33: Shiny and JavaScript wizardry with Garrick Aiden-Buie"
-youtube: "EdKzYaVg2Gk"
+youtube: "FGtdC2-GGnc"
 ---
 
 ### Links
