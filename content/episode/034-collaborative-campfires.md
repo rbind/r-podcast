@@ -21,7 +21,7 @@ podcast_bytes: ""
 podcast_duration: ""
 podcast_file: 'FJ95mIdt'
 title: "Episode 34: Enriching the Next Generation of R-Core Development"
-youtube: "FGtdC2-GGnc"
+youtube: "uo-fyBC_BxY"
 ---
 
 ### Links
