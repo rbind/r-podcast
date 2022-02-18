@@ -17,10 +17,12 @@ episode: "13"
 explicit: "no"
 guests:
 - yxie
+hosts:
+- enantz
 images:
 - /img/episode/default-social.jpg
 podcast_duration: "0:52:01"
-podcast_file: 77e98b58-c259-4989-aac5-4e4157434455.mp3
+podcast_file: 7fXEdiWY
 podcast_bytes: ""
 tags: []
 title: 'Episode 13: Interview with Yihui Xie'

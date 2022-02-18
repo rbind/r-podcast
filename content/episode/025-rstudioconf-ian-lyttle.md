@@ -12,11 +12,13 @@ episode_image: img/episode/default.jpg
 explicit: "no"
 guests:
 - ilyttle
+hosts:
+- enantz
 images:
 - img/episode/default-social.jpg
 podcast_bytes: ""
 podcast_duration: ""
-podcast_file: 'b0d7ab4c-a06b-4d59-a180-191983e8cb63.mp3'
+podcast_file: 'cUmybjSy'
 title: "Episode 25: Interview with Ian Lyttle (rstudio::conf 2018)"
 youtube: "2zEXhgwhQ0A"
 ---

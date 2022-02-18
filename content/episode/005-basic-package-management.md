@@ -16,10 +16,12 @@ date: 2012-04-15T12:41:26-05:00
 episode: "5"
 explicit: "no"
 guests: []
+hosts:
+- enantz
 images:
 - /img/episode/default-social.jpg
 podcast_duration: "1:01:00"
-podcast_file: 1ca82663-3ac3-450e-b906-b3b21f734443.mp3
+podcast_file: 3Jhed6qB
 podcast_bytes: ""
 tags: []
 title: 'Episode 5: Basic Package Management'

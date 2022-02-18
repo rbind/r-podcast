@@ -17,10 +17,12 @@ date: 2015-11-18T14:07:21-05:00
 episode: "14"
 explicit: "no"
 guests: []
+hosts:
+- enantz
 images:
 - /img/episode/default-social.jpg
 podcast_duration: "1:01:00"
-podcast_file: 58003a01-0fc8-405d-a7a2-086a2d666007.mp3
+podcast_file: qs89DpXO
 podcast_bytes: ""
 tags: []
 title: 'Episode 14: Tips and Tricks for using R-Markdown'

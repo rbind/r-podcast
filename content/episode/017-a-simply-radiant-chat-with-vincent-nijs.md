@@ -18,10 +18,12 @@ episode: "17"
 explicit: "no"
 guests:
 - vnijs
+hosts:
+- enantz
 images:
 - /img/episode/default-social.jpg
 podcast_duration: "0:37:19"
-podcast_file: 811d2c31-3108-44e0-b938-66f9ee23f30b.mp3
+podcast_file: Vcb-a_mT
 podcast_bytes: ""
 tags: []
 title: 'Episode 17: A Simply Radiant Chat with Vincent Nijs'

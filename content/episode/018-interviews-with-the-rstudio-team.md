@@ -21,10 +21,12 @@ guests:
 - jallen
 - jcheng
 - hwickham
+hosts:
+- enantz
 images:
 - /img/episode/default-social.jpg
 podcast_duration: "1:19:00"
-podcast_file: 6450fbb4-e47f-4ee1-80e1-58ba5c1e5a6d.mp3
+podcast_file: EmdIrMZa
 podcast_bytes: ""
 tags: []
 title: 'Episode 18: Interviews with the RStudio Team'

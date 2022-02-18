@@ -15,10 +15,12 @@ date: 2012-03-11T22:54:12-05:00
 episode: "3"
 explicit: "no"
 guests: []
+hosts:
+- enantz
 images:
 - /img/episode/default-social.jpg
 podcast_duration: "1:01:00"
-podcast_file: 495d95da-c998-48d7-b4cf-6038530f33a6.mp3
+podcast_file: Xa6Me7Ws
 podcast_bytes: ""
 tags: []
 title: 'Episode 3: Basic Interaction with R'

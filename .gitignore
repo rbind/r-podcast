@@ -3,4 +3,8 @@
 .RData
 .Ruserdata
 public/
-scratch/
+resources/
+prototyping/
+!prototyping/README.md
+.DS_Store
+.hugo_build.lock

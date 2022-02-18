@@ -18,10 +18,12 @@ date: 2012-06-20T09:02:01-05:00
 episode: "8"
 explicit: "no"
 guests: []
+hosts:
+- enantz
 images:
 - /img/episode/default-social.jpg
 podcast_duration: "1:29:00"
-podcast_file: 9a05eec7-c464-47fd-8d59-0f902e2b13ec.mp3
+podcast_file: c-mbFzew
 podcast_bytes: ""
 tags: []
 title: 'Episode 8: Visualization with `ggplot2`'
