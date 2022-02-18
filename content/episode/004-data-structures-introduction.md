@@ -15,10 +15,12 @@ date: 2012-03-25T18:03:18-05:00
 episode: "4"
 explicit: "no"
 guests: []
+hosts:
+- enantz
 images:
 - /img/episode/default-social.jpg
 podcast_duration: "0:49:26"
-podcast_file: 99764570-c416-474c-b81b-aa3200318f77.mp3
+podcast_file: AQmIEJ0x
 podcast_bytes: ""
 tags: []
 title: 'Episode 4: Data Structures - Introduction'

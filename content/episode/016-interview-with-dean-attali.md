@@ -19,10 +19,12 @@ episode: "16"
 explicit: "no"
 guests:
 - dattali
+hosts:
+- enantz
 images:
 - /img/episode/default-social.jpg
 podcast_duration: "0:40:58"
-podcast_file: 0c12b711-7fb0-4a93-ae26-94ea11784bc2.mp3
+podcast_file: pr-G9ivi
 podcast_bytes: ""
 tags: []
 title: 'Episode 16: Interview with Dean Attali'

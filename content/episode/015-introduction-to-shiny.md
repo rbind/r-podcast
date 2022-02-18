@@ -24,10 +24,12 @@ date: 2015-12-31T21:11:30-05:00
 episode: "15"
 explicit: "no"
 guests: []
+hosts:
+- enantz
 images:
 - /img/episode/default-social.jpg
 podcast_duration: "0:50:51"
-podcast_file: 4f7d1d1d-2e08-4141-b2f7-ebd7ce479311.mp3
+podcast_file: dsIjUSMx
 podcast_bytes: ""
 tags: []
 title: 'Episode 15: Introduction to Shiny'

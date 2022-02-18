@@ -13,11 +13,13 @@ explicit: "no"
 guests:
 - hparker
 - ntierney
+hosts:
+- enantz
 images:
 - img/episode/default-social.jpg
 podcast_bytes: ""
 podcast_duration: ""
-podcast_file: 'd0a7874e-74c7-4166-9b3f-8b8d64b65abe.mp3'
+podcast_file: 'tGduAF14'
 title: "Episode 26: The Podcast Trifecta (rstudio::conf 2019)"
 youtube: "Faw4j2tpk9Q"
 ---

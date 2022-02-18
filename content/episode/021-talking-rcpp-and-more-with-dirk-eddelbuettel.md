@@ -17,8 +17,10 @@ episode: "21"
 explicit: "no"
 guests:
 - deddelbuettel
+hosts:
+- enantz
 podcast_duration: "0:40:00"
-podcast_file: 0ac7aa1e-0dd2-403e-8d3d-eedaad8f625f.mp3
+podcast_file: 4VZQ26aX
 podcast_bytes: ""
 tags: []
 title: 'Episode 21: Talking Rcpp and more with Dirk Eddelbuettel'

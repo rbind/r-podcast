@@ -21,8 +21,10 @@ episode: "22"
 explicit: "no"
 guests:
 - wlandau
+hosts:
+- enantz
 podcast_duration: "1:17:00"
-podcast_file: e53eab6e-651a-44b3-9cd4-9bc3f0bb8c12.mp3
+podcast_file: Sdwuq6Fz
 podcast_bytes: ""
 tags: []
 title: 'Episode 22: Diving in to Drake with Will Landau'

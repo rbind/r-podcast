@@ -13,11 +13,13 @@ explicit: "no"
 guests:
 - mrundel
 - ahill
+hosts:
+- enantz
 images:
 - img/episode/default-social.jpg
 podcast_bytes: ""
 podcast_duration: ""
-podcast_file: 'c18139c8-9fe8-44ff-bf54-1dc7422ffa1d.mp3'
+podcast_file: 'AZAWB2Xx'
 title: "Episode 31: Data Science education with R"
 youtube: "CJGkkRE5re0"
 ---

@@ -12,11 +12,13 @@ episode_image: img/episode/ep30_logo.png
 explicit: "no"
 guests:
 - tkawaf
+hosts:
+- enantz
 images:
 - img/episode/default-social.jpg
 podcast_bytes: ""
 podcast_duration: ""
-podcast_file: '358266ba-7cdc-48ff-a7cb-384d5905b9f7.mp3'
+podcast_file: 'gNWl6FEJ'
 title: "Episode 30: The origins and future of RStudio with Tareef Kawaf"
 youtube: "oOQOnPWwCu4"
 ---

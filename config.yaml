@@ -1,0 +1,111 @@
+baseurl: https://www.r-podcast.org
+languageCode: en-us
+title: The R-Podcast
+theme: castanet
+googleAnalytics: ''
+paginate: '9'
+buildFuture: yes
+taxonomies:
+  category: categories
+  series: series
+  tag: tags
+permalinks:
+  about: /:filename/
+  episode: /:filename/
+ignoreFiles:
+  - \.Rmd$
+  - \.Rmarkdown$
+  - _cache$
+  - \.knit\.md$
+  - \.utf8\.md$
+  - "(^|/)renv$"
+  - "renv\\.lock$"
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+Menu:
+  Main:
+    - identifier: about
+      name: About
+      url: /about
+    - identifier: contact
+      name: Contact
+      url: /contact
+    - identifier: hosts
+      name: Hosts
+      url: /host
+    - identifier: guests
+      name: Guests
+      url: /guest
+    - identifier: blog
+      name: Blog
+      url: /blog
+params:
+  android_subscribe: https://subscribeonandroid.com/feeds.fireside.fm/r-podcast/rss
+  authors:
+    Eric:
+      bio: "The host of the R-Podcast is Eric Nantz, a statistician working in the life sciences industry who has been using R since 2004.  Eric quickly developed a passion for using and learning more about R due in large part to the brilliant and exciting R community and its free and open source heritage, much like his favorite operating system Linux. In addition to this podcast, Eric is the creator and host of the Shiny Developer Series and the R-Weekly Highlights Podcast."
+      thumbnail: https://i.imgur.com/CsxqGah.jpg
+      social:
+        github: rpodcast
+        twitter: thercast
+        linkedin: eric-nantz
+        twitch: rpodcast
+        youtube: shinydeveloperseries
+  copyright_notice: "The R-Podcast is licensed under a Creative Commons Attribution 4.0 International License.  Web site powered by [Hugo](https://gohugo.io/) and [blogdown](https://github.com/rstudio/blogdown) all created within [R](https://www.r-project.org/)"
+  description: Giving practical advice on how to use R for powerful and innovative data analyses.
+  disqusShortname: ''
+  enable_jumbo: 'false'
+  feed:
+    copyright: Copyright 2022 Eric Nantz
+    itunes_author: Eric Nantz
+    #itunes_first_sub_category: Software How-To
+    itunes_image: https://i.imgur.com/Mr70QS9.png
+    itunes_owner_email: thercast@gmail.com
+    itunes_owner_name: Eric Nantz
+    #itunes_second_sub_category: Tech News
+    itunes_subtitle: ""
+    itunes_summary: The R-Podcast is a podcast for both new and experienced R users who want to learn more about using R to conduct innovative data analyses.
+    itunes_top_category: Technology
+    language: en-us
+  itunes_subscribe: https://itunes.apple.com/us/podcast/the-r-podcast/id1140581792
+  links:
+    shinydevseries:
+      name: Shiny Developer Series
+      url: https://shinydevseries.com
+    rweekly:
+      name: RWeekly
+      url: https://rweekly.org
+  mailchimp_subscribe: //r-podcast.us14.list-manage.com/subscribe/post?u=060990021bb38f2dbcc6a55ac&amp;id=6aca215b46
+  mainSections: episode
+  media_prefix: "https://player.fireside.fm/v2/yS9jeZiZ+"
+  pocketcasts_subscribe: http://pcasts.in/feed/feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss
+  podlove:
+    subscribe_color: '#585e6c'
+    subscribe_cover: https://i.imgur.com/Mr70QS9.png
+    subscribe_description: 'The R-Podcast is a podcast for both new and experienced R users who want to learn more about using R to conduct innovative data analyses.'
+    subscribe_feed_format: mp3
+    subscribe_feed_type: audio
+    subscribe_format: rectangle
+    subscribe_language: en
+    subscribe_size: medium
+    subscribe_style: filled
+    subscribe_subtitle: ''
+    subscribe_title: 'The R-Podcast'
+  realfavicongenerator:
+    mask_icon_color: '#5bbad5'
+    msapplication_tilecolor: '#2b5797'
+    theme_color: '#ffffff'
+  show_next_upcoming: 'false'
+  site_layout: row
+  site_theme: blue
+  social:
+    github: rpodcast
+    gitlab: rpodcast
+    linkedin: eric-nantz
+    twitch: rpodcast
+    twitter: thercast
+    twitter_domain: arresteddevops.com
+    youtube: TheRPodcast
+  soundcloud_subscribe: http://feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss

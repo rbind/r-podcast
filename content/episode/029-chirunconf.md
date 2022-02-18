@@ -15,11 +15,13 @@ guests:
 - blistyg
 - wlandau
 - cclark
+hosts:
+- enantz
 images:
 - img/episode/default-social.jpg
 podcast_bytes: ""
 podcast_duration: ""
-podcast_file: 'b8094da6-e9eb-4ec8-8ccd-f3d924f6435d.mp3'
+podcast_file: 'UNz5u2Mg'
 title: "Episode 29: Chicago R Unconference Recap"
 youtube: "0833oUT59nY"
 ---
