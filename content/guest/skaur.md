@@ -1,7 +1,7 @@
 ---
 Facebook: ""
 GitHub: "SaranjeetKaur"
-Linkedin: "saranjeet-kaur"
+Linkedin: "saranjeet-kaur-48ab769b"
 Thumbnail: "img/guest/skaur.jpg"
 Twitter: "qwertyquesting"
 Type: guest
