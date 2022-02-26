@@ -5,7 +5,7 @@ Linkedin: "saranjeet-kaur-48ab769b"
 Thumbnail: "img/guest/skaur.jpg"
 Twitter: "qwertyquesting"
 Type: guest
-Website: "https://www.researchgate.net/profile/Saranjeet_Kaur_Bhogal"
+Website: "https://saranjeetkaur.github.io/About-Me"
 date: 2022-02-18
 title: "Saranjeet Kaur Bhogal"
 ---
